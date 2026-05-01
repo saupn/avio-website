@@ -1,0 +1,514 @@
+{
+  "AboutPage": {
+    "hero": {
+      "eyebrow": "ABOUT US",
+      "title": "We build software that helps people become who they want to be."
+    },
+    "story": {
+      "title": "Our story",
+      "p1": "Avio Group was founded on a question: in an era when artificial intelligence can write essays, generate images, and answer almost any factual question instantly, what is the most valuable thing technology can still do for a human being? After years of working with people across different industries — entrepreneurs, professionals, students, parents — we kept coming back to the same answer. The bottleneck is not knowledge. The bottleneck is consistent action.",
+      "p2": "People know they should sleep more. They know they should exercise. They know they should set boundaries at work, communicate more honestly with their partners, save more money, learn the skill that will move their career forward. The information is freely available. What is missing is a system that helps them act on what they already know, day after day, until the action becomes who they are.",
+      "p3": "That insight became Avio Group. We exist to build that system. Our flagship product Vitaro is the first expression of this mission, and our long-term vision is to extend this approach across multiple domains of human life — physical wellbeing, mental clarity, professional growth, and meaningful relationships."
+    },
+    "mission": {
+      "title": "Our mission",
+      "quote": "To help one million people sustain meaningful action long enough that change actually happens — and to do it in a way that respects their time, their privacy, and their intelligence."
+    },
+    "company": {
+      "title": "Company information",
+      "fields": {
+        "legalName": "Legal name",
+        "vietnameseName": "Vietnamese name",
+        "duns": "D-U-N-S Number",
+        "country": "Country of registration",
+        "industry": "Industry",
+        "founded": "Year founded",
+        "product": "Primary product",
+        "website": "Website",
+        "verification": "Verification",
+        "legalNameValue": "Avio Group Company Limited",
+        "vietnameseNameValue": "Công ty TNHH Avio Group",
+        "dunsValue": "626314981",
+        "countryValue": "Vietnam",
+        "industryValue": "Technology / Software Development",
+        "foundedValue": "2024",
+        "productValue": "Vitaro — Behavior-change platform",
+        "websiteValue": "aviogroup.eco",
+        "verificationValue": "Verified by Dun & Bradstreet"
+      }
+    },
+    "values": {
+      "title": "What we value",
+      "honesty": {
+        "title": "Honesty",
+        "body": "We tell users what our product can do, what it cannot do, and what it requires from them. We do not promise outcomes we cannot deliver."
+      },
+      "depth": {
+        "title": "Depth",
+        "body": "We build for users who are willing to do real work over real time. Our products are not designed for people looking for shortcuts, and we are honest about that."
+      },
+      "care": {
+        "title": "Care",
+        "body": "Behavior change is personal and sometimes vulnerable. We design with awareness that on the other end of every screen is a real person with a real life, not a metric."
+      },
+      "independence": {
+        "title": "Independence",
+        "body": "We build at our own pace, on our own terms. Our priority is making products that work — not maximizing growth at the expense of quality."
+      }
+    }
+  },
+  "Common": {
+    "CONTACT_EMAIL": "hello@aviogroup.eco",
+    "PRIVACY_EMAIL": "privacy@aviogroup.eco",
+    "PRESS_EMAIL": "press@aviogroup.eco",
+    "SUPPORT_EMAIL": "support@aviogroup.eco"
+  },
+  "ContactPage": {
+    "title": "Get in touch with Avio Group.",
+    "lead": "We read every message we receive. Whether you are a user with a question, a journalist working on a story, an investor exploring a partnership, or someone interested in joining our team, we would love to hear from you.",
+    "info": {
+      "general": "General inquiries",
+      "privacy": "Privacy & data",
+      "press": "Press",
+      "support": "Support (Vitaro)",
+      "country": "Country",
+      "countryValue": "Vietnam",
+      "duns": "D-U-N-S"
+    },
+    "responseNote": "We typically respond within two business days. For urgent matters related to user safety or data privacy, please mark your subject line accordingly.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "reason": "Reason for contact",
+      "reasonGeneral": "General",
+      "reasonPress": "Press",
+      "reasonPartnership": "Partnership",
+      "reasonSupport": "Support",
+      "reasonOther": "Other",
+      "message": "Message",
+      "submit": "Send message",
+      "thanks": "Thank you. Please email us directly at hello@aviogroup.eco while our form integration is being completed."
+    }
+  },
+  "Footer": {
+    "companyName": "Avio Group Company Limited",
+    "tagline": "Building technology that helps people live better.",
+    "dunsLabel": "D-U-N-S:",
+    "dunsValue": "626314981",
+    "navigateHeading": "Navigate",
+    "legalHeading": "Legal",
+    "touchHeading": "Get in touch",
+    "helloEmail": "hello@aviogroup.eco",
+    "country": "Vietnam",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "dataProtection": "Data Protection",
+    "copyrightEn": "© 2026 Avio Group Company Limited. All rights reserved.",
+    "copyrightVi": "© 2026 Công ty TNHH Avio Group. Mọi quyền được bảo lưu.",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "products": "Products",
+      "philosophy": "Philosophy",
+      "contact": "Contact"
+    }
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "AVIO GROUP",
+      "title": "Building Technology That Helps People Live Better.",
+      "subtitle": "We create digital ecosystems that turn intentions into lasting habits. Our flagship product, Vitaro, helps individuals identify the root causes of their challenges and follow personalized protocols to transform their lives — one consistent action at a time.",
+      "primaryCta": "Discover Vitaro",
+      "secondaryCta": "About Us",
+      "imageAlt": "Abstract calm background suggesting clarity and forward motion"
+    },
+    "whoWeAre": {
+      "eyebrow": "WHO WE ARE",
+      "title": "A technology company with a clear mission.",
+      "p1": "Avio Group Company Limited is a Vietnam-based technology company building behavior-change software for the global market. Founded with the conviction that the most valuable products of the AI era will not be those that automate human effort, but those that help humans direct their effort toward what truly matters, we operate at the intersection of behavioral science, software engineering, and applied artificial intelligence.",
+      "p2": "Our work is grounded in a simple observation: most people don't fail because they lack information. They fail because they cannot sustain action long enough for change to take hold. Books are bought but unread. Programs are started but unfinished. Plans are made but abandoned. We build software that addresses this universal gap directly — not through motivation, which is fleeting, but through structured systems that make the right behavior the easiest one to repeat.",
+      "p3": "Avio Group is registered in Vietnam and holds D-U-N-S Number 626314981, verified by Dun & Bradstreet. We are committed to operating with full transparency, complying with international data protection standards including GDPR, and building products that are safe, ethical, and genuinely useful to the people who use them.",
+      "imageAlt": "Mission-driven team environment and thoughtful collaboration"
+    },
+    "vitaro": {
+      "eyebrow": "OUR FLAGSHIP PRODUCT",
+      "title": "Meet Vitaro — the operating system for your life.",
+      "p1": "Vitaro is a behavior-change platform that helps people identify the true root causes of their personal challenges and follow structured, science-based protocols to create lasting change. Whether someone is struggling with stress, unclear boundaries, low self-worth, lack of focus, or imbalance in their daily life, Vitaro provides a personalized roadmap built around six universal life principles.",
+      "p2": "What makes Vitaro different is its commitment to depth over speed. We don't promise transformation in seven days. We build systems that help people show up consistently for sixty, ninety, and three hundred and sixty-five days — the timeframe over which real change actually happens. Through a combination of intelligent guidance, daily micro-practices, community support, and optional human coaching, Vitaro becomes the infrastructure people return to whenever they want to grow.",
+      "features": {
+        "root": {
+          "title": "Root Cause Analysis",
+          "description": "Stop treating symptoms. Vitaro guides you through a structured conversation to identify what is actually driving your challenges, so you address the right thing from the start."
+        },
+        "protocols": {
+          "title": "Personalized Protocols",
+          "description": "Receive a clear, day-by-day roadmap tailored to your specific situation. Each protocol breaks transformation into small, executable actions you can complete in a few minutes a day."
+        },
+        "rhythm": {
+          "title": "Daily Rhythm System",
+          "description": "A morning anchor and an evening close — two short touchpoints that build momentum without consuming your time. Most days take less than seven minutes total."
+        },
+        "community": {
+          "title": "Supportive Community",
+          "description": "Join others walking the same path. Vitaro's community layer provides accountability and shared experience without judgment, comparison, or the noise of social media."
+        }
+      },
+      "cta": "Learn more about Vitaro"
+    },
+    "philosophy": {
+      "eyebrow": "OUR PHILOSOPHY",
+      "title": "We don't sell motivation. We design mechanisms.",
+      "intro": "Every product we build is grounded in a set of principles that guide what we make, how we make it, and why. These are not marketing slogans. They are the operating constraints we use when we decide what gets built and what gets cut.",
+      "principles": {
+        "rhythm": {
+          "title": "Rhythm over intensity",
+          "description": "Sustainable consistency creates lasting change. Bursts of motivation do not. We design products that prioritize showing up over showing off."
+        },
+        "root": {
+          "title": "Root over symptom",
+          "description": "The visible problem is rarely the real problem. Our products are built to surface root causes — even when that is the slower, harder path — because addressing roots is the only path to durable change."
+        },
+        "mechanism": {
+          "title": "Mechanism over willpower",
+          "description": "We do not ask users to be more disciplined. We design systems where doing the right thing is the easiest thing. The environment shapes the behavior."
+        },
+        "substance": {
+          "title": "Substance over performance",
+          "description": "We build products that work in real lives, not products that look good in marketing materials. Honest progress matters more than impressive numbers."
+        },
+        "privacy": {
+          "title": "Privacy as a default",
+          "description": "Behavioral data is among the most sensitive data a person can share. We treat it accordingly: minimal collection, strong encryption, regional storage, and full user control over deletion and export."
+        }
+      }
+    },
+    "stats": {
+      "eyebrow": "BY THE NUMBERS",
+      "title": "Building for the long term.",
+      "principles": {
+        "value": "6",
+        "label": "Universal life principles powering every Vitaro protocol"
+      },
+      "foundation": {
+        "value": "60",
+        "label": "Days in a Foundation Protocol — the timeframe over which real change becomes visible"
+      },
+      "mechanisms": {
+        "value": "7",
+        "label": "Behavior-change mechanisms working together to keep users on track"
+      },
+      "encryption": {
+        "value": "100%",
+        "label": "Of user data encrypted at rest and in transit, stored in regional servers"
+      }
+    },
+    "cta": {
+      "title": "Ready to see what we're building?",
+      "subtitle": "Vitaro is currently in development for iOS and Android. Visit our product page to learn more, or get in touch if you'd like to partner with us, write about our work, or join our team.",
+      "primaryCta": "Explore Vitaro",
+      "secondaryCta": "Contact Us"
+    }
+  },
+  "Metadata": {
+    "siteName": "Avio Group",
+    "defaultTitle": "Avio Group — Building Technology That Helps People Live Better",
+    "defaultDescription": "Avio Group Company Limited develops Vitaro, a behavior-change platform that helps people identify root causes and follow personalized protocols for lasting transformation.",
+    "home": {
+      "title": "Home",
+      "description": "Avio Group builds behavior-change technology. Discover Vitaro—personalized protocols, daily rhythm, and privacy-first design for real transformation."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Learn about Avio Group Company Limited—mission, story, D-U-N-S 626314981, and how we build software that sustains meaningful action."
+    },
+    "products": {
+      "title": "Vitaro Product",
+      "description": "Vitaro helps you find root causes, follow structured protocols, and build a daily rhythm—behavior change built for real life on iOS and Android."
+    },
+    "philosophy": {
+      "title": "Philosophy",
+      "description": "How Avio Group thinks about technology, motivation vs. mechanisms, implementation over information, and designing for long-term change."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Contact Avio Group for partnerships, press, support, or careers. Emails, Vietnam registration details, and D-U-N-S 626314981 for verification."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "Privacy Policy for Avio Group and Vitaro: data collection, use, security, retention, GDPR rights, cookies, transfers, and how to contact us."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "description": "Terms of Service for Avio Group websites and Vitaro: acceptable use, accounts, IP, disclaimers (non-medical), liability, and governing law in Vietnam."
+    }
+  },
+  "Nav": {
+    "brand": "Avio Group",
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "philosophy": "Philosophy",
+    "contact": "Contact",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "logoAlt": "Avio Group logo"
+  },
+  "PhilosophyPage": {
+    "hero": {
+      "eyebrow": "PHILOSOPHY",
+      "title": "How we think about technology, behavior, and the human life it should serve."
+    },
+    "bottleneck": {
+      "p1": "In every previous generation, knowledge was scarce and effort was abundant. People knew what they wanted to do — they just couldn't always find out how to do it. Books were rare. Teachers were geographically constrained. Expertise was hoarded by guilds and institutions. To improve your life, you first had to find out what improvement even looked like.",
+      "p2": "Today, that scarcity has inverted. Knowledge is effectively unlimited. Anyone with an internet connection can read about productivity, fitness, communication, finance, philosophy, parenting, or career strategy until the end of their life and never reach the bottom of what is freely available. The constraint is no longer information. The constraint is implementation.",
+      "p3": "We build for that constraint. Avio Group exists to design tools that close the gap between what people know they should do and what they actually do — repeatedly, over months and years, until the action shapes the person."
+    },
+    "motivation": {
+      "p1": "Most behavior-change products fail for the same reason: they sell motivation. Motivation is real, but motivation is also chemical, situational, and short-lived. It surges when you watch a video that moves you. It collapses when you are tired, stressed, hungry, or bored. Anyone who has tried to change a behavior using only motivation knows the cycle: a strong start, a slow decline, and an eventual return to baseline. The product gets blamed. Usually, the product was never the problem. The model was.",
+      "p2": "The behavioral science is unambiguous on this. Decades of research from Stanford, Harvard, and behavioral economics laboratories around the world have shown that lasting behavior change is not driven by feeling motivated. It is driven by environment, friction, identity, and well-designed feedback loops. When the right action requires high willpower, people fail. When the right action is engineered to be the easy default, people succeed — even when they do not feel particularly inspired on any given day.",
+      "p3": "This is why we build mechanisms instead of motivation. The product should carry the weight that willpower cannot. The system should remember when the user forgets. The design should reduce friction at the exact points where users typically give up. None of this is glamorous, but it is what actually works — and we would rather build something quietly effective than something loudly inspiring."
+    },
+    "instead": {
+      "intro": "If we are not selling motivation, what are we offering? A short list of design commitments that show up in everything we ship.",
+      "items": {
+        "one": {
+          "title": "01. We build mechanisms, not motivation",
+          "body": "Every feature in our products has a behavioral function — a specific job it is doing in the user's psychology. We do not include features because they look good in marketing screenshots. We include them because they help the user keep going on the day they want to quit."
+        },
+        "two": {
+          "title": "02. We design for the day you don't feel like it",
+          "body": "Most products are designed for the user on day one, when motivation is high. We design for day fourteen, when motivation has collapsed. The product must work harder when the user has less to give — that is the entire test of whether a behavior-change tool actually works."
+        },
+        "three": {
+          "title": "03. We respect your time",
+          "body": "Long sessions are an indicator that a product is poorly designed, not that it is comprehensive. Our daily touchpoints are deliberately short — most under five minutes — because attention is the most valuable resource our users have, and we refuse to abuse it."
+        },
+        "four": {
+          "title": "04. We never gamify what should be taken seriously",
+          "body": "Streaks, badges, and leaderboards work for trivia apps. They do not work for the serious work of changing how a person lives. Cheap dopamine creates fragile motivation that collapses the moment the rewards stop. We design for intrinsic engagement, not extrinsic addiction."
+        },
+        "five": {
+          "title": "05. We are honest about what change actually requires",
+          "body": "Change is not fast. Change is not painless. Change is not guaranteed. We refuse to make promises we cannot keep, and we refuse to flatter our users with claims that are not true. The honesty is part of the product — because users who understand the real nature of change are the ones who actually achieve it."
+        }
+      }
+    }
+  },
+  "PrivacyPage": {
+    "title": "Privacy Policy",
+    "updatedLabel": "Last updated",
+    "updatedDate": "May 1, 2026",
+    "intro": {
+      "title": "Introduction",
+      "p1": "Avio Group Company Limited (“Avio Group,” “we,” “us,” or “our”) is a Vietnam-based technology company registered in Vietnam and identified by D-U-N-S Number 626314981 (verified by Dun & Bradstreet). We develop Vitaro, a behavior-change platform, and operate the corporate website at aviogroup.eco.",
+      "p2": "This Privacy Policy explains how we collect, use, disclose, retain, and protect information when you visit aviogroup.eco or use Vitaro on supported devices. If you have privacy questions, contact us at privacy@aviogroup.eco. We aim to respond to privacy inquiries promptly and, where applicable, within the timelines described below.",
+      "p3": "By using our website or app, you acknowledge this policy. If you do not agree, please discontinue use. We may update this policy from time to time; material changes will be communicated as described in the “Changes to this policy” section."
+    },
+    "collect": {
+      "title": "What information we collect",
+      "p1": "Information you provide directly may include account details such as your name and email address; descriptions of challenges and context you share in guided sessions; responses to daily check-ins; and optional profile fields you choose to provide.",
+      "p2": "Information collected automatically may include device type, operating system version, app version, approximate regional settings needed for localization, anonymized usage analytics, and crash or stability diagnostics that help us improve reliability.",
+      "p3": "Information from third parties may include basic profile details from authentication providers (for example, Google or Apple Sign-In) if you choose those sign-in methods. We only receive what the provider shares according to your consent and their policies."
+    },
+    "use": {
+      "title": "How we use information",
+      "p1": "We use information to provide and personalize the service; to generate and adapt behavior-change protocols and guidance you request; to deliver notifications you opt into; and to maintain account security.",
+      "p2": "We also use aggregated analytics to understand product quality and prioritize engineering work, and we process information where necessary to comply with applicable law, enforce our terms, and protect users.",
+      "p3": "We do not sell personal data. We do not train external artificial intelligence models on your content without explicit opt-in consent. We do not share personal information with advertisers for their own marketing purposes."
+    },
+    "share": {
+      "title": "How we share information",
+      "p1": "We may share information with processors who help us operate the service — for example, hosting, infrastructure, analysis, email delivery, or customer support — subject to strict contractual confidentiality and security obligations.",
+      "p2": "We may disclose information if required by lawful process, provided we assess validity and seek to narrow requests where appropriate. If Avio Group is involved in a merger, acquisition, or asset transfer, information may transfer subject to continued protections communicated to users.",
+      "p3": "We may publish aggregate statistics that cannot reasonably identify individuals. Research uses, if any, rely on de-identified or aggregated datasets with technical and organizational safeguards."
+    },
+    "security": {
+      "title": "Data security",
+      "p1": "We apply encryption at rest (for example, AES-256 where supported by our infrastructure providers) and encryption in transit using modern TLS (1.2+). Administrative access is limited, logged where appropriate, and reviewed against least-privilege principles.",
+      "p2": "We conduct periodic security reviews and dependency hygiene work commensurate with our stage and risk profile. No method of storage or transmission is perfectly secure; we work continuously to reduce realistic risks to user data.",
+      "p3": "Where conversations contain acute crisis content, we apply automatic deletion policies designed to avoid long-term retention of highly sensitive material beyond what is necessary for immediate safety workflows, including deletion within approximately one hour for designated crisis-related content categories."
+    },
+    "retention": {
+      "title": "Data retention",
+      "p1": "For active accounts, we retain personal information as needed to deliver the service, maintain integrity, resolve disputes, and meet legal obligations. Features that require historical context may retain relevant data until you delete it or close your account according to product controls.",
+      "p2": "When you delete an account, we may apply a grace period (for example, up to 30 days) to prevent accidental loss and to complete billing or abuse investigations, followed by erasure or irreversible de-identification consistent with backups and legal holds.",
+      "p3": "Anonymized analytics may be retained indefinitely because they are not linkable to an identifiable individual. Crisis-oriented content is not intended for long-term storage; automated deletion complements our broader minimization practices."
+    },
+    "rights": {
+      "title": "Your rights (GDPR and similar rights)",
+      "p1": "Depending on your jurisdiction, you may have rights including: access to your personal data; rectification of inaccurate data; erasure (“right to be forgotten”); portability in a machine-readable format; objection to specific processing; and restriction in certain cases.",
+      "p2": "You may also lodge a complaint with a competent supervisory authority. We support these principles globally where feasible and document our processes to respond consistently regardless of whether a specific statute applies in your location.",
+      "p3": "To exercise rights, email privacy@aviogroup.eco with sufficient detail to verify your identity. We typically respond within 30 days for privacy rights requests, subject to complexity and legal exceptions. We do not charge a fee unless requests are manifestly unfounded or excessive."
+    },
+    "children": {
+      "title": "Children’s privacy",
+      "p1": "Vitaro and our corporate websites are not directed to children under 13 (or the higher minimum age required in your jurisdiction). We do not knowingly collect personal information from children.",
+      "p2": "If you believe a child has provided information, contact us immediately at privacy@aviogroup.eco so we can investigate and delete data where appropriate. Parents and guardians should supervise minors’ online activities and device permissions.",
+      "p3": "Age gates, parental controls, and device-level restrictions can supplement our policies. We encourage families to use platform features designed to protect younger users."
+    },
+    "transfers": {
+      "title": "International data transfers",
+      "p1": "We seek regional placement of storage and processing so that user data remain close to the regions we serve, aligned with product configuration and infrastructure availability. Geography may influence latency, redundancy, and legal obligations.",
+      "p2": "Where cross-border transfers occur (for example, within a cloud provider’s global network), we implement safeguards such as Standard Contractual Clauses or other approved mechanisms, supplemented by technical measures including encryption and access controls.",
+      "p3": "We use responsible signals — including account country selection where collected — to determine default regions while recognizing that IP-based inference is imperfect. Users may contact us for questions about regional handling."
+    },
+    "cookies": {
+      "title": "Cookies and tracking",
+      "p1": "We use minimal cookies and similar technologies. Essential cookies support core functionality such as security, load balancing, and language preference consistency. We do not deploy third-party advertising cookies on our corporate site.",
+      "p2": "Where analytics technologies rely on cookies or local storage, we prefer aggregated or pseudonymous identifiers and honor browser settings that signal “Do Not Track” where practical, noting industry inconsistency in DNT standards.",
+      "p3": "You can control cookies through browser settings. Blocking essential cookies may degrade functionality. We document major categories in internal records available for audit and regulatory inquiry."
+    },
+    "changes": {
+      "title": "Changes to this policy",
+      "p1": "We may revise this policy to reflect new features, legal requirements, or clarifications. When changes are material, we will notify users by email (where we have an address) and through in-app notices when Vitaro is generally available, at least 30 days before enforcement unless immediate changes are legally required.",
+      "p2": "Continued use after the notice period constitutes acceptance unless applicable law requires express consent for specific new processing. If you disagree with an update, you should stop using the service and may request deletion as permitted.",
+      "p3": "Prior versions can be provided upon reasonable request for transparency. We archive policy text changes with timestamps internally."
+    },
+    "contact": {
+      "title": "Contact us",
+      "p1": "Privacy inquiries: privacy@aviogroup.eco",
+      "p2": "Postal address: Avio Group Company Limited, Vietnam (please email for the appropriate mailing line if needed for formal correspondence).",
+      "p3": "For general questions unrelated to privacy, hello@aviogroup.eco. We aim to acknowledge privacy communications within two business days."
+    }
+  },
+  "ProductsPage": {
+    "hero": {
+      "eyebrow": "VITARO",
+      "title": "Find your root. Follow your path. Live in motion.",
+      "subtitle": "Vitaro is a behavior-change platform that helps people identify the root causes of their challenges and follow personalized protocols to create lasting transformation. Built for the long term, designed for real life.",
+      "imageAlt": "Vitaro product visual representing balance and momentum"
+    },
+    "howItWorks": {
+      "title": "How Vitaro works",
+      "steps": {
+        "step1": {
+          "title": "01. Describe what's challenging you",
+          "body": "You begin with a single open question: what is making your life harder right now? Vitaro listens without judgment."
+        },
+        "step2": {
+          "title": "02. Discover the root cause",
+          "body": "Through a guided conversation that takes about ten minutes, Vitaro helps you see beyond the surface symptom to the underlying pattern that is actually driving your situation."
+        },
+        "step3": {
+          "title": "03. Receive your protocol",
+          "body": "Based on your root cause, you receive a personalized protocol — a clear, day-by-day roadmap of small actions designed to be completed in just a few minutes per day."
+        },
+        "step4": {
+          "title": "04. Build your rhythm",
+          "body": "Day by day, with morning anchors, evening reflections, and gentle accountability, you build a rhythm that holds even when motivation fades. Real change happens here."
+        }
+      }
+    },
+    "principles": {
+      "title": "Six principles. One framework for a balanced life.",
+      "intro": "Every Vitaro protocol is built around six universal principles that show up in every culture, every era, and every meaningful philosophy of how to live well. They are not new ideas. They are old ideas, applied through modern tools.",
+      "cards": {
+        "boundaries": {
+          "title": "Boundaries",
+          "body": "Knowing when to say no — and when to say yes — is the foundation of a life you actually own."
+        },
+        "respect": {
+          "title": "Respect",
+          "body": "How you treat yourself, others, and the world around you sets the ceiling for everything else you build."
+        },
+        "mastery": {
+          "title": "Mastery",
+          "body": "Lasting confidence does not come from positive thinking. It comes from getting visibly better at things that matter."
+        },
+        "ownership": {
+          "title": "Ownership",
+          "body": "Taking responsibility for what is yours to take responsibility for — no more, and no less — is the path to real freedom."
+        },
+        "clarity": {
+          "title": "Clarity",
+          "body": "Most suffering comes from confusion about what is actually happening. Clarity is the first move toward any change."
+        },
+        "balance": {
+          "title": "Balance",
+          "body": "A life that wins one dimension and loses the others is not a life that wins. We build for sustainability across all of who you are."
+        }
+      }
+    },
+    "data": {
+      "title": "Your data, treated with the seriousness it deserves.",
+      "p1": "Vitaro handles personal information that, by its nature, is more sensitive than what most apps collect. We treat that responsibility seriously. All data is encrypted both at rest and in transit. Conversations involving acute emotional content are auto-deleted within an hour. We do not sell user data. We do not train external AI models on user content without explicit, opt-in consent.",
+      "p2": "You have full control over your information at all times: you can export everything we have about you in a machine-readable format, or delete your account and all associated data with a single request. We comply with GDPR and follow international best practices for data minimization, regional server placement, and access control."
+    },
+    "comingSoon": {
+      "title": "Coming to iOS and Android in 2026.",
+      "body": "Vitaro is currently in development. We are building carefully, validating with real users, and prioritizing quality over speed. If you would like to be among the first to know when Vitaro launches, please get in touch.",
+      "cta": "Get in touch"
+    }
+  },
+  "TermsPage": {
+    "title": "Terms of Service",
+    "updatedLabel": "Last updated",
+    "updatedDate": "May 1, 2026",
+    "acceptance": {
+      "title": "1. Acceptance of terms",
+      "p1": "These Terms of Service (“Terms”) govern your access to and use of websites operated by Avio Group Company Limited (“Avio Group”) — including aviogroup.eco — and the Vitaro mobile and web experiences we make available (collectively, the “Services”).",
+      "p2": "By creating an account, downloading Vitaro, or otherwise using the Services, you agree to these Terms and to our Privacy Policy. If you are using the Services on behalf of an organization, you represent that you have authority to bind that organization.",
+      "p3": "If you do not agree, do not use the Services. We may refuse service, suspend accounts, or limit features where permitted by law and these Terms."
+    },
+    "services": {
+      "title": "2. Description of services",
+      "p1": "Vitaro is a behavior-support platform designed to help users reflect on challenges, identify patterns, and follow structured, self-development-oriented protocols. Avio Group provides software infrastructure, educational content experiences, and related communications as described in-product.",
+      "p2": "Features may evolve during development and release phases. We may add, modify, or retire features to improve safety, quality, or compliance. We will provide reasonable advance notice for materially adverse changes to paid offerings if and when they exist.",
+      "p3": "The corporate website provides general information about Avio Group, verification information, and links to legal documents. It does not, by itself, provide personalized coaching or clinical services."
+    },
+    "accounts": {
+      "title": "3. User accounts and responsibilities",
+      "p1": "You must provide accurate registration information and keep credentials confidential. You are responsible for activity under your account unless you notify us promptly of unauthorized access.",
+      "p2": "You must be old enough to use the Services under applicable law in your jurisdiction. You may not share accounts in ways that circumvent security, licensing, or abuse detection.",
+      "p3": "We may require re-verification, password resets, or additional authentication where we detect suspicious activity or as required for regulatory compliance."
+    },
+    "acceptableUse": {
+      "title": "4. Acceptable use",
+      "p1": "You agree not to misuse the Services. Prohibited conduct includes: attempting to probe, scan, or test the vulnerability of our systems without authorization; interfering with other users; uploading malware; reverse engineering except to the limited extent permitted by law; harvesting data without consent; or using the Services to stalk, harass, or harm others.",
+      "p2": "You may not use automated means to access the Services in ways that impose unreasonable load, circumvent rate limits, or scrape personal data. You may not impersonate Avio Group, our staff, or other users.",
+      "p3": "We may investigate violations and cooperate with law enforcement where legally required. Repeat or serious abuse may result in termination."
+    },
+    "ip": {
+      "title": "5. Intellectual property",
+      "p1": "Avio Group and its licensors own all rights in the Services, including software, branding, logos, documentation, and curated content, subject to open-source licenses where applicable.",
+      "p2": "You retain rights to content you create and submit (“Your Content”). You grant Avio Group a worldwide, non-exclusive license to host, process, transmit, display, and adapt Your Content solely to operate, secure, improve, and provide the Services and as described in our Privacy Policy.",
+      "p3": "Feedback you provide may be used by Avio Group without obligation or compensation, except where prohibited by law. You may not remove proprietary notices or misuse Avio Group trademarks."
+    },
+    "medical": {
+      "title": "6. Disclaimer of medical and clinical claims",
+      "disclaimerBold": "Vitaro is a behavioral-support platform. It is not a medical device, not a substitute for professional mental health treatment, and not designed to diagnose, treat, cure, or prevent any disease or psychological condition. The protocols, content, and guidance provided through Vitaro are educational and self-development tools. They do not constitute medical advice, psychological treatment, or therapy. If you are experiencing a mental health crisis, suicidal thoughts, or symptoms of a serious mental health condition, please contact local emergency services or a licensed mental health professional immediately. Avio Group is not responsible for outcomes that result from using Vitaro as a substitute for professional medical or mental health care.",
+      "p2": "Nothing on aviogroup.eco or within Vitaro creates a clinician–patient relationship. If you require clinical services, consult qualified professionals in your jurisdiction.",
+      "p3": "You are responsible for seeking urgent help when needed. Do not rely on the Services as your only source of safety planning."
+    },
+    "liability": {
+      "title": "7. Limitation of liability",
+      "p1": "To the maximum extent permitted by applicable law, the Services are provided “as is” and “as available,” without warranties of any kind, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.",
+      "p2": "To the maximum extent permitted by law, Avio Group and its affiliates, directors, employees, and suppliers will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits, revenues, data, or goodwill arising from your use of the Services.",
+      "p3": "Where limitation cannot apply by law, our aggregate liability for claims arising out of the Services will not exceed the greater of (a) the amounts you paid to Avio Group for the Services in the six months preceding the claim, or (b) fifty U.S dollars (USD) if no fees were paid. Multiple claims do not expand this cap."
+    },
+    "termination": {
+      "title": "8. Termination",
+      "p1": "You may stop using the Services at any time and may request account deletion as described in our Privacy Policy.",
+      "p2": "We may suspend or terminate access if you materially breach these Terms, create risk or legal exposure, or if we discontinue a product with reasonable notice except where immediate termination is legally required.",
+      "p3": "Upon termination, certain provisions that by their nature should survive — including intellectual property, disclaimers, limitations of liability, and governing law — will survive."
+    },
+    "changes": {
+      "title": "9. Changes to terms",
+      "p1": "We may modify these Terms to reflect changes to our Services or legal requirements. We will post updated Terms with a revised “Last updated” date and, where material, provide additional notice through email or in-app messaging when Vitaro is generally available.",
+      "p2": "Continued use after changes become effective constitutes acceptance unless applicable law requires separate consent. If you disagree, discontinue use and delete your account where available.",
+      "p3": "We archive prior versions internally and can provide copies on reasonable request for transparency."
+    },
+    "law": {
+      "title": "10. Governing law",
+      "p1": "These Terms are governed by the laws of Vietnam, excluding conflict-of-law rules that would require applying another jurisdiction’s laws, subject to non-waivable consumer protections where you reside.",
+      "p2": "Venue for disputes will be courts located in Vietnam with competent jurisdiction, unless mandatory law gives you the right to bring claims elsewhere.",
+      "p3": "You may have additional rights under local consumer regulations that these Terms cannot override."
+    },
+    "contact": {
+      "title": "11. Contact",
+      "p1": "Questions about these Terms: hello@aviogroup.eco",
+      "p2": "Legal or regulatory inquiries should include sufficient detail and, where appropriate, official letterhead references.",
+      "p3": "We publish corporate verification information (including D-U-N-S 626314981) to assist partners, stores, and users seeking legitimate contact paths."
+    }
+  }
+}

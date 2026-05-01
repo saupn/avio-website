@@ -1,0 +1,514 @@
+{
+  "AboutPage": {
+    "hero": {
+      "eyebrow": "VỀ CHÚNG TÔI",
+      "title": "Chúng tôi xây dựng phần mềm giúp con người trở thành người họ muốn trở thành."
+    },
+    "story": {
+      "title": "Câu chuyện của chúng tôi",
+      "p1": "Avio Group được thành lập từ một câu hỏi: trong kỷ nguyên trí tuệ nhân tạo có thể viết bài luận, tạo hình ảnh và trả lời hầu hết các câu hỏi thông tin trong tích tắc, điều có giá trị nhất mà công nghệ vẫn có thể làm cho con người là gì? Sau nhiều năm làm việc với những người thuộc nhiều ngành nghề khác nhau — doanh nhân, người làm chuyên môn, sinh viên, các bậc cha mẹ — chúng tôi liên tục trở lại với cùng một câu trả lời. Điểm tắc nghẽn không phải là kiến thức. Điểm tắc nghẽn là hành động liên tục.",
+      "p2": "Mọi người đều biết họ nên ngủ nhiều hơn. Họ biết họ nên tập thể dục. Họ biết họ nên đặt ranh giới tại nơi làm việc, giao tiếp trung thực hơn với người yêu, tiết kiệm nhiều hơn, học kỹ năng sẽ giúp sự nghiệp họ tiến lên. Thông tin có sẵn miễn phí. Điều thiếu là một hệ thống giúp họ hành động dựa trên những gì họ đã biết, ngày này qua ngày khác, cho đến khi hành động đó trở thành chính họ.",
+      "p3": "Hiểu biết đó đã trở thành Avio Group. Chúng tôi tồn tại để xây dựng hệ thống đó. Sản phẩm chủ lực Vitaro là biểu hiện đầu tiên của sứ mệnh này, và tầm nhìn dài hạn của chúng tôi là mở rộng cách tiếp cận này sang nhiều lĩnh vực của cuộc sống con người — sức khỏe thể chất, sự rõ ràng tinh thần, phát triển sự nghiệp và các mối quan hệ có ý nghĩa."
+    },
+    "mission": {
+      "title": "Sứ mệnh của chúng tôi",
+      "quote": "Giúp một triệu người duy trì hành động có ý nghĩa đủ lâu để sự thay đổi thực sự diễn ra — và làm điều đó theo cách tôn trọng thời gian, quyền riêng tư và trí tuệ của họ."
+    },
+    "company": {
+      "title": "Thông tin công ty",
+      "fields": {
+        "legalName": "Tên pháp lý (Anh)",
+        "vietnameseName": "Tên tiếng Việt",
+        "duns": "Số D-U-N-S",
+        "country": "Quốc gia đăng ký",
+        "industry": "Ngành",
+        "founded": "Năm thành lập",
+        "product": "Sản phẩm chính",
+        "website": "Website",
+        "verification": "Xác minh",
+        "legalNameValue": "Avio Group Company Limited",
+        "vietnameseNameValue": "Công ty TNHH Avio Group",
+        "dunsValue": "626314981",
+        "countryValue": "Việt Nam",
+        "industryValue": "Công nghệ / Phát triển phần mềm",
+        "foundedValue": "2024",
+        "productValue": "Vitaro — Nền tảng thay đổi hành vi",
+        "websiteValue": "aviogroup.eco",
+        "verificationValue": "Được xác minh bởi Dun & Bradstreet"
+      }
+    },
+    "values": {
+      "title": "Những điều chúng tôi coi trọng",
+      "honesty": {
+        "title": "Trung thực",
+        "body": "Chúng tôi nói với người dùng sản phẩm có thể làm gì, không thể làm gì và yêu cầu gì từ họ. Chúng tôi không hứa hẹn những kết quả chúng tôi không thể mang lại."
+      },
+      "depth": {
+        "title": "Chiều sâu",
+        "body": "Chúng tôi xây dựng cho những người dùng sẵn sàng làm việc thật sự trong thời gian dài. Sản phẩm của chúng tôi không dành cho người tìm đường tắt, và chúng tôi thẳng thắn về điều đó."
+      },
+      "care": {
+        "title": "Quan tâm",
+        "body": "Thay đổi hành vi là điều cá nhân và đôi khi dễ tổn thương. Chúng tôi thiết kế với ý thức rằng ở đầu bên kia màn hình là một con người thật với một cuộc sống thật, không phải một chỉ số."
+      },
+      "independence": {
+        "title": "Độc lập",
+        "body": "Chúng tôi xây dựng theo nhịp của mình, theo điều kiện của mình. Ưu tiên của chúng tôi là tạo ra những sản phẩm hoạt động — không phải tối đa hóa tăng trưởng bằng cái giá của chất lượng."
+      }
+    }
+  },
+  "Common": {
+    "CONTACT_EMAIL": "hello@aviogroup.eco",
+    "PRIVACY_EMAIL": "privacy@aviogroup.eco",
+    "PRESS_EMAIL": "press@aviogroup.eco",
+    "SUPPORT_EMAIL": "support@aviogroup.eco"
+  },
+  "ContactPage": {
+    "title": "Liên hệ với Avio Group.",
+    "lead": "Chúng tôi đọc mọi tin nhắn nhận được. Dù bạn là người dùng có câu hỏi, một nhà báo đang viết bài, một nhà đầu tư đang tìm hiểu cơ hội hợp tác, hay một người quan tâm đến việc gia nhập đội ngũ, chúng tôi rất muốn được nghe từ bạn.",
+    "info": {
+      "general": "Liên hệ chung",
+      "privacy": "Quyền riêng tư & dữ liệu",
+      "press": "Báo chí",
+      "support": "Hỗ trợ (Vitaro)",
+      "country": "Quốc gia",
+      "countryValue": "Việt Nam",
+      "duns": "D-U-N-S"
+    },
+    "responseNote": "Chúng tôi thường phản hồi trong vòng hai ngày làm việc. Với các vấn đề khẩn cấp liên quan đến an toàn người dùng hoặc quyền riêng tư dữ liệu, vui lòng đánh dấu rõ trong tiêu đề email.",
+    "form": {
+      "name": "Họ tên",
+      "email": "Email",
+      "reason": "Lý do liên hệ",
+      "reasonGeneral": "Chung",
+      "reasonPress": "Báo chí",
+      "reasonPartnership": "Hợp tác",
+      "reasonSupport": "Hỗ trợ",
+      "reasonOther": "Khác",
+      "message": "Tin nhắn",
+      "submit": "Gửi tin nhắn",
+      "thanks": "Cảm ơn bạn. Vui lòng gửi email trực tiếp đến hello@aviogroup.eco trong khi chúng tôi đang hoàn thiện tích hợp form."
+    }
+  },
+  "Footer": {
+    "companyName": "Công ty TNHH Avio Group",
+    "tagline": "Xây dựng công nghệ giúp con người sống tốt hơn.",
+    "dunsLabel": "D-U-N-S:",
+    "dunsValue": "626314981",
+    "navigateHeading": "Điều hướng",
+    "legalHeading": "Pháp lý",
+    "touchHeading": "Liên hệ",
+    "helloEmail": "hello@aviogroup.eco",
+    "country": "Việt Nam",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ",
+    "dataProtection": "Bảo vệ dữ liệu",
+    "copyrightEn": "© 2026 Avio Group Company Limited. All rights reserved.",
+    "copyrightVi": "© 2026 Công ty TNHH Avio Group. Mọi quyền được bảo lưu.",
+    "nav": {
+      "home": "Trang chủ",
+      "about": "Về chúng tôi",
+      "products": "Sản phẩm",
+      "philosophy": "Triết lý",
+      "contact": "Liên hệ"
+    }
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "AVIO GROUP",
+      "title": "Xây dựng công nghệ giúp con người sống tốt hơn.",
+      "subtitle": "Chúng tôi xây dựng các hệ sinh thái số biến ý định thành thói quen bền vững. Sản phẩm chủ lực của chúng tôi, Vitaro, giúp mỗi người xác định gốc rễ của những thách thức họ đang đối mặt và đi theo các lộ trình cá nhân hóa để thay đổi cuộc sống — bắt đầu từ một hành động nhỏ được duy trì mỗi ngày.",
+      "primaryCta": "Khám phá Vitaro",
+      "secondaryCta": "Về chúng tôi",
+      "imageAlt": "Nền trừu tượng tĩnh lặng gợi sự rõ ràng và tiến về phía trước"
+    },
+    "whoWeAre": {
+      "eyebrow": "VỀ CHÚNG TÔI",
+      "title": "Một công ty công nghệ với sứ mệnh rõ ràng.",
+      "p1": "Công ty TNHH Avio Group là một công ty công nghệ có trụ sở tại Việt Nam, chuyên xây dựng phần mềm thay đổi hành vi cho thị trường toàn cầu. Chúng tôi được thành lập với niềm tin rằng những sản phẩm có giá trị nhất trong kỷ nguyên AI không phải là những sản phẩm tự động hóa nỗ lực của con người, mà là những sản phẩm giúp con người định hướng nỗ lực của mình vào những điều thực sự quan trọng. Chúng tôi hoạt động ở giao điểm giữa khoa học hành vi, kỹ thuật phần mềm và trí tuệ nhân tạo ứng dụng.",
+      "p2": "Công việc của chúng tôi dựa trên một quan sát đơn giản: phần lớn mọi người không thất bại vì thiếu thông tin. Họ thất bại vì không thể duy trì hành động đủ lâu để sự thay đổi thực sự diễn ra. Sách được mua nhưng không đọc. Chương trình được bắt đầu nhưng không hoàn thành. Kế hoạch được lập nhưng bị bỏ giữa chừng. Chúng tôi xây dựng phần mềm để giải quyết khoảng cách phổ quát này một cách trực tiếp — không phải bằng động lực, vốn rất ngắn ngủi, mà bằng những hệ thống có cấu trúc khiến hành vi đúng đắn trở thành hành vi dễ lặp lại nhất.",
+      "p3": "Avio Group được đăng ký kinh doanh tại Việt Nam và sở hữu mã số D-U-N-S 626314981, được xác minh bởi Dun & Bradstreet. Chúng tôi cam kết hoạt động minh bạch, tuân thủ các tiêu chuẩn bảo vệ dữ liệu quốc tế bao gồm GDPR, và xây dựng những sản phẩm an toàn, có đạo đức và thực sự hữu ích cho người dùng.",
+      "imageAlt": "Môi trường sứ mệnh và hợp tác có chiều sâu"
+    },
+    "vitaro": {
+      "eyebrow": "SẢN PHẨM CHỦ LỰC",
+      "title": "Vitaro — hệ điều hành cho cuộc sống của bạn.",
+      "p1": "Vitaro là một nền tảng thay đổi hành vi giúp con người xác định gốc rễ thực sự của những thách thức cá nhân và đi theo các lộ trình có cấu trúc, dựa trên khoa học để tạo ra sự thay đổi bền vững. Dù người dùng đang vật lộn với căng thẳng, ranh giới không rõ ràng, giá trị bản thân thấp, thiếu tập trung hay mất cân bằng trong cuộc sống hàng ngày, Vitaro cung cấp một lộ trình cá nhân hóa được xây dựng xoay quanh sáu nguyên tắc sống phổ quát.",
+      "p2": "Điều làm Vitaro khác biệt là sự cam kết với chiều sâu thay vì tốc độ. Chúng tôi không hứa hẹn sự biến đổi trong bảy ngày. Chúng tôi xây dựng những hệ thống giúp con người xuất hiện đều đặn trong sáu mươi, chín mươi và ba trăm sáu mươi lăm ngày — khoảng thời gian mà sự thay đổi thực sự diễn ra. Thông qua sự kết hợp giữa hướng dẫn thông minh, các thực hành nhỏ hàng ngày, hỗ trợ cộng đồng và huấn luyện viên tùy chọn, Vitaro trở thành cơ sở hạ tầng mà người dùng quay về mỗi khi họ muốn phát triển.",
+      "features": {
+        "root": {
+          "title": "Phân tích gốc rễ",
+          "description": "Đừng chỉ chữa triệu chứng. Vitaro hướng dẫn bạn qua một cuộc trò chuyện có cấu trúc để xác định điều gì thực sự đang thúc đẩy thách thức của bạn, để bạn xử lý đúng vấn đề ngay từ đầu."
+        },
+        "protocols": {
+          "title": "Lộ trình cá nhân hóa",
+          "description": "Nhận một lộ trình rõ ràng theo từng ngày được thiết kế riêng cho hoàn cảnh của bạn. Mỗi lộ trình chia sự thay đổi thành những hành động nhỏ, dễ thực hiện chỉ trong vài phút mỗi ngày."
+        },
+        "rhythm": {
+          "title": "Hệ thống nhịp ngày",
+          "description": "Một điểm neo buổi sáng và một điểm đóng buổi tối — hai khoảnh khắc ngắn giúp xây dựng đà mà không chiếm thời gian của bạn. Phần lớn các ngày chỉ mất chưa đến bảy phút."
+        },
+        "community": {
+          "title": "Cộng đồng đồng hành",
+          "description": "Tham gia cùng những người khác đang đi trên cùng con đường. Lớp cộng đồng của Vitaro mang lại sự đồng hành và kinh nghiệm chia sẻ mà không có phán xét, so sánh hay sự ồn ào của mạng xã hội."
+        }
+      },
+      "cta": "Tìm hiểu thêm về Vitaro"
+    },
+    "philosophy": {
+      "eyebrow": "TRIẾT LÝ",
+      "title": "Chúng tôi không bán động lực. Chúng tôi thiết kế cơ chế.",
+      "intro": "Mọi sản phẩm chúng tôi xây dựng đều dựa trên một bộ nguyên tắc định hướng chúng tôi làm gì, làm như thế nào và làm vì điều gì. Đây không phải là khẩu hiệu marketing. Đây là những ràng buộc vận hành chúng tôi dùng khi quyết định cái gì được xây và cái gì bị cắt bỏ.",
+      "principles": {
+        "rhythm": {
+          "title": "Nhịp đều quan trọng hơn cường độ",
+          "description": "Sự kiên trì bền vững tạo ra thay đổi lâu dài. Những đợt bùng nổ động lực thì không. Chúng tôi xây dựng sản phẩm đề cao việc xuất hiện đều đặn hơn là thể hiện."
+        },
+        "root": {
+          "title": "Gốc rễ quan trọng hơn triệu chứng",
+          "description": "Vấn đề có thể nhìn thấy hiếm khi là vấn đề thực sự. Sản phẩm của chúng tôi được xây dựng để làm lộ ra gốc rễ — kể cả khi đó là con đường chậm hơn, khó hơn — vì xử lý gốc rễ là con đường duy nhất dẫn đến thay đổi bền vững."
+        },
+        "mechanism": {
+          "title": "Cơ chế quan trọng hơn ý chí",
+          "description": "Chúng tôi không yêu cầu người dùng phải kỷ luật hơn. Chúng tôi thiết kế những hệ thống mà làm đúng là việc dễ nhất. Môi trường định hình hành vi."
+        },
+        "substance": {
+          "title": "Bản chất quan trọng hơn vẻ ngoài",
+          "description": "Chúng tôi xây dựng những sản phẩm hoạt động trong cuộc sống thực, không phải những sản phẩm trông đẹp trong tài liệu marketing. Tiến bộ thật sự quan trọng hơn những con số ấn tượng."
+        },
+        "privacy": {
+          "title": "Quyền riêng tư là mặc định",
+          "description": "Dữ liệu hành vi là một trong những loại dữ liệu nhạy cảm nhất mà một người có thể chia sẻ. Chúng tôi đối xử với nó tương xứng: thu thập tối thiểu, mã hóa mạnh, lưu trữ theo khu vực và người dùng có quyền kiểm soát đầy đủ việc xóa và xuất dữ liệu."
+        }
+      }
+    },
+    "stats": {
+      "eyebrow": "CÁC CON SỐ",
+      "title": "Xây dựng cho dài hạn.",
+      "principles": {
+        "value": "6",
+        "label": "Nguyên tắc sống phổ quát làm nền tảng cho mọi lộ trình Vitaro"
+      },
+      "foundation": {
+        "value": "60",
+        "label": "Ngày trong một Foundation Protocol — khoảng thời gian sự thay đổi thực sự bắt đầu rõ nét"
+      },
+      "mechanisms": {
+        "value": "7",
+        "label": "Cơ chế thay đổi hành vi cùng phối hợp để giữ người dùng đi đúng hướng"
+      },
+      "encryption": {
+        "value": "100%",
+        "label": "Dữ liệu người dùng được mã hóa khi lưu trữ và truyền tải, lưu trên máy chủ theo khu vực"
+      }
+    },
+    "cta": {
+      "title": "Sẵn sàng khám phá những gì chúng tôi đang xây dựng?",
+      "subtitle": "Vitaro hiện đang được phát triển cho iOS và Android. Truy cập trang sản phẩm để tìm hiểu thêm, hoặc liên hệ nếu bạn muốn hợp tác với chúng tôi, viết về công việc của chúng tôi hoặc gia nhập đội ngũ.",
+      "primaryCta": "Khám phá Vitaro",
+      "secondaryCta": "Liên hệ"
+    }
+  },
+  "Metadata": {
+    "siteName": "Avio Group",
+    "defaultTitle": "Avio Group — Công nghệ giúp con người sống tốt hơn",
+    "defaultDescription": "Công ty TNHH Avio Group phát triển Vitaro—nền tảng thay đổi hành vi giúp xác định gốc rễ và theo lộ trình cá nhân hóa cho sự chuyển hóa bền vững.",
+    "home": {
+      "title": "Trang chủ",
+      "description": "Avio Group xây dựng công nghệ thay đổi hành vi. Khám phá Vitaro—lộ trình cá nhân, nhịp ngày và thiết kế ưu tiên quyền riêng tư cho sự thay đổi thực."
+    },
+    "about": {
+      "title": "Về chúng tôi",
+      "description": "Tìm hiểu Avio Group—sứ mệnh, câu chuyện, D-U-N-S 626314981 và cách chúng tôi xây dựng phần mềm duy trì hành động có ý nghĩa."
+    },
+    "products": {
+      "title": "Vitaro",
+      "description": "Vitaro giúp bạn tìm gốc rễ, theo lộ trình có cấu trúc và xây nhịp ngày—thay đổi hành vi cho cuộc sống thực trên iOS và Android."
+    },
+    "philosophy": {
+      "title": "Triết lý",
+      "description": "Cách Avio Group nghĩ về công nghệ, động lực và cơ chế, thực hiện hơn thông tin, và thiết kế cho thay đổi dài hạn."
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "description": "Liên hệ Avio Group cho hợp tác, báo chí, hỗ trợ hoặc tuyển dụng. Email, thông tin đăng ký Việt Nam và D-U-N-S 626314981."
+    },
+    "privacy": {
+      "title": "Chính sách bảo mật",
+      "description": "Chính sách bảo mật của Avio Group và Vitaro: thu thập, dùng dữ liệu, bảo mật, lưu trữ, quyền GDPR, cookie, chuyển giao và liên hệ."
+    },
+    "terms": {
+      "title": "Điều khoản dịch vụ",
+      "description": "Điều khoản dịch vụ cho website Avio Group và Vitaro: sử dụng chấp nhận được, tài khoản, sở hữu trí tuệ, miễn trừ y tế, trách nhiệm và luật Việt Nam."
+    }
+  },
+  "Nav": {
+    "brand": "Avio Group",
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "products": "Sản phẩm",
+    "philosophy": "Triết lý",
+    "contact": "Liên hệ",
+    "openMenu": "Mở menu điều hướng",
+    "closeMenu": "Đóng menu điều hướng",
+    "logoAlt": "Logo Avio Group"
+  },
+  "PhilosophyPage": {
+    "hero": {
+      "eyebrow": "TRIẾT LÝ",
+      "title": "Cách chúng tôi nghĩ về công nghệ, hành vi và cuộc sống con người mà công nghệ cần phục vụ."
+    },
+    "bottleneck": {
+      "p1": "Trong mọi thế hệ trước đây, kiến thức là hiếm hoi và nỗ lực thì dồi dào. Mọi người biết họ muốn làm gì — họ chỉ không phải lúc nào cũng tìm ra cách làm. Sách hiếm. Người thầy bị giới hạn bởi địa lý. Chuyên môn bị giữ lại bởi các phường hội và thiết chế. Để cải thiện cuộc sống, trước tiên bạn phải tìm ra cải thiện trông như thế nào.",
+      "p2": "Ngày nay, sự khan hiếm đó đã đảo ngược. Kiến thức về cơ bản là không giới hạn. Bất kỳ ai có kết nối internet đều có thể đọc về năng suất, thể hình, giao tiếp, tài chính, triết học, nuôi dạy con hoặc chiến lược nghề nghiệp đến cuối đời và vẫn không bao giờ chạm đáy của những gì có sẵn miễn phí. Ràng buộc không còn là thông tin. Ràng buộc là sự thực hiện.",
+      "p3": "Chúng tôi xây dựng cho ràng buộc đó. Avio Group tồn tại để thiết kế những công cụ thu hẹp khoảng cách giữa những gì mọi người biết là nên làm và những gì họ thực sự làm — lặp lại, qua nhiều tháng và nhiều năm, cho đến khi hành động định hình con người."
+    },
+    "motivation": {
+      "p1": "Phần lớn các sản phẩm thay đổi hành vi thất bại vì cùng một lý do: chúng bán động lực. Động lực là có thật, nhưng động lực cũng mang tính hóa học, phụ thuộc vào hoàn cảnh và tồn tại ngắn ngủi. Nó dâng trào khi bạn xem một video làm bạn xúc động. Nó sụp đổ khi bạn mệt, căng thẳng, đói hoặc chán. Bất kỳ ai đã từng cố thay đổi một hành vi chỉ bằng động lực đều biết chu trình này: khởi đầu mạnh mẽ, suy giảm dần và cuối cùng quay về điểm xuất phát. Sản phẩm bị đổ lỗi. Thường thì sản phẩm chưa bao giờ là vấn đề. Mô hình mới là vấn đề.",
+      "p2": "Khoa học hành vi rất rõ ràng về điều này. Hàng thập kỷ nghiên cứu từ Stanford, Harvard và các phòng thí nghiệm kinh tế học hành vi trên khắp thế giới đã chỉ ra rằng thay đổi hành vi lâu bền không được thúc đẩy bởi cảm giác có động lực. Nó được thúc đẩy bởi môi trường, ma sát, bản sắc và các vòng phản hồi được thiết kế tốt. Khi hành động đúng đòi hỏi ý chí cao, mọi người thất bại. Khi hành động đúng được thiết kế để trở thành lựa chọn mặc định dễ dàng, mọi người thành công — kể cả khi họ không cảm thấy đặc biệt được truyền cảm hứng vào ngày hôm đó.",
+      "p3": "Đây là lý do chúng tôi xây dựng cơ chế thay vì bán động lực. Sản phẩm phải gánh phần trọng lượng mà ý chí không thể gánh. Hệ thống phải nhớ khi người dùng quên. Thiết kế phải giảm ma sát ngay tại những điểm mà người dùng thường bỏ cuộc. Không có điều nào trong số này hào nhoáng, nhưng đây là những điều thực sự hoạt động — và chúng tôi thà xây dựng một thứ thầm lặng hiệu quả hơn là một thứ ồn ào truyền cảm hứng."
+    },
+    "instead": {
+      "intro": "Nếu chúng tôi không bán động lực, thì chúng tôi đang cung cấp điều gì? Một danh sách ngắn các cam kết thiết kế hiện diện trong mọi sản phẩm chúng tôi ra mắt.",
+      "items": {
+        "one": {
+          "title": "01. Chúng tôi xây cơ chế, không bán động lực",
+          "body": "Mỗi tính năng trong sản phẩm của chúng tôi đều có một chức năng hành vi — một công việc cụ thể mà nó đang làm trong tâm lý người dùng. Chúng tôi không thêm tính năng vì chúng trông đẹp trên ảnh chụp marketing. Chúng tôi thêm vì chúng giúp người dùng tiếp tục vào ngày họ muốn bỏ."
+        },
+        "two": {
+          "title": "02. Chúng tôi thiết kế cho ngày bạn không muốn làm",
+          "body": "Phần lớn sản phẩm được thiết kế cho người dùng ngày thứ nhất, khi động lực đang cao. Chúng tôi thiết kế cho ngày thứ mười bốn, khi động lực đã sụp đổ. Sản phẩm phải làm việc chăm chỉ hơn khi người dùng có ít hơn để cho — đó là toàn bộ phép thử xem một công cụ thay đổi hành vi có thực sự hoạt động hay không."
+        },
+        "three": {
+          "title": "03. Chúng tôi tôn trọng thời gian của bạn",
+          "body": "Các phiên dài là dấu hiệu của một sản phẩm được thiết kế kém, không phải dấu hiệu của sự đầy đủ. Các điểm tiếp xúc hàng ngày của chúng tôi cố tình ngắn — phần lớn dưới năm phút — vì sự chú ý là tài nguyên quý giá nhất mà người dùng của chúng tôi có, và chúng tôi từ chối lạm dụng nó."
+        },
+        "four": {
+          "title": "04. Chúng tôi không bao giờ gamify những điều cần được nghiêm túc",
+          "body": "Streak, huy hiệu và bảng xếp hạng hoạt động tốt cho các ứng dụng đố vui. Chúng không hoạt động cho công việc nghiêm túc là thay đổi cách một người sống. Dopamine rẻ tiền tạo ra động lực mong manh sụp đổ ngay khoảnh khắc phần thưởng dừng lại. Chúng tôi thiết kế cho sự gắn kết nội tại, không phải sự lệ thuộc bên ngoài."
+        },
+        "five": {
+          "title": "05. Chúng tôi trung thực về những gì thay đổi thực sự đòi hỏi",
+          "body": "Thay đổi không nhanh. Thay đổi không không đau. Thay đổi không được đảm bảo. Chúng tôi từ chối hứa hẹn những điều không thể giữ và từ chối tâng bốc người dùng bằng những tuyên bố không đúng sự thật. Sự trung thực là một phần của sản phẩm — vì những người dùng hiểu bản chất thực sự của thay đổi là những người thực sự đạt được nó."
+        }
+      }
+    }
+  },
+  "PrivacyPage": {
+    "title": "Chính sách bảo mật",
+    "updatedLabel": "Cập nhật lần cuối",
+    "updatedDate": "1 tháng 5, 2026",
+    "intro": {
+      "title": "Giới thiệu",
+      "p1": "Công ty TNHH Avio Group (“Avio Group”, “chúng tôi”) là công ty công nghệ có trụ sở tại Việt Nam, được đăng ký tại Việt Nam và được xác định bằng mã D-U-N-S 626314981 (xác minh bởi Dun & Bradstreet). Chúng tôi phát triển Vitaro — một nền tảng thay đổi hành vi — và vận hành website công ty tại aviogroup.eco.",
+      "p2": "Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ, lưu trữ và bảo vệ thông tin khi bạn truy cập aviogroup.eco hoặc sử dụng Vitaro trên thiết bị được hỗ trợ. Nếu bạn có câu hỏi về quyền riêng tư, hãy liên hệ privacy@aviogroup.eco. Chúng tôi ưu tiên phản hồi kịp thời và, khi áp dụng, trong các khung thời gian mô tả bên dưới.",
+      "p3": "Bằng việc sử dụng website hoặc ứng dụng của chúng tôi, bạn xác nhận đã đọc chính sách này. Nếu bạn không đồng ý, vui lòng ngừng sử dụng. Chúng tôi có thể cập nhật chính sách theo thời gian; các thay đổi trọng yếu sẽ được thông báo như mô tả ở mục “Thay đổi chính sách”."
+    },
+    "collect": {
+      "title": "Thông tin chúng tôi thu thập",
+      "p1": "Thông tin bạn cung cấp trực tiếp có thể gồm chi tiết tài khoản như tên và email; mô tả thách thức và ngữ cảnh trong các phiên có hướng dẫn; phản hồi check-in hàng ngày; và các trường hồ sơ tùy chọn bạn chọn cung cấp.",
+      "p2": "Thông tin thu thập tự động có thể gồm loại thiết bị, phiên bản hệ điều hành, phiên bản ứng dụng, cài đặt khu vực gần đúng cần cho bản địa hóa, phân tích sử dụng ẩn danh, và báo cáo sự cố hoặc ổn định giúp cải thiện độ tin cậy.",
+      "p3": "Thông tin từ bên thứ ba có thể gồm chi tiết hồ sơ cơ bản từ nhà cung cấp xác thực (ví dụ Google hoặc Apple Sign-In) nếu bạn chọn các phương thức đăng nhập đó. Chúng tôi chỉ nhận những gì nhà cung cấp chia sẻ theo sự đồng ý của bạn và chính sách của họ."
+    },
+    "use": {
+      "title": "Cách chúng tôi sử dụng thông tin",
+      "p1": "Chúng tôi dùng thông tin để cung cấp và cá nhân hóa dịch vụ; để tạo và điều chỉnh lộ trình và hướng dẫn thay đổi hành vi bạn yêu cầu; để gửi thông báo bạn chọn nhận; và để duy trì bảo mật tài khoản.",
+      "p2": "Chúng tôi cũng dùng phân tích tổng hợp để hiểu chất lượng sản phẩm và ưu tiên kỹ thuật, đồng thời xử lý thông tin khi cần để tuân thủ pháp luật, thực thi điều khoản và bảo vệ người dùng.",
+      "p3": "Chúng tôi không bán dữ liệu cá nhân. Chúng tôi không huấn luyện mô hình trí tuệ nhân tạo bên ngoài bằng nội dung của bạn nếu không có sự đồng ý chọn tham gia rõ ràng. Chúng tôi không chia sẻ thông tin cá nhân với nhà quảng cáo cho mục đích tiếp thị riêng của họ."
+    },
+    "share": {
+      "title": "Cách chúng tôi chia sẻ thông tin",
+      "p1": "Chúng tôi có thể chia sẻ thông tin với bên xử lý giúp vận hành dịch vụ — ví dụ lưu trữ, hạ tầng, phân tích, gửi email hoặc hỗ trợ khách hàng — theo nghĩa vụ bảo mật và hợp đồng nghiêm ngặt.",
+      "p2": "Chúng tôi có thể tiết lộ thông tin nếu được yêu cầu bởi trình tự pháp lý hợp lệ, sau khi đánh giá tính hợp lệ và cố gắng thu hẹp yêu cầu khi thích hợp. Nếu Avio Group tham gia sáp nhập, mua lại hoặc chuyển giao tài sản, thông tin có thể được chuyển giao kèm cam kết bảo vệ tiếp tục được thông báo cho người dùng.",
+      "p3": "Chúng tôi có thể công bố thống kê tổng hợp không thể xác định cá nhân hợp lý. Nghiên cứu, nếu có, dựa trên tập dữ liệu ẩn danh hoặc tổng hợp với biện pháp kỹ thuật và tổ chức."
+    },
+    "security": {
+      "title": "Bảo mật dữ liệu",
+      "p1": "Chúng tôi áp dụng mã hóa khi lưu trữ (ví dụ AES-256 khi nhà cung cấp hạ tầng hỗ trợ) và mã hóa khi truyền tải bằng TLS hiện đại (1.2+). Quyền truy cập quản trị được giới hạn, ghi nhật ký khi thích hợp và rà soát theo nguyên tắc quyền tối thiểu.",
+      "p2": "Chúng tôi thực hiện rà soát bảo mật định kỳ và duy trì phụ thuộc phần mềm phù hợp giai đoạn và hồ sơ rủi ro. Không phương thức lưu trữ hay truyền tải nào hoàn hảo; chúng tôi liên tục giảm rủi ro thực tế đối với dữ liệu người dùng.",
+      "p3": "Khi cuộc trò chuyện chứa nội dung khủng hoảng cấp tính, chúng tôi áp dụng chính sách xóa tự động nhằm tránh lưu trữ lâu dài tài liệu nhạy cảm cao vượt quá nhu cầu quy trình an toàn tức thì, bao gồm xóa trong khoảng một giờ đối với các hạng mục nội dung khủng hoảng được chỉ định."
+    },
+    "retention": {
+      "title": "Lưu trữ dữ liệu",
+      "p1": "Đối với tài khoản đang hoạt động, chúng tôi lưu thông tin cá nhân cần thiết để cung cấp dịch vụ, duy trì tính toàn vẹn, giải quyết tranh chấp và đáp ứng nghĩa vụ pháp luật. Tính năng cần ngữ cảnh lịch sử có thể lưu dữ liệu liên quan cho đến khi bạn xóa hoặc đóng tài khoản theo điều khiển sản phẩm.",
+      "p2": "Khi bạn xóa tài khoản, chúng tôi có thể áp dụng thời gian ân hạn (ví dụ tới 30 ngày) để tránh mất dữ liệu do nhầm lẫn và hoàn tất điều tra thanh toán hoặc lạm dụng, sau đó xóa hoặc ẩn danh không thể đảo ngược phù hợp với sao lưu và tạm giữ pháp lý.",
+      "p3": "Phân tích ẩn danh có thể được lưu vô thời hạn vì không liên kết được với cá nhân xác định. Nội dung hướng khủng hoảng không nhằm lưu trữ lâu dài các biện pháp xóa tự động bổ sung cho việc tối thiểu hóa rộng hơn."
+    },
+    "rights": {
+      "title": "Quyền của bạn (GDPR và quyền tương đương)",
+      "p1": "Tùy khu vực pháp lý, bạn có thể có các quyền gồm: truy cập dữ liệu cá nhân; chỉnh sửa dữ liệu không chính xác; xóa (“quên”); di chuyển dữ liệu ở định dạng máy đọc được; phản đối xử lý cụ thể; và hạn chế trong một số trường hợp.",
+      "p2": "Bạn cũng có thể khiếu nại với cơ quan giám sát có thẩm quyền. Chúng tôi hỗ trợ các nguyên tắc này trên phạm vi toàn cầu khi khả thi và ghi lại quy trình phản hồi nhất quán bất kể một luật cụ thể có áp dụng hay không.",
+      "p3": "Để thực hiện quyền, gửi email privacy@aviogroup.eco kèm chi tiết đủ để xác minh danh tính. Chúng tôi thường phản hồi trong 30 ngày đối với yêu cầu quyền riêng tư, tùy độ phức tạp và ngoại lệ pháp lý. Chúng tôi không thu phí trừ khi yêu cầu là vô lý hoặc quá mức."
+    },
+    "children": {
+      "title": "Quyền riêng tư trẻ em",
+      "p1": "Vitaro và website công ty không nhắm tới trẻ dưới 13 tuổi (hoặc độ tuổi tối thiểu cao hơn theo khu vực của bạn). Chúng tôi không cố ý thu thập thông tin cá nhân của trẻ em.",
+      "p2": "Nếu bạn tin rằng trẻ đã cung cấp thông tin, hãy liên hệ privacy@aviogroup.eco ngay để chúng tôi điều tra và xóa dữ liệu khi thích hợp. Phụ huynh nên giám sát hoạt động trực tuyến và quyền thiết bị của trẻ.",
+      "p3": "Giới hạn độ tuổi, kiểm soát của phụ huynh và hạn chế cấp thiết bị có thể bổ sung chính sách của chúng tôi. Chúng tôi khuyến khích gia đình dùng tính năng nền tảng nhằm bảo vệ người dùng trẻ."
+    },
+    "transfers": {
+      "title": "Chuyển giao dữ liệu quốc tế",
+      "p1": "Chúng tôi ưu tiên đặt lưu trữ và xử lý theo khu vực để dữ liệu người dùng gần với các khu vực chúng tôi phục vụ, phù hợp cấu hình sản phẩm và khả năng hạ tầng. Địa lý có thể ảnh hưởng độ trễ, dự phòng và nghĩa vụ pháp lý.",
+      "p2": "Khi có chuyển giao xuyên biên giới (ví dụ trong mạng toàn cầu của nhà cung cấp đám mây), chúng tôi áp dụng biện pháp bảo vệ như Điều khoản Hợp đồng Chuẩn hoặc cơ chế được chấp thuận khác, kèm biện pháp kỹ thuật gồm mã hóa và kiểm soát truy cập.",
+      "p3": "Chúng tôi dùng tín hiệu hợp lý — gồm quốc gia tài khoản nếu được thu thập — để xác định vùng mặc định, đồng thời hiểu suy luận qua IP không hoàn hảo. Người dùng có thể liên hệ để hỏi về xử lý theo khu vực."
+    },
+    "cookies": {
+      "title": "Cookie và theo dõi",
+      "p1": "Chúng tôi dùng cookie và công nghệ tương tự ở mức tối thiểu. Cookie thiết yếu hỗ trợ chức năng cốt lõi như bảo mật, cân bằng tải và nhất quán tùy chọn ngôn ngữ. Chúng tôi không triển khai cookie quảng cáo bên thứ ba trên website công ty.",
+      "p2": "Khi công nghệ phân tích dựa trên cookie hoặc lưu trữ cục bộ, chúng tôi ưu tiên định danh giả hoặc tổng hợp và tôn trọng cài đặt trình duyệt gửi tín hiệu “Do Not Track” khi khả thi, ghi nhận chuẩn DNT còn thiếu nhất quán trong ngành.",
+      "p3": "Bạn có thể kiểm soát cookie qua cài đặt trình duyệt. Chặn cookie thiết yếu có thể làm giảm chức năng. Chúng tôi ghi nhận các hạng mục chính trong hồ sơ nội bộ phục vụ kiểm toán và yêu cầu quản lý."
+    },
+    "changes": {
+      "title": "Thay đổi chính sách",
+      "p1": "Chúng tôi có thể sửa chính sách để phản ánh tính năng mới, yêu cầu pháp lý hoặc làm rõ. Khi thay đổi trọng yếu, chúng tôi sẽ thông báo qua email (khi có địa chỉ) và thông báo trong ứng dụng khi Vitaro sẵn sàng rộng rãi, ít nhất 30 ngày trước khi áp dụng trừ khi thay đổi tức thì được pháp luật yêu cầu.",
+      "p2": "Tiếp tục sử dụng sau thời gian thông báo đồng nghĩa chấp nhận trừ khi luật hiện hành yêu cầu đồng ý rõ ràng cho xử lý mới cụ thể. Nếu bạn không đồng ý cập nhật, bạn nên ngừng dịch vụ và có thể yêu cầu xóa theo cho phép.",
+      "p3": "Phiên bản trước có thể được cung cấp theo yêu cầu hợp lý để minh bạch. Chúng tôi lưu trữ thay đổi văn bản chính sách kèm dấu thời gian nội bộ."
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "p1": "Thắc mắc quyền riêng tư: privacy@aviogroup.eco",
+      "p2": "Địa chỉ bưu điện: Công ty TNHH Avio Group, Việt Nam (vui lòng email để nhận dòng địa chỉ phù hợp nếu cần cho thư chính thức).",
+      "p3": "Câu hỏi chung không liên quan quyền riêng tư: hello@aviogroup.eco. Chúng tôi cố gắng xác nhận thư quyền riêng tư trong hai ngày làm việc."
+    }
+  },
+  "ProductsPage": {
+    "hero": {
+      "eyebrow": "VITARO",
+      "title": "Tìm gốc rễ. Đi đúng đường. Sống chuyển động.",
+      "subtitle": "Vitaro là nền tảng thay đổi hành vi giúp con người xác định gốc rễ của những thách thức và đi theo các lộ trình cá nhân hóa để tạo nên sự chuyển hóa lâu dài. Được xây dựng cho dài hạn, được thiết kế cho cuộc sống thực.",
+      "imageAlt": "Hình ảnh sản phẩm Vitaro gợi sự cân bằng và đà tiến"
+    },
+    "howItWorks": {
+      "title": "Vitaro hoạt động như thế nào",
+      "steps": {
+        "step1": {
+          "title": "01. Mô tả điều đang thách thức bạn",
+          "body": "Bạn bắt đầu với một câu hỏi mở duy nhất: điều gì đang làm cuộc sống của bạn khó khăn hơn ngay bây giờ? Vitaro lắng nghe không phán xét."
+        },
+        "step2": {
+          "title": "02. Khám phá gốc rễ",
+          "body": "Thông qua một cuộc trò chuyện có hướng dẫn kéo dài khoảng mười phút, Vitaro giúp bạn nhìn xa hơn triệu chứng bề mặt để thấy được mô thức bên dưới đang thực sự thúc đẩy hoàn cảnh của bạn."
+        },
+        "step3": {
+          "title": "03. Nhận lộ trình của bạn",
+          "body": "Dựa trên gốc rễ của bạn, bạn nhận được một lộ trình cá nhân hóa — một bản đồ rõ ràng theo từng ngày gồm những hành động nhỏ được thiết kế để hoàn thành chỉ trong vài phút mỗi ngày."
+        },
+        "step4": {
+          "title": "04. Xây nhịp của bạn",
+          "body": "Ngày qua ngày, với điểm neo buổi sáng, sự suy ngẫm buổi tối và sự đồng hành nhẹ nhàng, bạn xây dựng một nhịp điệu có thể duy trì kể cả khi động lực giảm xuống. Đây là nơi sự thay đổi thực sự diễn ra."
+        }
+      }
+    },
+    "principles": {
+      "title": "Sáu nguyên tắc. Một khuôn khổ cho cuộc sống cân bằng.",
+      "intro": "Mọi lộ trình của Vitaro được xây dựng xoay quanh sáu nguyên tắc phổ quát hiện diện trong mọi nền văn hóa, mọi thời đại và mọi triết lý sống có ý nghĩa. Đây không phải là những ý tưởng mới. Đây là những ý tưởng cũ, được áp dụng qua các công cụ hiện đại.",
+      "cards": {
+        "boundaries": {
+          "title": "Ranh giới",
+          "body": "Biết khi nào nói không — và khi nào nói có — là nền tảng của một cuộc sống thực sự thuộc về bạn."
+        },
+        "respect": {
+          "title": "Tôn trọng",
+          "body": "Cách bạn đối xử với chính mình, với người khác và với thế giới xung quanh đặt ra giới hạn cho mọi điều khác bạn xây dựng."
+        },
+        "mastery": {
+          "title": "Sự thuần thục",
+          "body": "Sự tự tin lâu bền không đến từ suy nghĩ tích cực. Nó đến từ việc trở nên giỏi hơn một cách rõ ràng ở những điều quan trọng."
+        },
+        "ownership": {
+          "title": "Trách nhiệm",
+          "body": "Nhận lấy phần trách nhiệm thuộc về mình — không nhiều hơn, không ít hơn — là con đường dẫn đến sự tự do thực sự."
+        },
+        "clarity": {
+          "title": "Sự rõ ràng",
+          "body": "Phần lớn nỗi khổ đến từ sự nhầm lẫn về những gì đang thực sự diễn ra. Sự rõ ràng là bước đầu tiên cho bất kỳ thay đổi nào."
+        },
+        "balance": {
+          "title": "Sự cân bằng",
+          "body": "Một cuộc sống thắng ở một khía cạnh và thua ở những khía cạnh khác không phải là cuộc sống chiến thắng. Chúng tôi xây dựng cho sự bền vững trên toàn bộ con người bạn."
+        }
+      }
+    },
+    "data": {
+      "title": "Dữ liệu của bạn, được xử lý với sự nghiêm túc xứng đáng.",
+      "p1": "Vitaro xử lý thông tin cá nhân mà về bản chất nhạy cảm hơn so với những gì phần lớn các ứng dụng thu thập. Chúng tôi nghiêm túc với trách nhiệm đó. Tất cả dữ liệu đều được mã hóa cả khi lưu trữ và khi truyền tải. Các cuộc trò chuyện liên quan đến nội dung cảm xúc nghiêm trọng được tự động xóa trong vòng một giờ. Chúng tôi không bán dữ liệu người dùng. Chúng tôi không huấn luyện các mô hình AI bên ngoài bằng nội dung của người dùng mà không có sự đồng thuận rõ ràng.",
+      "p2": "Bạn có toàn quyền kiểm soát thông tin của mình tại mọi thời điểm: bạn có thể xuất tất cả dữ liệu chúng tôi có về bạn dưới định dạng máy đọc được, hoặc xóa tài khoản và toàn bộ dữ liệu liên quan chỉ với một yêu cầu duy nhất. Chúng tôi tuân thủ GDPR và làm theo các thông lệ quốc tế tốt nhất về tối thiểu hóa dữ liệu, vị trí máy chủ theo khu vực và kiểm soát quyền truy cập."
+    },
+    "comingSoon": {
+      "title": "Sẽ ra mắt trên iOS và Android vào năm 2026.",
+      "body": "Vitaro hiện đang trong quá trình phát triển. Chúng tôi đang xây dựng cẩn thận, kiểm chứng với người dùng thực và đặt chất lượng lên trên tốc độ. Nếu bạn muốn trở thành một trong những người đầu tiên biết khi Vitaro ra mắt, vui lòng liên hệ với chúng tôi.",
+      "cta": "Liên hệ"
+    }
+  },
+  "TermsPage": {
+    "title": "Điều khoản dịch vụ",
+    "updatedLabel": "Cập nhật lần cuối",
+    "updatedDate": "1 tháng 5, 2026",
+    "acceptance": {
+      "title": "1. Chấp nhận điều khoản",
+      "p1": "Điều khoản dịch vụ này (“Điều khoản”) điều chỉnh quyền truy cập và sử dụng các website do Công ty TNHH Avio Group (“Avio Group”) vận hành — bao gồm aviogroup.eco — và trải nghiệm Vitaro trên thiết bị di động và web mà chúng tôi cung cấp (gọi chung là “Dịch vụ”).",
+      "p2": "Bằng việc tạo tài khoản, tải Vitaro hoặc sử dụng Dịch vụ theo cách khác, bạn đồng ý với Điều khoản này và Chính sách bảo mật của chúng tôi. Nếu bạn dùng Dịch vụ thay mặt tổ chức, bạn xác nhận có thẩm quyền ràng buộc tổ chức đó.",
+      "p3": "Nếu bạn không đồng ý, đừng sử dụng Dịch vụ. Chúng tôi có thể từ chối dịch vụ, tạm ngưng tài khoản hoặc giới hạn tính năng khi pháp luật và Điều khoản này cho phép."
+    },
+    "services": {
+      "title": "2. Mô tả dịch vụ",
+      "p1": "Vitaro là nền tảng hỗ trợ hành vi giúp người dùng suy ngẫm thách thức, nhận diện mô thức và theo các lộ trình có cấu trúc hướng tự phát triển. Avio Group cung cấp hạ tầng phần mềm, trải nghiệm nội dung giáo dục và thông liên lạc liên quan như mô tả trong sản phẩm.",
+      "p2": "Tính năng có thể thay đổi trong giai đoạn phát triển và phát hành. Chúng tôi có thể thêm, sửa hoặc ngừng tính năng để cải thiện an toàn, chất lượng hoặc tuân thủ. Chúng tôi sẽ thông báo hợp lý trước các thay đổi xấu đáng kể đối với dịch vụ trả phí nếu và khi tồn tại.",
+      "p3": "Website công ty cung cấp thông tin chung về Avio Group, thông tin xác minh và liên kết tài liệu pháp lý. Bản thân website không cung cấp huấn luyện cá nhân hoặc dịch vụ lâm sàng."
+    },
+    "accounts": {
+      "title": "3. Tài khoản và trách nhiệm người dùng",
+      "p1": "Bạn phải cung cấp thông tin đăng ký chính xác và giữ bí mật thông tin đăng nhập. Bạn chịu trách nhiệm về hoạt động dưới tài khoản trừ khi bạn thông báo kịp thời về truy cập trái phép.",
+      "p2": "Bạn phải đủ tuổi sử dụng Dịch vụ theo pháp luật địa phương. Bạn không được chia sẻ tài khoản theo cách né tránh bảo mật, cấp phép hoặc phát hiện lạm dụng.",
+      "p3": "Chúng tôi có thể yêu cầu xác minh lại, đặt lại mật khẩu hoặc xác thực bổ sung khi phát hiện hoạt động đáng ngờ hoặc khi pháp luật yêu cầu."
+    },
+    "acceptableUse": {
+      "title": "4. Sử dụng chấp nhận được",
+      "p1": "Bạn đồng ý không lạm dụng Dịch vụ. Hành vi cấm gồm: cố dò quét hoặc kiểm tra lỗ hổng hệ thống mà không được phép; can thiệp người dùng khác; tải mã độc; dịch ngược ngoài phạm vi luật cho phép; thu thập dữ liệu không có đồng ý; hoặc dùng Dịch vụ để rình rập, quấy rối hoặc gây hại.",
+      "p2": "Bạn không được dùng phương tiện tự động truy cập Dịch vụ theo cách gây tải không hợp lý, né giới hạn tốc độ hoặc quét dữ liệu cá nhân. Bạn không được mạo danh Avio Group, nhân viên hoặc người dùng khác.",
+      "p3": "Chúng tôi có thể điều tra vi phạm và hợp tác cơ quan chức năng khi pháp luật yêu cầu. Vi phạm nghiêm trọng hoặc lặp lại có thể dẫn tới chấm dứt."
+    },
+    "ip": {
+      "title": "5. Sở hữu trí tuệ",
+      "p1": "Avio Group và bên cấp phép sở hữu mọi quyền đối với Dịch vụ, gồm phần mềm, thương hiệu, logo, tài liệu và nội dung tuyển chọn, tùy giấy phép mã nguồn mở khi có.",
+      "p2": "Bạn giữ quyền với nội dung bạn tạo và gửi (“Nội dung của bạn”). Bạn cấp cho Avio Group giấy phép toàn cầu, không độc quyền để lưu trữ, xử lý, truyền tải, hiển thị và điều chỉnh Nội dung của bạn chỉ nhằm vận hành, bảo mật, cải thiện và cung cấp Dịch vụ và như mô tả trong Chính sách bảo mật.",
+      "p3": "Phản hồi bạn cung cấp có thể được Avio Group sử dụng không kèm nghĩa vụ hoặc thù lao, trừ khi luật cấm. Bạn không được gỡ thông báo quyền sở hữu hoặc lạm dụng nhãn hiệu Avio Group."
+    },
+    "medical": {
+      "title": "6. Miễn trừ y tế và lâm sàng",
+      "disclaimerBold": "Vitaro là nền tảng hỗ trợ hành vi. Đây không phải thiết bị y tế, không phải sự thay thế cho điều trị sức khỏe tâm thần chuyên nghiệp, và không được thiết kế để chẩn đoán, điều trị, chữa bệnh hay phòng ngừa bất kỳ bệnh lý hay tình trạng tâm lý nào. Các lộ trình, nội dung và hướng dẫn được cung cấp thông qua Vitaro là công cụ giáo dục và tự phát triển. Chúng không cấu thành lời khuyên y tế, điều trị tâm lý hay liệu pháp. Nếu bạn đang trải qua khủng hoảng sức khỏe tâm thần, ý nghĩ tự tử, hoặc các triệu chứng của một tình trạng sức khỏe tâm thần nghiêm trọng, vui lòng liên hệ ngay với dịch vụ cấp cứu địa phương hoặc chuyên gia sức khỏe tâm thần có giấy phép. Avio Group không chịu trách nhiệm cho những hậu quả phát sinh từ việc sử dụng Vitaro để thay thế chăm sóc y tế hoặc sức khỏe tâm thần chuyên nghiệp.",
+      "p2": "Không nội dung nào trên aviogroup.eco hoặc trong Vitaro tạo quan hệ lâm sàng–bệnh nhân. Nếu bạn cần dịch vụ lâm sàng, hãy tham vấn chuyên gia đủ điều kiện tại khu vực của bạn.",
+      "p3": "Bạn chịu trách nhiệm tìm kiếm trợ giúp khẩn cấp khi cần. Đừng chỉ dựa vào Dịch vụ làm nguồn duy nhất cho kế hoạch an toàn."
+    },
+    "liability": {
+      "title": "7. Giới hạn trách nhiệm",
+      "p1": "Trong phạm vi pháp luật cho phép tối đa, Dịch vụ được cung cấp “nguyên trạng” và “sẵn có,” không có bảo đảm dù rõ ràng hay mặc nhiên, gồm bảo đảm mặc nhiên về khả năng thương mại, phù hợp mục đích cụ thể và không xâm phạm.",
+      "p2": "Trong phạm vi pháp luật tối đa cho phép, Avio Group và chi nhánh, giám đốc, nhân viên, nhà cung cấp không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hệ quả hay trừng phạt, hoặc mất lợi nhuận, doanh thu, dữ liệu hoặc uy tín phát sinh từ việc bạn sử dụng Dịch vụ.",
+      "p3": "Khi giới hạn không thể áp dụng theo luật, tổng trách nhiệm pháp lý của chúng tôi đối với khiếu nại phát sinh từ Dịch vụ sẽ không vượt quá mức lớn hơn giữa (a) số tiền bạn đã trả cho Avio Group cho Dịch vụ trong sáu tháng trước khiếu nại, hoặc (b) năm mươi đô la Mỹ (USD) nếu không có phí nào được trả. Nhiều khiếu nại không mở rộng mức này."
+    },
+    "termination": {
+      "title": "8. Chấm dứt",
+      "p1": "Bạn có thể ngừng sử dụng Dịch vụ bất kỳ lúc nào và có thể yêu cầu xóa tài khoản như mô tả trong Chính sách bảo mật.",
+      "p2": "Chúng tôi có thể tạm ngưng hoặc chấm dứt quyền truy cập nếu bạn vi phạm trọng yếu Điều khoản này, gây rủi ro hoặc phơi bày pháp lý, hoặc nếu chúng tôi ngừng sản phẩm với thông báo hợp lý trừ khi chấm dứt tức thì được pháp luật yêu cầu.",
+      "p3": "Sau khi chấm dứt, một số điều khoản về bản chất cần tiếp tục — gồm sở hữu trí tuệ, miễn trừ, giới hạn trách nhiệm và luật áp dụng — vẫn có hiệu lực."
+    },
+    "changes": {
+      "title": "9. Thay đổi điều khoản",
+      "p1": "Chúng tôi có thể sửa Điều khoản này để phản ánh thay đổi Dịch vụ hoặc yêu cầu pháp lý. Chúng tôi đăng Điều khoản cập nhật kèm ngày “Cập nhật lần cuối” và, khi thay đổi trọng yếu, cung cấp thông báo bổ sung qua email hoặc trong ứng dụng khi Vitaro sẵn sàng rộng rãi.",
+      "p2": "Tiếp tục sử dụng sau khi thay đổi có hiệu lực đồng nghĩa chấp nhận trừ khi luật hiện hành yêu cầu đồng ý riêng. Nếu bạn không đồng ý, hãy ngừng sử dụng và xóa tài khoản khi có thể.",
+      "p3": "Chúng tôi lưu phiên bản trước nội bộ và có thể cung cấp bản sao theo yêu cầu hợp lý để minh bạch."
+    },
+    "law": {
+      "title": "10. Luật áp dụng",
+      "p1": "Điều khoản này chịu sự điều chỉnh của pháp luật Việt Nam, loại trừ các quy tắc xung đột pháp luật buộc áp dụng luật khu vực khác, phụ thuộc các quyền bảo vệ người tiêu dùng không được từ bỏ nơi bạn cư trú.",
+      "p2": "Địa điểm giải quyết tranh chấp sẽ là tòa án có thẩm quyền tại Việt Nam, trừ khi luật bắt buộc cho phép bạn khởi kiện nơi khác.",
+      "p3": "Bạn có thể có quyền bổ sung theo quy định tiêu dùng địa phương mà Điều khoản này không thể vô hiệu."
+    },
+    "contact": {
+      "title": "11. Liên hệ",
+      "p1": "Thắc mắc về Điều khoản: hello@aviogroup.eco",
+      "p2": "Yêu cầu pháp lý hoặc quản lý nên kèm chi tiết đầy đủ và, khi thích hợp, tham chiếu văn bản chính thức.",
+      "p3": "Chúng tôi công bố thông tin xác minh doanh nghiệp (gồm D-U-N-S 626314981) để hỗ trợ đối tác, cửa hàng ứng dụng và người dùng tìm đường liên hệ hợp pháp."
+    }
+  }
+}
