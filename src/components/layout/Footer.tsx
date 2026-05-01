@@ -27,6 +27,7 @@ export async function Footer() {
                 className="h-9 w-auto"
                 height={36}
                 src="/images/logo/avio-logo-white.svg"
+                style={{ width: "auto", height: "auto" }}
                 width={120}
               />
             </div>

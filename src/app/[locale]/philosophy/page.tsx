@@ -26,7 +26,7 @@ export default async function PhilosophyPage({ params }: PhilosophyRouteProps) {
             <p className="text-xs font-medium uppercase tracking-wider text-primary">
               {t("hero.eyebrow")}
             </p>
-            <h1 className="text-5xl font-bold tracking-tight text-neutral-900 md:text-6xl lg:text-7xl">
+            <h1 className="font-heading text-4xl font-bold tracking-tight text-neutral-900 md:text-5xl lg:text-6xl">
               {t("hero.title")}
             </h1>
           </div>
@@ -61,7 +61,7 @@ export default async function PhilosophyPage({ params }: PhilosophyRouteProps) {
           <div className="mt-12 space-y-8">
             {commitmentKeys.map((key) => (
               <div className="rounded-lg border border-neutral-200 bg-white p-6 shadow-sm" key={key}>
-                <h2 className="text-2xl font-semibold text-neutral-900">
+                <h2 className="font-heading text-xl font-semibold text-neutral-900 md:text-2xl">
                   {t(`instead.items.${key}.title`)}
                 </h2>
                 <p className="mt-3 text-base leading-relaxed text-neutral-600">

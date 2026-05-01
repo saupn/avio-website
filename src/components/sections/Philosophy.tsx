@@ -36,7 +36,7 @@ export async function PhilosophySection() {
                 {String(index + 1).padStart(2, "0")}
               </span>
               <div>
-                <h3 className="text-2xl font-semibold text-neutral-900 md:text-3xl">
+                <h3 className="font-heading text-xl font-semibold text-neutral-900 md:text-2xl">
                   {t(`principles.${key}.title`)}
                 </h3>
                 <p className="mt-3 text-base leading-relaxed text-neutral-600">

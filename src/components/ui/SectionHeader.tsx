@@ -30,8 +30,8 @@ export function SectionHeader({
       <TitleTag
         className={
           titleAs === "h1"
-            ? "text-5xl font-bold tracking-tight text-neutral-900 md:text-6xl lg:text-7xl"
-            : "text-3xl font-bold text-neutral-900 md:text-4xl lg:text-5xl"
+            ? "font-heading text-4xl font-bold tracking-tight text-neutral-900 md:text-5xl lg:text-6xl"
+            : "font-heading text-2xl font-bold text-neutral-900 md:text-3xl lg:text-4xl"
         }
       >
         {title}

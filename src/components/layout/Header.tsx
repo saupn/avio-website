@@ -38,9 +38,10 @@ export function Header() {
             height={36}
             priority
             src="/images/logo/avio-logo.svg"
+            style={{ width: "auto", height: "auto" }}
             width={120}
           />
-          <span className="text-base font-bold text-neutral-900">
+          <span className="font-heading text-base font-bold text-neutral-900">
             {t("brand")}
           </span>
         </Link>

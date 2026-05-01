@@ -10,7 +10,7 @@ export async function CTASection() {
     <section className="bg-primary py-20 md:py-28 lg:py-32">
       <Container>
         <div className="max-w-3xl space-y-6 text-white animate-in-section">
-          <h2 className="text-3xl font-bold md:text-4xl lg:text-5xl">
+          <h2 className="font-heading text-2xl font-bold md:text-3xl lg:text-4xl">
             {t("title")}
           </h2>
           <p className="text-lg leading-relaxed text-white/90 md:text-xl">

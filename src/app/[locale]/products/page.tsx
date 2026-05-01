@@ -38,7 +38,7 @@ export default async function ProductsPage({ params }: ProductsProps) {
               <p className="text-xs font-medium uppercase tracking-wider text-primary">
                 {t("hero.eyebrow")}
               </p>
-              <h1 className="text-5xl font-bold tracking-tight text-neutral-900 md:text-6xl lg:text-7xl">
+              <h1 className="font-heading text-4xl font-bold tracking-tight text-neutral-900 md:text-5xl lg:text-6xl">
                 {t("hero.title")}
               </h1>
               <p className="text-lg leading-relaxed text-neutral-600 md:text-xl">
@@ -68,7 +68,7 @@ export default async function ProductsPage({ params }: ProductsProps) {
                   {String(index + 1).padStart(2, "0")}
                 </span>
                 <div>
-                  <h3 className="text-2xl font-semibold text-neutral-900">
+                  <h3 className="font-heading text-xl font-semibold text-neutral-900 md:text-2xl">
                     {t(`howItWorks.steps.${key}.title`)}
                   </h3>
                   <p className="mt-3 text-base leading-relaxed text-neutral-600">
@@ -91,7 +91,7 @@ export default async function ProductsPage({ params }: ProductsProps) {
           <div className="mt-14 grid gap-8 md:grid-cols-2 lg:mt-16">
             {principleCardKeys.map((key) => (
               <div className="rounded-lg border border-neutral-200 bg-white p-6 shadow-sm" key={key}>
-                <h3 className="text-xl font-semibold text-neutral-900">
+                <h3 className="font-heading text-lg font-semibold text-neutral-900 md:text-xl">
                   {t(`principles.cards.${key}.title`)}
                 </h3>
                 <p className="mt-3 text-sm leading-relaxed text-neutral-600">
@@ -105,7 +105,7 @@ export default async function ProductsPage({ params }: ProductsProps) {
 
       <section className="py-20 md:py-28">
         <Container>
-          <h2 className="text-3xl font-bold text-neutral-900 md:text-4xl">
+          <h2 className="font-heading text-2xl font-bold text-neutral-900 md:text-3xl">
             {t("data.title")}
           </h2>
           <div className="mt-6 space-y-4 text-base leading-relaxed text-neutral-600 md:text-lg">
@@ -118,7 +118,7 @@ export default async function ProductsPage({ params }: ProductsProps) {
       <section className="bg-primary py-20 md:py-24">
         <Container>
           <div className="max-w-3xl space-y-6 text-white">
-            <h2 className="text-3xl font-bold md:text-4xl">{t("comingSoon.title")}</h2>
+            <h2 className="font-heading text-2xl font-bold md:text-3xl">{t("comingSoon.title")}</h2>
             <p className="text-lg leading-relaxed text-white/90">{t("comingSoon.body")}</p>
             <Button className="mt-4" href="/contact" variant="inverse">
               {t("comingSoon.cta")}

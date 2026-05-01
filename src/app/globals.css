@@ -8,7 +8,8 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-inter);
+  --font-sans: var(--font-lora);
+  --font-heading: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
 
   --color-primary: #085041;
   --color-primary-light: #1d9e75;
@@ -52,7 +53,16 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-inter), system-ui, sans-serif;
+  font-family: var(--font-lora), Georgia, "Times New Roman", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
 }
 
 .animate-in-section {

@@ -1,6 +1,6 @@
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
-import { Inter } from "next/font/google";
+import { Lora, Montserrat } from "next/font/google";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import type { ReactNode } from "react";
@@ -8,9 +8,15 @@ import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { routing } from "@/i18n/routing";
 
-const inter = Inter({
+const lora = Lora({
   subsets: ["latin"],
-  variable: "--font-inter",
+  variable: "--font-lora",
+  display: "swap",
+});
+
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  variable: "--font-montserrat",
   display: "swap",
 });
 
@@ -53,7 +59,10 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html className={`${inter.variable} h-full`} lang={locale}>
+    <html
+      className={`${lora.variable} ${montserrat.variable} h-full font-sans`}
+      lang={locale}
+    >
       <body className="flex min-h-full flex-col bg-white text-neutral-900 antialiased">
         <NextIntlClientProvider messages={messages}>
           <Header />

@@ -37,7 +37,7 @@ export default async function TermsOfServicePage({ params }: TermsProps) {
           <p className="text-sm text-neutral-500">
             {t("updatedLabel")}: {t("updatedDate")}
           </p>
-          <h1 className="text-4xl font-bold text-neutral-900 md:text-5xl">
+          <h1 className="font-heading text-3xl font-bold text-neutral-900 md:text-4xl">
             {t("title")}
           </h1>
         </header>
@@ -47,7 +47,7 @@ export default async function TermsOfServicePage({ params }: TermsProps) {
             if (section === "medical") {
               return (
                 <section className="space-y-4" key={section}>
-                  <h2 className="text-2xl font-semibold text-neutral-900">
+                  <h2 className="font-heading text-xl font-semibold text-neutral-900 md:text-2xl">
                     {t(`${section}.title`)}
                   </h2>
                   <strong className="block font-bold leading-relaxed text-neutral-900">
@@ -65,7 +65,7 @@ export default async function TermsOfServicePage({ params }: TermsProps) {
 
             return (
               <section className="space-y-4" key={section}>
-                <h2 className="text-2xl font-semibold text-neutral-900">
+                <h2 className="font-heading text-xl font-semibold text-neutral-900 md:text-2xl">
                   {t(`${section}.title`)}
                 </h2>
                 <p className="text-base leading-relaxed text-neutral-600">

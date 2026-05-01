@@ -42,7 +42,7 @@ export async function ProductShowcase() {
                 <div className="flex size-11 items-center justify-center rounded-md bg-primary-pale text-primary">
                   <Icon aria-hidden className="size-5" />
                 </div>
-                <h3 className="mt-5 text-xl font-semibold text-neutral-900">
+                <h3 className="font-heading mt-5 text-lg font-semibold text-neutral-900 md:text-xl">
                   {t(`features.${key}.title`)}
                 </h3>
                 <p className="mt-3 text-sm leading-relaxed text-neutral-600">

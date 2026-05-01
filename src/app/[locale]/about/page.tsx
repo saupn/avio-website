@@ -29,7 +29,7 @@ export default async function AboutPage({ params }: AboutProps) {
             <p className="text-xs font-medium uppercase tracking-wider text-primary">
               {t("hero.eyebrow")}
             </p>
-            <h1 className="text-5xl font-bold tracking-tight text-neutral-900 md:text-6xl lg:text-7xl">
+            <h1 className="font-heading text-4xl font-bold tracking-tight text-neutral-900 md:text-5xl lg:text-6xl">
               {t("hero.title")}
             </h1>
           </div>
@@ -55,7 +55,7 @@ export default async function AboutPage({ params }: AboutProps) {
       <section className="bg-primary-pale py-20 md:py-28">
         <Container>
           <div className="max-w-4xl space-y-6">
-            <h2 className="text-3xl font-bold text-neutral-900 md:text-4xl">
+            <h2 className="font-heading text-2xl font-bold text-neutral-900 md:text-3xl">
               {t("mission.title")}
             </h2>
             <p className="text-xl font-semibold leading-relaxed text-primary md:text-2xl">
@@ -67,7 +67,7 @@ export default async function AboutPage({ params }: AboutProps) {
 
       <section className="py-20 md:py-28 lg:py-32">
         <Container>
-          <h2 className="text-3xl font-bold text-neutral-900 md:text-4xl lg:text-5xl">
+          <h2 className="font-heading text-2xl font-bold text-neutral-900 md:text-3xl lg:text-4xl">
             {t("company.title")}
           </h2>
           <div className="mt-10 overflow-hidden rounded-lg border border-neutral-200 shadow-sm">
@@ -101,7 +101,7 @@ export default async function AboutPage({ params }: AboutProps) {
 
       <section className="bg-neutral-50 py-20 md:py-28 lg:py-32">
         <Container>
-          <h2 className="text-3xl font-bold text-neutral-900 md:text-4xl lg:text-5xl">
+          <h2 className="font-heading text-2xl font-bold text-neutral-900 md:text-3xl lg:text-4xl">
             {t("values.title")}
           </h2>
           <div className="mt-12 grid gap-8 md:grid-cols-2 lg:gap-12">
@@ -112,7 +112,7 @@ export default async function AboutPage({ params }: AboutProps) {
                   <div className="flex size-11 items-center justify-center rounded-md bg-primary-pale text-primary">
                     <Icon aria-hidden className="size-5" />
                   </div>
-                  <h3 className="mt-5 text-xl font-semibold text-neutral-900">
+                  <h3 className="font-heading mt-5 text-lg font-semibold text-neutral-900 md:text-xl">
                     {t(`values.${key}.title`)}
                   </h3>
                   <p className="mt-3 text-sm leading-relaxed text-neutral-600">
