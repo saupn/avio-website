@@ -52,6 +52,26 @@ export default async function LocaleLayout({
 
   setRequestLocale(locale);
   const messages = await getMessages();
+  const t = await getTranslations({ locale, namespace: "Metadata" });
+
+  const organizationSchema = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Avio Group Company Limited",
+    url: "https://aviogroup.eco",
+    logo: "https://aviogroup.eco/images/logo/avio-logo.svg",
+    description: t("defaultDescription"),
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Quang Ninh",
+      addressCountry: "VN",
+    },
+    identifier: {
+      "@type": "PropertyValue",
+      propertyID: "DUNS",
+      value: "626314981",
+    },
+  };
 
   return (
     <html
@@ -60,6 +80,10 @@ export default async function LocaleLayout({
       suppressHydrationWarning
     >
       <body className="flex min-h-full flex-col bg-background text-foreground antialiased">
+        <script
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+          type="application/ld+json"
+        />
         <NextIntlClientProvider messages={messages}>
           <ThemeProvider
             attribute="class"
