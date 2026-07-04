@@ -6,42 +6,32 @@
     "SUPPORT_EMAIL": "support@aviogroup.eco"
   },
   "ContactPage": {
-    "title": "Get in touch with Avio Group.",
-    "lead": "We read every message we receive. Whether you are a user with a question, a journalist working on a story, an investor exploring a partnership, or someone interested in joining our team, we would love to hear from you.",
-    "info": {
-      "general": "General inquiries",
-      "privacy": "Privacy & data",
-      "press": "Press",
-      "support": "Support (Vitaro)",
-      "country": "Country",
-      "countryValue": "Vietnam",
-      "duns": "D-U-N-S"
-    },
-    "responseNote": "We typically respond within two business days. For urgent matters related to user safety or data privacy, please mark your subject line accordingly.",
+    "title": "Let's talk about your airport.",
     "form": {
       "name": "Name",
+      "organisation": "Organisation",
+      "role": "Role",
+      "roleOptions": {
+        "internationalFirm": "International firm",
+        "airportInvestor": "Airport investor",
+        "authority": "Authority",
+        "financialInstitution": "Financial institution",
+        "other": "Other"
+      },
       "email": "Email",
-      "reason": "Reason for contact",
-      "reasonGeneral": "General",
-      "reasonPress": "Press",
-      "reasonPartnership": "Partnership",
-      "reasonSupport": "Support",
-      "reasonOther": "Other",
       "message": "Message",
-      "submit": "Send message",
-      "thanks": "Thank you. Please email us directly at hello@aviogroup.eco while our form integration is being completed."
+      "submit": "Send message"
     }
   },
   "Footer": {
     "companyName": "Avio Group Company Limited",
-    "tagline": "Building technology that helps people live better.",
     "dunsLabel": "D-U-N-S:",
     "dunsValue": "626314981",
     "navigateHeading": "Navigate",
     "legalHeading": "Legal",
     "touchHeading": "Get in touch",
-    "helloEmail": "hello@aviogroup.eco",
-    "country": "Vietnam",
+    "helloEmail": "contact@aviogroup.eco",
+    "country": "Quang Ninh, Viet Nam",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "dataProtection": "Data Protection",
@@ -49,116 +39,77 @@
     "copyrightVi": "© 2026 Công ty TNHH Avio Group. Mọi quyền được bảo lưu.",
     "nav": {
       "home": "Home",
+      "services": "Services",
+      "team": "Team",
+      "insights": "Insights",
       "contact": "Contact"
     }
   },
   "Home": {
     "hero": {
-      "eyebrow": "AVIO GROUP",
-      "title": "Building Technology That Helps People Live Better.",
-      "subtitle": "We create digital ecosystems that turn intentions into lasting habits. Our flagship product, Vitaro, helps individuals identify the root causes of their challenges and follow personalized protocols to transform their lives — one consistent action at a time.",
-      "primaryCta": "Discover Vitaro",
-      "secondaryCta": "About Us",
-      "imageAlt": "Abstract calm background suggesting clarity and forward motion"
+      "title": "Viet Nam's first airport operations advisory.",
+      "subtitle": "We make international standards deliverable in Viet Nam — licensing, operations and workforce, for the country's new wave of private airports.",
+      "primaryCta": "Partner with us",
+      "secondaryCta": "Our services"
     },
-    "whoWeAre": {
-      "eyebrow": "WHO WE ARE",
-      "title": "A technology company with a clear mission.",
-      "p1": "Avio Group Company Limited is a Vietnam-based technology company building behavior-change software for the global market. Founded with the conviction that the most valuable products of the AI era will not be those that automate human effort, but those that help humans direct their effort toward what truly matters, we operate at the intersection of behavioral science, software engineering, and applied artificial intelligence.",
-      "p2": "Our work is grounded in a simple observation: most people don't fail because they lack information. They fail because they cannot sustain action long enough for change to take hold. Books are bought but unread. Programs are started but unfinished. Plans are made but abandoned. We build software that addresses this universal gap directly — not through motivation, which is fleeting, but through structured systems that make the right behavior the easiest one to repeat.",
-      "p3": "Avio Group is registered in Vietnam and holds D-U-N-S Number 626314981, verified by Dun & Bradstreet. We are committed to operating with full transparency, complying with international data protection standards including GDPR, and building products that are safe, ethical, and genuinely useful to the people who use them.",
-      "imageAlt": "Open book on a stone in a sunlit autumn forest, evoking reflection and lasting learning"
-    },
-    "vitaro": {
-      "eyebrow": "OUR FLAGSHIP PRODUCT",
-      "title": "Meet Vitaro — the operating system for your life.",
-      "p1": "Vitaro is a behavior-change platform that helps people identify the true root causes of their personal challenges and follow structured, science-based protocols to create lasting change. Whether someone is struggling with stress, unclear boundaries, low self-worth, lack of focus, or imbalance in their daily life, Vitaro provides a personalized roadmap built around six universal life principles.",
-      "p2": "What makes Vitaro different is its commitment to depth over speed. We don't promise transformation in seven days. We build systems that help people show up consistently for sixty, ninety, and three hundred and sixty-five days — the timeframe over which real change actually happens. Through a combination of intelligent guidance, daily micro-practices, community support, and optional human coaching, Vitaro becomes the infrastructure people return to whenever they want to grow.",
-      "features": {
-        "root": {
-          "title": "Root Cause Analysis",
-          "description": "Stop treating symptoms. Vitaro guides you through a structured conversation to identify what is actually driving your challenges, so you address the right thing from the start."
+    "marketMoment": {
+      "stats": {
+        "airports": {
+          "value": "5–7",
+          "label": "new private airports expected in Viet Nam within five years"
         },
-        "protocols": {
-          "title": "Personalized Protocols",
-          "description": "Receive a clear, day-by-day roadmap tailored to your specific situation. Each protocol breaks transformation into small, executable actions you can complete in a few minutes a day."
+        "law": {
+          "value": "1 Jul 2026",
+          "label": "new Civil Aviation Law 130/2025 in force — a regulatory framework with no precedent"
         },
-        "rhythm": {
-          "title": "Daily Rhythm System",
-          "description": "A morning anchor and an evening close — two short touchpoints that build momentum without consuming your time. Most days take less than seven minutes total."
-        },
-        "community": {
-          "title": "Supportive Community",
-          "description": "Join others walking the same path. Vitaro's community layer provides accountability and shared experience without judgment, comparison, or the noise of social media."
-        }
-      },
-      "cta": "Learn more about Vitaro"
-    },
-    "philosophy": {
-      "eyebrow": "OUR PHILOSOPHY",
-      "title": "We don't sell motivation. We design mechanisms.",
-      "intro": "Every product we build is grounded in a set of principles that guide what we make, how we make it, and why. These are not marketing slogans. They are the operating constraints we use when we decide what gets built and what gets cut.",
-      "principles": {
-        "rhythm": {
-          "title": "Rhythm over intensity",
-          "description": "Sustainable consistency creates lasting change. Bursts of motivation do not. We design products that prioritize showing up over showing off."
-        },
-        "root": {
-          "title": "Root over symptom",
-          "description": "The visible problem is rarely the real problem. Our products are built to surface root causes — even when that is the slower, harder path — because addressing roots is the only path to durable change."
-        },
-        "mechanism": {
-          "title": "Mechanism over willpower",
-          "description": "We do not ask users to be more disciplined. We design systems where doing the right thing is the easiest thing. The environment shapes the behavior."
-        },
-        "substance": {
-          "title": "Substance over performance",
-          "description": "We build products that work in real lives, not products that look good in marketing materials. Honest progress matters more than impressive numbers."
-        },
-        "privacy": {
-          "title": "Privacy as a default",
-          "description": "Behavioral data is among the most sensitive data a person can share. We treat it accordingly: minimal collection, strong encryption, regional storage, and full user control over deletion and export."
+        "firms": {
+          "value": "0",
+          "label": "domestic advisory firms focused on airport operations — until now"
         }
       }
     },
-    "stats": {
-      "eyebrow": "BY THE NUMBERS",
-      "title": "Building for the long term.",
-      "principles": {
-        "value": "6",
-        "label": "Universal life principles powering every Vitaro protocol"
+    "services": {
+      "regulatory": {
+        "title": "Regulatory & Licensing",
+        "summary": "Airport-opening dossiers, aerodrome certification and structured engagement with the Vietnamese authorities under the 2025 Law."
       },
-      "foundation": {
-        "value": "60",
-        "label": "Days in a Foundation Protocol — the timeframe over which real change becomes visible"
+      "operational": {
+        "title": "Operational Delivery",
+        "summary": "Readiness planning, trials, documentation and embedded bilingual teams that take an airport from built to flying."
       },
-      "mechanisms": {
-        "value": "7",
-        "label": "Behavior-change mechanisms working together to keep users on track"
-      },
-      "encryption": {
-        "value": "100%",
-        "label": "Of user data encrypted at rest and in transit, stored in regional servers"
+      "workforce": {
+        "title": "Workforce & Capability",
+        "summary": "Recruitment pipelines and certified training for the hundreds of operational staff every new airport needs."
       }
     },
-    "cta": {
-      "title": "Ready to see what we're building?",
-      "subtitle": "Vitaro is currently in development for iOS and Android. Visit our product page to learn more, or get in touch if you'd like to partner with us, write about our work, or join our team.",
-      "primaryCta": "Explore Vitaro",
-      "secondaryCta": "Contact Us"
+    "founder": {
+      "lead": "Founded and led by one of the very few professionals who has sat on all three sides of an airport project — the regulator, the operator, and the investor.",
+      "chips": {
+        "regulator": "Regulator — Deputy Director, Southern Airports Authority",
+        "operator": "Operator — CEO, Viet Nam's first private international airport (5 years)",
+        "investor": "Investor — Director, aviation infrastructure, Central Asia"
+      }
+    },
+    "advisoryBench": {
+      "body": "Backed by a senior advisory board drawn from the leadership of Viet Nam's aviation system — airport operations, ground services, civil aviation administration, construction quality and aviation training.",
+      "subline": "Advisor profiles available to partners under NDA."
+    },
+    "ctaBand": {
+      "text": "Building or backing an airport in Viet Nam? Let's talk.",
+      "button": "Contact us"
     }
   },
   "Metadata": {
     "siteName": "Avio Group",
-    "defaultTitle": "Avio Group — Building Technology That Helps People Live Better",
-    "defaultDescription": "Avio Group Company Limited develops Vitaro, a behavior-change platform that helps people identify root causes and follow personalized protocols for lasting transformation.",
+    "defaultTitle": "Avio Group — Airport Operations Advisory in Viet Nam",
+    "defaultDescription": "Viet Nam's first airport operations advisory. We make international standards deliverable — regulatory & licensing, operational delivery and workforce capability for the country's new private airports.",
     "home": {
-      "title": "Home",
-      "description": "Avio Group builds behavior-change technology. Discover Vitaro—personalized protocols, daily rhythm, and privacy-first design for real transformation."
+      "title": "Airport Operations Advisory",
+      "description": "Viet Nam's first airport operations advisory — regulatory & licensing, operational delivery and workforce capability for the country's new wave of private airports."
     },
     "contact": {
       "title": "Contact",
-      "description": "Contact Avio Group for partnerships, press, support, or careers. Emails, Vietnam registration details, and D-U-N-S 626314981 for verification."
+      "description": "Building or backing an airport in Viet Nam? Talk to Avio Group about licensing, operational readiness and workforce."
     },
     "privacy": {
       "title": "Privacy Policy",
@@ -167,6 +118,18 @@
     "terms": {
       "title": "Terms of Service",
       "description": "Terms of Service for Avio Group websites and Vitaro: acceptable use, accounts, IP, disclaimers (non-medical), liability, and governing law in Vietnam."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Three service layers for new airports in Viet Nam: regulatory & licensing, operational delivery, and workforce & capability — plus teaming, direct advisory and lender's technical advisor models."
+    },
+    "team": {
+      "title": "Team",
+      "description": "Founded by a professional who has sat on all three sides of an airport project — regulator, operator and investor — backed by a senior advisory board from Viet Nam's aviation system."
+    },
+    "insights": {
+      "title": "Insights",
+      "description": "\"Vietnam Private Airports — The Operations Gap\": an upcoming joint market report. Leave your email to receive it on release."
     }
   },
   "Nav": {
@@ -175,7 +138,10 @@
     "contact": "Contact",
     "openMenu": "Open navigation menu",
     "closeMenu": "Close navigation menu",
-    "logoAlt": "Avio Group logo"
+    "logoAlt": "Avio Group logo",
+    "services": "Services",
+    "team": "Team",
+    "insights": "Insights"
   },
   "PrivacyPage": {
     "title": "Privacy Policy",
@@ -323,6 +289,75 @@
       "p1": "Questions about these Terms: hello@aviogroup.eco",
       "p2": "Legal or regulatory inquiries should include sufficient detail and, where appropriate, official letterhead references.",
       "p3": "We publish corporate verification information (including D-U-N-S 626314981) to assist partners, stores, and users seeking legitimate contact paths."
+    }
+  },
+  "ServicesPage": {
+    "layers": {
+      "regulatory": {
+        "deliverables": [
+          "Airport-opening dossier preparation and management",
+          "Aerodrome certification support",
+          "Aviation security programme development",
+          "Authority liaison and inspection support",
+          "Regulatory monitoring under Law 130/2025"
+        ],
+        "whoFor": "International firms delivering mandates in Viet Nam, and investors preparing a new airport for opening."
+      },
+      "operational": {
+        "deliverables": [
+          "Operational readiness planning and trials",
+          "Airport operations documentation (manuals, SOPs)",
+          "Peak-season resource modelling and multi-airport staffing strategies",
+          "Independent operational readiness reviews"
+        ],
+        "whoFor": "Airport owners approaching opening day — or a peak season they cannot afford to miss."
+      },
+      "workforce": {
+        "deliverables": [
+          "Recruitment pipeline design for new airports",
+          "Certified training programme delivery through the national aviation training system",
+          "Capability transfer for owner's operations teams"
+        ],
+        "whoFor": "New airports that must build a certified operational workforce from zero — in provinces that have never had one."
+      }
+    },
+    "engagementModels": {
+      "teaming": {
+        "title": "Teaming with international firms",
+        "body": "We act as the local delivery layer inside your mandate — your brand and methodology, our regulatory access and delivery capacity."
+      },
+      "directAdvisory": {
+        "title": "Direct advisory to airport investors",
+        "body": "Outcome-linked engagements for licensing, readiness and workforce — fees tied to the milestones that matter."
+      },
+      "lenderAdvisor": {
+        "title": "Lender's technical advisor",
+        "body": "Independent operational and licensing risk assessment for banks financing airport assets in Viet Nam."
+      }
+    }
+  },
+  "TeamPage": {
+    "founder": {
+      "closing": "Three seats, one conclusion: an airport succeeds when the regulator's requirements, the operator's realities and the investor's economics are engineered together from day one."
+    },
+    "advisoryBoard": {
+      "cards": {
+        "airportOperations": "Airport Operations — former deputy director, major international airport",
+        "groundServices": "Ground Services — former CEO, leading ground services company",
+        "civilAviation": "Civil Aviation Administration — former senior officials, airports & flight operations",
+        "constructionQuality": "Construction Quality & Design — former head of state construction quality authority",
+        "aviationTraining": "Aviation Training — former director, national aviation academy"
+      },
+      "footer": "Individual profiles available to partners under NDA."
+    },
+    "regionalPanel": "A regional advisory panel of retired senior leaders from major Southeast Asian airport operators."
+  },
+  "InsightsPage": {
+    "intro": "Coming this autumn: \"Vietnam Private Airports — The Operations Gap\", a joint market report with an international aviation research partner. Leave your email to receive it on release.",
+    "form": {
+      "success": "Thank you — the report will reach you first.",
+      "email": "Email",
+      "submit": "Notify me"
     }
   }
 }

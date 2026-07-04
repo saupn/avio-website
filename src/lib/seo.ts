@@ -4,10 +4,20 @@ import type { Metadata } from "next";
 
 const base = new URL("https://aviogroup.eco");
 
-type PageKey = "home" | "contact" | "privacy" | "terms";
+type PageKey =
+  | "home"
+  | "services"
+  | "team"
+  | "insights"
+  | "contact"
+  | "privacy"
+  | "terms";
 
 const pathByKey: Record<PageKey, string> = {
   home: "",
+  services: "services",
+  team: "team",
+  insights: "insights",
   contact: "contact",
   privacy: "privacy-policy",
   terms: "terms-of-service",

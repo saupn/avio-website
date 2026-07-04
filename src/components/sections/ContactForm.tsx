@@ -1,26 +1,27 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { type FormEvent, useState } from "react";
+import { type FormEvent } from "react";
 import { Button } from "@/components/ui/Button";
 
-/** Static contact UI that confirms submissions while backend integration is pending. */
+const roleOptions = [
+  "internationalFirm",
+  "airportInvestor",
+  "authority",
+  "financialInstitution",
+  "other",
+] as const;
+
+/**
+ * Contact form skeleton with the new `role` classification field.
+ * Submission (Firestore + validation + rate limiting) is wired in T8.
+ */
 export function ContactForm() {
   const t = useTranslations("ContactPage.form");
-  const [submitted, setSubmitted] = useState(false);
 
   const handleSubmit = (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    setSubmitted(true);
   };
-
-  if (submitted) {
-    return (
-      <p className="rounded-md border border-primary-pale bg-primary-pale/60 p-4 text-sm font-medium text-primary-dark">
-        {t("thanks")}
-      </p>
-    );
-  }
 
   return (
     <form className="space-y-5" noValidate onSubmit={handleSubmit}>
@@ -38,6 +39,35 @@ export function ContactForm() {
         />
       </div>
       <div>
+        <label className="block text-sm font-semibold text-neutral-800" htmlFor="organisation">
+          {t("organisation")}
+        </label>
+        <input
+          autoComplete="organization"
+          className="mt-2 w-full rounded-md border border-neutral-200 px-3 py-2 text-sm shadow-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+          id="organisation"
+          name="organisation"
+          type="text"
+        />
+      </div>
+      <div>
+        <label className="block text-sm font-semibold text-neutral-800" htmlFor="role">
+          {t("role")}
+        </label>
+        <select
+          className="mt-2 w-full rounded-md border border-neutral-200 px-3 py-2 text-sm shadow-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+          defaultValue="internationalFirm"
+          id="role"
+          name="role"
+        >
+          {roleOptions.map((option) => (
+            <option key={option} value={option}>
+              {t(`roleOptions.${option}`)}
+            </option>
+          ))}
+        </select>
+      </div>
+      <div>
         <label className="block text-sm font-semibold text-neutral-800" htmlFor="email">
           {t("email")} *
         </label>
@@ -49,23 +79,6 @@ export function ContactForm() {
           required
           type="email"
         />
-      </div>
-      <div>
-        <label className="block text-sm font-semibold text-neutral-800" htmlFor="reason">
-          {t("reason")}
-        </label>
-        <select
-          className="mt-2 w-full rounded-md border border-neutral-200 px-3 py-2 text-sm shadow-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary"
-          defaultValue="general"
-          id="reason"
-          name="reason"
-        >
-          <option value="general">{t("reasonGeneral")}</option>
-          <option value="press">{t("reasonPress")}</option>
-          <option value="partnership">{t("reasonPartnership")}</option>
-          <option value="support">{t("reasonSupport")}</option>
-          <option value="other">{t("reasonOther")}</option>
-        </select>
       </div>
       <div>
         <label className="block text-sm font-semibold text-neutral-800" htmlFor="message">

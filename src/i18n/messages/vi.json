@@ -6,42 +6,32 @@
     "SUPPORT_EMAIL": "support@aviogroup.eco"
   },
   "ContactPage": {
-    "title": "Liên hệ với Avio Group.",
-    "lead": "Chúng tôi đọc mọi tin nhắn nhận được. Dù bạn là người dùng có câu hỏi, một nhà báo đang viết bài, một nhà đầu tư đang tìm hiểu cơ hội hợp tác, hay một người quan tâm đến việc gia nhập đội ngũ, chúng tôi rất muốn được nghe từ bạn.",
-    "info": {
-      "general": "Liên hệ chung",
-      "privacy": "Quyền riêng tư & dữ liệu",
-      "press": "Báo chí",
-      "support": "Hỗ trợ (Vitaro)",
-      "country": "Quốc gia",
-      "countryValue": "Việt Nam",
-      "duns": "D-U-N-S"
-    },
-    "responseNote": "Chúng tôi thường phản hồi trong vòng hai ngày làm việc. Với các vấn đề khẩn cấp liên quan đến an toàn người dùng hoặc quyền riêng tư dữ liệu, vui lòng đánh dấu rõ trong tiêu đề email.",
+    "title": "Cùng trao đổi về dự án sân bay của bạn.",
     "form": {
       "name": "Họ tên",
+      "organisation": "Tổ chức",
+      "role": "Vai trò",
+      "roleOptions": {
+        "internationalFirm": "Hãng quốc tế",
+        "airportInvestor": "Nhà đầu tư sân bay",
+        "authority": "Cơ quan quản lý",
+        "financialInstitution": "Tổ chức tài chính",
+        "other": "Khác"
+      },
       "email": "Email",
-      "reason": "Lý do liên hệ",
-      "reasonGeneral": "Chung",
-      "reasonPress": "Báo chí",
-      "reasonPartnership": "Hợp tác",
-      "reasonSupport": "Hỗ trợ",
-      "reasonOther": "Khác",
       "message": "Tin nhắn",
-      "submit": "Gửi tin nhắn",
-      "thanks": "Cảm ơn bạn. Vui lòng gửi email trực tiếp đến hello@aviogroup.eco trong khi chúng tôi đang hoàn thiện tích hợp form."
+      "submit": "Gửi tin nhắn"
     }
   },
   "Footer": {
     "companyName": "Công ty TNHH Avio Group",
-    "tagline": "Xây dựng công nghệ giúp con người sống tốt hơn.",
     "dunsLabel": "D-U-N-S:",
     "dunsValue": "626314981",
     "navigateHeading": "Điều hướng",
     "legalHeading": "Pháp lý",
     "touchHeading": "Liên hệ",
-    "helloEmail": "hello@aviogroup.eco",
-    "country": "Việt Nam",
+    "helloEmail": "contact@aviogroup.eco",
+    "country": "Quảng Ninh, Việt Nam",
     "privacy": "Chính sách bảo mật",
     "terms": "Điều khoản dịch vụ",
     "dataProtection": "Bảo vệ dữ liệu",
@@ -49,116 +39,77 @@
     "copyrightVi": "© 2026 Công ty TNHH Avio Group. Mọi quyền được bảo lưu.",
     "nav": {
       "home": "Trang chủ",
+      "services": "Dịch vụ",
+      "team": "Đội ngũ",
+      "insights": "Góc nhìn",
       "contact": "Liên hệ"
     }
   },
   "Home": {
     "hero": {
-      "eyebrow": "AVIO GROUP",
-      "title": "Xây dựng công nghệ giúp con người sống tốt hơn.",
-      "subtitle": "Chúng tôi xây dựng các hệ sinh thái số biến ý định thành thói quen bền vững. Sản phẩm chủ lực của chúng tôi, Vitaro, giúp mỗi người xác định gốc rễ của những thách thức họ đang đối mặt và đi theo các lộ trình cá nhân hóa để thay đổi cuộc sống — bắt đầu từ một hành động nhỏ được duy trì mỗi ngày.",
-      "primaryCta": "Khám phá Vitaro",
-      "secondaryCta": "Về chúng tôi",
-      "imageAlt": "Nền trừu tượng tĩnh lặng gợi sự rõ ràng và tiến về phía trước"
+      "title": "Đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam.",
+      "subtitle": "Chúng tôi giúp các tiêu chuẩn quốc tế triển khai được tại Việt Nam — cấp phép, vận hành và nhân lực, cho làn sóng sân bay tư nhân mới của đất nước.",
+      "primaryCta": "Hợp tác với chúng tôi",
+      "secondaryCta": "Dịch vụ"
     },
-    "whoWeAre": {
-      "eyebrow": "VỀ CHÚNG TÔI",
-      "title": "Một công ty công nghệ với sứ mệnh rõ ràng.",
-      "p1": "Công ty TNHH Avio Group là một công ty công nghệ có trụ sở tại Việt Nam, chuyên xây dựng phần mềm thay đổi hành vi cho thị trường toàn cầu. Chúng tôi được thành lập với niềm tin rằng những sản phẩm có giá trị nhất trong kỷ nguyên AI không phải là những sản phẩm tự động hóa nỗ lực của con người, mà là những sản phẩm giúp con người định hướng nỗ lực của mình vào những điều thực sự quan trọng. Chúng tôi hoạt động ở giao điểm giữa khoa học hành vi, kỹ thuật phần mềm và trí tuệ nhân tạo ứng dụng.",
-      "p2": "Công việc của chúng tôi dựa trên một quan sát đơn giản: phần lớn mọi người không thất bại vì thiếu thông tin. Họ thất bại vì không thể duy trì hành động đủ lâu để sự thay đổi thực sự diễn ra. Sách được mua nhưng không đọc. Chương trình được bắt đầu nhưng không hoàn thành. Kế hoạch được lập nhưng bị bỏ giữa chừng. Chúng tôi xây dựng phần mềm để giải quyết khoảng cách phổ quát này một cách trực tiếp — không phải bằng động lực, vốn rất ngắn ngủi, mà bằng những hệ thống có cấu trúc khiến hành vi đúng đắn trở thành hành vi dễ lặp lại nhất.",
-      "p3": "Avio Group được đăng ký kinh doanh tại Việt Nam và sở hữu mã số D-U-N-S 626314981, được xác minh bởi Dun & Bradstreet. Chúng tôi cam kết hoạt động minh bạch, tuân thủ các tiêu chuẩn bảo vệ dữ liệu quốc tế bao gồm GDPR, và xây dựng những sản phẩm an toàn, có đạo đức và thực sự hữu ích cho người dùng.",
-      "imageAlt": "Cuốn sách mở trên tảng đá giữa rừng thu có nắng, gợi sự suy ngẫm và học hỏi bền lâu"
-    },
-    "vitaro": {
-      "eyebrow": "SẢN PHẨM CHỦ LỰC",
-      "title": "Vitaro — hệ điều hành cho cuộc sống của bạn.",
-      "p1": "Vitaro là một nền tảng thay đổi hành vi giúp con người xác định gốc rễ thực sự của những thách thức cá nhân và đi theo các lộ trình có cấu trúc, dựa trên khoa học để tạo ra sự thay đổi bền vững. Dù người dùng đang vật lộn với căng thẳng, ranh giới không rõ ràng, giá trị bản thân thấp, thiếu tập trung hay mất cân bằng trong cuộc sống hàng ngày, Vitaro cung cấp một lộ trình cá nhân hóa được xây dựng xoay quanh sáu nguyên tắc sống phổ quát.",
-      "p2": "Điều làm Vitaro khác biệt là sự cam kết với chiều sâu thay vì tốc độ. Chúng tôi không hứa hẹn sự biến đổi trong bảy ngày. Chúng tôi xây dựng những hệ thống giúp con người xuất hiện đều đặn trong sáu mươi, chín mươi và ba trăm sáu mươi lăm ngày — khoảng thời gian mà sự thay đổi thực sự diễn ra. Thông qua sự kết hợp giữa hướng dẫn thông minh, các thực hành nhỏ hàng ngày, hỗ trợ cộng đồng và huấn luyện viên tùy chọn, Vitaro trở thành cơ sở hạ tầng mà người dùng quay về mỗi khi họ muốn phát triển.",
-      "features": {
-        "root": {
-          "title": "Phân tích gốc rễ",
-          "description": "Đừng chỉ chữa triệu chứng. Vitaro hướng dẫn bạn qua một cuộc trò chuyện có cấu trúc để xác định điều gì thực sự đang thúc đẩy thách thức của bạn, để bạn xử lý đúng vấn đề ngay từ đầu."
+    "marketMoment": {
+      "stats": {
+        "airports": {
+          "value": "5–7",
+          "label": "sân bay tư nhân mới dự kiến tại Việt Nam trong năm năm tới"
         },
-        "protocols": {
-          "title": "Lộ trình cá nhân hóa",
-          "description": "Nhận một lộ trình rõ ràng theo từng ngày được thiết kế riêng cho hoàn cảnh của bạn. Mỗi lộ trình chia sự thay đổi thành những hành động nhỏ, dễ thực hiện chỉ trong vài phút mỗi ngày."
+        "law": {
+          "value": "01/7/2026",
+          "label": "Luật Hàng không dân dụng 130/2025 có hiệu lực — khung pháp lý chưa có tiền lệ áp dụng"
         },
-        "rhythm": {
-          "title": "Hệ thống nhịp ngày",
-          "description": "Một điểm neo buổi sáng và một điểm đóng buổi tối — hai khoảnh khắc ngắn giúp xây dựng đà mà không chiếm thời gian của bạn. Phần lớn các ngày chỉ mất chưa đến bảy phút."
-        },
-        "community": {
-          "title": "Cộng đồng đồng hành",
-          "description": "Tham gia cùng những người khác đang đi trên cùng con đường. Lớp cộng đồng của Vitaro mang lại sự đồng hành và kinh nghiệm chia sẻ mà không có phán xét, so sánh hay sự ồn ào của mạng xã hội."
-        }
-      },
-      "cta": "Tìm hiểu thêm về Vitaro"
-    },
-    "philosophy": {
-      "eyebrow": "TRIẾT LÝ",
-      "title": "Chúng tôi không bán động lực. Chúng tôi thiết kế cơ chế.",
-      "intro": "Mọi sản phẩm chúng tôi xây dựng đều dựa trên một bộ nguyên tắc định hướng chúng tôi làm gì, làm như thế nào và làm vì điều gì. Đây không phải là khẩu hiệu marketing. Đây là những ràng buộc vận hành chúng tôi dùng khi quyết định cái gì được xây và cái gì bị cắt bỏ.",
-      "principles": {
-        "rhythm": {
-          "title": "Nhịp đều quan trọng hơn cường độ",
-          "description": "Sự kiên trì bền vững tạo ra thay đổi lâu dài. Những đợt bùng nổ động lực thì không. Chúng tôi xây dựng sản phẩm đề cao việc xuất hiện đều đặn hơn là thể hiện."
-        },
-        "root": {
-          "title": "Gốc rễ quan trọng hơn triệu chứng",
-          "description": "Vấn đề có thể nhìn thấy hiếm khi là vấn đề thực sự. Sản phẩm của chúng tôi được xây dựng để làm lộ ra gốc rễ — kể cả khi đó là con đường chậm hơn, khó hơn — vì xử lý gốc rễ là con đường duy nhất dẫn đến thay đổi bền vững."
-        },
-        "mechanism": {
-          "title": "Cơ chế quan trọng hơn ý chí",
-          "description": "Chúng tôi không yêu cầu người dùng phải kỷ luật hơn. Chúng tôi thiết kế những hệ thống mà làm đúng là việc dễ nhất. Môi trường định hình hành vi."
-        },
-        "substance": {
-          "title": "Bản chất quan trọng hơn vẻ ngoài",
-          "description": "Chúng tôi xây dựng những sản phẩm hoạt động trong cuộc sống thực, không phải những sản phẩm trông đẹp trong tài liệu marketing. Tiến bộ thật sự quan trọng hơn những con số ấn tượng."
-        },
-        "privacy": {
-          "title": "Quyền riêng tư là mặc định",
-          "description": "Dữ liệu hành vi là một trong những loại dữ liệu nhạy cảm nhất mà một người có thể chia sẻ. Chúng tôi đối xử với nó tương xứng: thu thập tối thiểu, mã hóa mạnh, lưu trữ theo khu vực và người dùng có quyền kiểm soát đầy đủ việc xóa và xuất dữ liệu."
+        "firms": {
+          "value": "0",
+          "label": "đơn vị tư vấn trong nước chuyên về khai thác sân bay — cho đến nay"
         }
       }
     },
-    "stats": {
-      "eyebrow": "CÁC CON SỐ",
-      "title": "Xây dựng cho dài hạn.",
-      "principles": {
-        "value": "6",
-        "label": "Nguyên tắc sống phổ quát làm nền tảng cho mọi lộ trình Vitaro"
+    "services": {
+      "regulatory": {
+        "title": "Cấp phép & Chứng nhận",
+        "summary": "Hồ sơ mở cảng, chứng nhận khai thác sân bay và làm việc bài bản với các cơ quan quản lý theo Luật 2025."
       },
-      "foundation": {
-        "value": "60",
-        "label": "Ngày trong một Foundation Protocol — khoảng thời gian sự thay đổi thực sự bắt đầu rõ nét"
+      "operational": {
+        "title": "Triển khai Khai thác",
+        "summary": "Kế hoạch sẵn sàng khai thác, thử nghiệm vận hành, tài liệu khai thác và đội ngũ song ngữ đồng hành — đưa sân bay từ \"xây xong\" đến \"cất cánh\"."
       },
-      "mechanisms": {
-        "value": "7",
-        "label": "Cơ chế thay đổi hành vi cùng phối hợp để giữ người dùng đi đúng hướng"
-      },
-      "encryption": {
-        "value": "100%",
-        "label": "Dữ liệu người dùng được mã hóa khi lưu trữ và truyền tải, lưu trên máy chủ theo khu vực"
+      "workforce": {
+        "title": "Nhân lực & Năng lực",
+        "summary": "Tuyển dụng và đào tạo có chứng chỉ cho hàng trăm nhân sự khai thác mà mỗi sân bay mới cần."
       }
     },
-    "cta": {
-      "title": "Sẵn sàng khám phá những gì chúng tôi đang xây dựng?",
-      "subtitle": "Vitaro hiện đang được phát triển cho iOS và Android. Truy cập trang sản phẩm để tìm hiểu thêm, hoặc liên hệ nếu bạn muốn hợp tác với chúng tôi, viết về công việc của chúng tôi hoặc gia nhập đội ngũ.",
-      "primaryCta": "Khám phá Vitaro",
-      "secondaryCta": "Liên hệ"
+    "founder": {
+      "lead": "Được sáng lập và dẫn dắt bởi một trong số rất ít chuyên gia từng đứng ở cả ba phía của một dự án sân bay — nhà chức trách, nhà khai thác và nhà đầu tư.",
+      "chips": {
+        "regulator": "Nhà chức trách — Phó Giám đốc Cảng vụ Hàng không miền Nam",
+        "operator": "Nhà khai thác — Tổng Giám đốc sân bay quốc tế tư nhân đầu tiên của Việt Nam (5 năm)",
+        "investor": "Nhà đầu tư — Giám đốc hạ tầng hàng không tại Trung Á"
+      }
+    },
+    "advisoryBench": {
+      "body": "Đồng hành cùng Hội đồng cố vấn cấp cao quy tụ các lãnh đạo từ hệ thống hàng không Việt Nam — khai thác cảng, phục vụ mặt đất, quản lý nhà nước về hàng không, chất lượng xây dựng và đào tạo hàng không.",
+      "subline": "Hồ sơ cố vấn cung cấp cho đối tác theo thỏa thuận bảo mật."
+    },
+    "ctaBand": {
+      "text": "Đang phát triển hoặc đầu tư một sân bay tại Việt Nam? Hãy trao đổi với chúng tôi.",
+      "button": "Liên hệ"
     }
   },
   "Metadata": {
     "siteName": "Avio Group",
-    "defaultTitle": "Avio Group — Công nghệ giúp con người sống tốt hơn",
-    "defaultDescription": "Công ty TNHH Avio Group phát triển Vitaro—nền tảng thay đổi hành vi giúp xác định gốc rễ và theo lộ trình cá nhân hóa cho sự chuyển hóa bền vững.",
+    "defaultTitle": "Avio Group — Tư vấn khai thác sân bay tại Việt Nam",
+    "defaultDescription": "Đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam. Chúng tôi giúp các tiêu chuẩn quốc tế triển khai được — cấp phép & chứng nhận, triển khai khai thác và nhân lực & năng lực cho các sân bay tư nhân mới.",
     "home": {
-      "title": "Trang chủ",
-      "description": "Avio Group xây dựng công nghệ thay đổi hành vi. Khám phá Vitaro—lộ trình cá nhân, nhịp ngày và thiết kế ưu tiên quyền riêng tư cho sự thay đổi thực."
+      "title": "Tư vấn khai thác sân bay",
+      "description": "Đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam — cấp phép & chứng nhận, triển khai khai thác và nhân lực & năng lực cho làn sóng sân bay tư nhân mới của đất nước."
     },
     "contact": {
       "title": "Liên hệ",
-      "description": "Liên hệ Avio Group cho hợp tác, báo chí, hỗ trợ hoặc tuyển dụng. Email, thông tin đăng ký Việt Nam và D-U-N-S 626314981."
+      "description": "Đang phát triển hoặc đầu tư một sân bay tại Việt Nam? Hãy trao đổi với Avio Group về cấp phép, sẵn sàng khai thác và nhân lực."
     },
     "privacy": {
       "title": "Chính sách bảo mật",
@@ -167,6 +118,18 @@
     "terms": {
       "title": "Điều khoản dịch vụ",
       "description": "Điều khoản dịch vụ cho website Avio Group và Vitaro: sử dụng chấp nhận được, tài khoản, sở hữu trí tuệ, miễn trừ y tế, trách nhiệm và luật Việt Nam."
+    },
+    "services": {
+      "title": "Dịch vụ",
+      "description": "Ba lớp dịch vụ cho các sân bay mới tại Việt Nam: cấp phép & chứng nhận, triển khai khai thác, và nhân lực & năng lực — cùng các mô hình hợp tác, tư vấn trực tiếp và tư vấn kỹ thuật cho bên cho vay."
+    },
+    "team": {
+      "title": "Đội ngũ",
+      "description": "Được sáng lập bởi chuyên gia từng đứng ở cả ba phía của một dự án sân bay — nhà chức trách, nhà khai thác và nhà đầu tư — cùng Hội đồng cố vấn cấp cao từ hệ thống hàng không Việt Nam."
+    },
+    "insights": {
+      "title": "Góc nhìn",
+      "description": "\"Sân bay tư nhân Việt Nam — Khoảng trống khai thác\": báo cáo thị trường sắp ra mắt. Để lại email để nhận báo cáo khi phát hành."
     }
   },
   "Nav": {
@@ -175,7 +138,10 @@
     "contact": "Liên hệ",
     "openMenu": "Mở menu điều hướng",
     "closeMenu": "Đóng menu điều hướng",
-    "logoAlt": "Logo Avio Group"
+    "logoAlt": "Logo Avio Group",
+    "services": "Dịch vụ",
+    "team": "Đội ngũ",
+    "insights": "Góc nhìn"
   },
   "PrivacyPage": {
     "title": "Chính sách bảo mật",
@@ -323,6 +289,75 @@
       "p1": "Thắc mắc về Điều khoản: hello@aviogroup.eco",
       "p2": "Yêu cầu pháp lý hoặc quản lý nên kèm chi tiết đầy đủ và, khi thích hợp, tham chiếu văn bản chính thức.",
       "p3": "Chúng tôi công bố thông tin xác minh doanh nghiệp (gồm D-U-N-S 626314981) để hỗ trợ đối tác, cửa hàng ứng dụng và người dùng tìm đường liên hệ hợp pháp."
+    }
+  },
+  "ServicesPage": {
+    "layers": {
+      "regulatory": {
+        "deliverables": [
+          "Chuẩn bị và quản lý hồ sơ mở cảng hàng không",
+          "Hỗ trợ chứng nhận khai thác sân bay",
+          "Xây dựng chương trình an ninh hàng không",
+          "Làm việc với cơ quan quản lý và hỗ trợ kiểm tra, nghiệm thu",
+          "Theo dõi, cập nhật quy định theo Luật 130/2025"
+        ],
+        "whoFor": "Các hãng quốc tế đang triển khai hợp đồng tại Việt Nam, và các nhà đầu tư chuẩn bị đưa sân bay mới vào khai thác."
+      },
+      "operational": {
+        "deliverables": [
+          "Lập kế hoạch sẵn sàng khai thác và thử nghiệm vận hành",
+          "Hệ thống tài liệu khai thác sân bay (tài liệu khai thác, quy trình SOP)",
+          "Mô hình nguồn lực mùa cao điểm và chiến lược nhân sự đa sân bay",
+          "Đánh giá độc lập mức độ sẵn sàng khai thác"
+        ],
+        "whoFor": "Chủ đầu tư sân bay đang tiến tới ngày khai thác đầu tiên — hoặc một mùa cao điểm không được phép lỡ nhịp."
+      },
+      "workforce": {
+        "deliverables": [
+          "Thiết kế nguồn tuyển dụng cho sân bay mới",
+          "Triển khai chương trình đào tạo có chứng chỉ qua hệ thống đào tạo hàng không quốc gia",
+          "Chuyển giao năng lực cho đội ngũ khai thác của chủ đầu tư"
+        ],
+        "whoFor": "Các sân bay mới phải xây dựng đội ngũ khai thác đạt chứng chỉ từ con số không — tại những địa phương chưa từng có sân bay."
+      }
+    },
+    "engagementModels": {
+      "teaming": {
+        "title": "Hợp tác cùng các hãng quốc tế",
+        "body": "Chúng tôi là lớp triển khai bản địa trong hợp đồng của bạn — thương hiệu và phương pháp của bạn, năng lực tiếp cận quy định và triển khai của chúng tôi."
+      },
+      "directAdvisory": {
+        "title": "Tư vấn trực tiếp cho nhà đầu tư sân bay",
+        "body": "Hợp đồng gắn với kết quả cho cấp phép, sẵn sàng khai thác và nhân lực — phí theo đúng những mốc quan trọng nhất."
+      },
+      "lenderAdvisor": {
+        "title": "Tư vấn kỹ thuật cho bên cho vay",
+        "body": "Đánh giá độc lập rủi ro vận hành và cấp phép cho các ngân hàng tài trợ dự án sân bay tại Việt Nam."
+      }
+    }
+  },
+  "TeamPage": {
+    "founder": {
+      "closing": "Ba vị trí, một kết luận: một sân bay thành công khi yêu cầu của nhà chức trách, thực tế của nhà khai thác và bài toán kinh tế của nhà đầu tư được thiết kế đồng bộ ngay từ ngày đầu."
+    },
+    "advisoryBoard": {
+      "cards": {
+        "airportOperations": "Khai thác cảng — nguyên Phó Giám đốc một cảng hàng không quốc tế lớn",
+        "groundServices": "Phục vụ mặt đất — nguyên Tổng Giám đốc công ty phục vụ mặt đất hàng đầu",
+        "civilAviation": "Quản lý nhà nước về hàng không — nguyên lãnh đạo cấp phòng, khối cảng hàng không và hoạt động bay",
+        "constructionQuality": "Chất lượng xây dựng & Thiết kế — nguyên lãnh đạo cơ quan quản lý chất lượng công trình nhà nước",
+        "aviationTraining": "Đào tạo hàng không — nguyên Giám đốc học viện hàng không quốc gia"
+      },
+      "footer": "Hồ sơ chi tiết cung cấp cho đối tác theo thỏa thuận bảo mật."
+    },
+    "regionalPanel": "Hội đồng cố vấn khu vực gồm các cựu lãnh đạo cấp cao từ những nhà khai thác sân bay lớn tại Đông Nam Á."
+  },
+  "InsightsPage": {
+    "intro": "Ra mắt mùa thu này: \"Sân bay tư nhân Việt Nam — Khoảng trống khai thác\", báo cáo thị trường hợp tác cùng đối tác nghiên cứu hàng không quốc tế. Để lại email để nhận báo cáo khi phát hành.",
+    "form": {
+      "success": "Cảm ơn bạn — báo cáo sẽ đến với bạn sớm nhất.",
+      "email": "Email",
+      "submit": "Nhận báo cáo"
     }
   }
 }

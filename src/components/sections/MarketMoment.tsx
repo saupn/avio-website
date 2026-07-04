@@ -1,22 +1,16 @@
 import { getTranslations } from "next-intl/server";
 import { Container } from "@/components/ui/Container";
-import { SectionHeader } from "@/components/ui/SectionHeader";
 
-const statKeys = ["principles", "foundation", "mechanisms", "encryption"] as const;
+const statKeys = ["airports", "law", "firms"] as const;
 
-/** Trust-building stats row for the homepage. */
-export async function StatsSection() {
-  const t = await getTranslations("Home.stats");
+/** Home "market moment": three stat cards on Viet Nam's new-airport wave. */
+export async function MarketMoment() {
+  const t = await getTranslations("Home.marketMoment.stats");
 
   return (
     <section className="bg-neutral-50 py-20 md:py-28 lg:py-32">
       <Container>
-        <SectionHeader
-          eyebrow={t("eyebrow")}
-          title={t("title")}
-          titleAs="h2"
-        />
-        <div className="mt-14 grid gap-10 md:grid-cols-2 lg:mt-16 lg:grid-cols-4">
+        <div className="grid gap-10 md:grid-cols-3">
           {statKeys.map((key) => (
             <div className="animate-in-section" key={key}>
               <p className="text-4xl font-bold text-primary md:text-5xl">

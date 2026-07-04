@@ -5,6 +5,9 @@ import { LanguageSwitcher } from "@/components/layout/LanguageSwitcher";
 
 const footerNav = [
   { href: "/", key: "home" as const },
+  { href: "/services", key: "services" as const },
+  { href: "/team", key: "team" as const },
+  { href: "/insights", key: "insights" as const },
   { href: "/contact", key: "contact" as const },
 ];
 
@@ -30,9 +33,6 @@ export async function Footer() {
             </div>
             <p className="text-sm font-semibold text-white">
               {t("companyName")}
-            </p>
-            <p className="text-sm leading-relaxed text-neutral-400">
-              {t("tagline")}
             </p>
             <p className="text-sm text-neutral-400">
               <span className="font-medium text-neutral-200">

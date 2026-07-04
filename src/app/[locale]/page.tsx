@@ -1,10 +1,10 @@
 import { setRequestLocale } from "next-intl/server";
-import { AboutSnapshot } from "@/components/sections/About";
-import { CTASection } from "@/components/sections/CTA";
+import { BenchStrip } from "@/components/sections/BenchStrip";
+import { CtaBand } from "@/components/sections/CtaBand";
+import { FounderStrip } from "@/components/sections/FounderStrip";
 import { Hero } from "@/components/sections/Hero";
-import { PhilosophySection } from "@/components/sections/Philosophy";
-import { ProductShowcase } from "@/components/sections/ProductShowcase";
-import { StatsSection } from "@/components/sections/Stats";
+import { MarketMoment } from "@/components/sections/MarketMoment";
+import { ServiceLayers } from "@/components/sections/ServiceLayers";
 import { createLocalizedMetadata } from "@/lib/seo";
 
 type HomeProps = {
@@ -23,11 +23,11 @@ export default async function HomePage({ params }: HomeProps) {
   return (
     <>
       <Hero />
-      <AboutSnapshot />
-      <ProductShowcase />
-      <PhilosophySection />
-      <StatsSection />
-      <CTASection />
+      <MarketMoment />
+      <ServiceLayers />
+      <FounderStrip />
+      <BenchStrip />
+      <CtaBand />
     </>
   );
 }
