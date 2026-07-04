@@ -1,21 +1,45 @@
 @import "tailwindcss";
 
+/* Class-based dark mode (driven by a `.dark` class on <html>).
+   The theme toggle + provider that set this class arrive in T6. */
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
   --background: #ffffff;
   --foreground: #1c1917;
+  /* Ice-blue tint for alternating sections in light mode (02-design.md). */
+  --surface: #e9eef6;
+}
+
+.dark {
+  /* Deep navy-charcoal base instead of pure black (02-design.md). */
+  --background: #0e1420;
+  --foreground: #e9eef6;
+  --surface: #151d2e;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
   --font-sans: var(--font-lora);
   --font-heading: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
 
+  /* Brand accent — aviation gold. Reserved for the primary CTA, stat numerals,
+     active nav state and thin data accents ONLY (02-design.md). */
+  --color-accent: #b8860b;
+  --color-accent-strong: #9c7209;
+  --color-accent-contrast: #ffffff;
+
+  /* Brand surfaces referenced when components migrate to the token system in T6. */
+  --color-navy: #0e1420;
+  --color-ice: #e9eef6;
+
+  /* Legacy teal primary retained until T6 migrates components to the accent token. */
   --color-primary: #085041;
   --color-primary-light: #1d9e75;
   --color-primary-pale: #e1f5ee;
   --color-primary-dark: #053730;
-  --color-accent: #1d9e75;
 
   --color-neutral-50: #fafaf9;
   --color-neutral-100: #f5f5f4;
