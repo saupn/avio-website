@@ -24,6 +24,16 @@
   --color-surface: var(--surface);
   --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
   --font-heading: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-lora), Georgia, "Times New Roman", serif;
+
+  /* Body copy runs in Lora at ~15px (14.5px mobile) / 1.7 line-height (C3).
+     Small/muted text is floored at 12.5px. Headings/nav/buttons/forms/numerals
+     stay on the sans (set below). */
+  --text-base: clamp(0.90625rem, 0.86rem + 0.28vw, 0.9375rem);
+  --text-base--line-height: 1.7;
+  --text-xs: 0.78125rem;
+  --text-xs--line-height: 1.4;
+  --leading-relaxed: 1.7;
 
   /* Brand accent — aviation gold. Reserved for the primary CTA, stat numerals,
      active nav state and thin data accents ONLY (02-design.md). */
@@ -78,7 +88,9 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-body);
+  font-size: clamp(0.90625rem, 0.86rem + 0.28vw, 0.9375rem);
+  line-height: 1.7;
 }
 
 h1,
@@ -87,9 +99,19 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-heading);
   letter-spacing: -0.02em;
   font-weight: 600;
+}
+
+/* Nav, buttons, form controls and numerals keep the sans (C3). Headings are
+   handled above; the .font-sans class covers link-styled buttons and nav. */
+button,
+input,
+select,
+textarea,
+optgroup {
+  font-family: var(--font-sans);
 }
 
 .animate-in-section {

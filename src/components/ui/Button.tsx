@@ -39,7 +39,7 @@ export function Button(props: ButtonProps) {
     variant = "primary",
   } = props;
   const base =
-    "inline-flex items-center justify-center rounded-md px-5 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-background";
+    "font-sans inline-flex items-center justify-center rounded-md px-5 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-background";
 
   const styles = `${base} ${variantClasses[variant]} ${className}`;
 

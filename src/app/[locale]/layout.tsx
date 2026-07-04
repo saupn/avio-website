@@ -1,6 +1,6 @@
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
-import { Montserrat } from "next/font/google";
+import { Lora, Montserrat } from "next/font/google";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import type { ReactNode } from "react";
@@ -12,6 +12,13 @@ import { routing } from "@/i18n/routing";
 const montserrat = Montserrat({
   subsets: ["latin", "vietnamese"],
   variable: "--font-montserrat",
+  display: "swap",
+});
+
+// Body copy (C3). The vietnamese subset is required for correct vi diacritics.
+const lora = Lora({
+  subsets: ["latin", "vietnamese"],
+  variable: "--font-lora",
   display: "swap",
 });
 
@@ -75,7 +82,7 @@ export default async function LocaleLayout({
 
   return (
     <html
-      className={`${montserrat.variable} h-full font-sans`}
+      className={`${montserrat.variable} ${lora.variable} h-full font-sans`}
       lang={locale}
       suppressHydrationWarning
     >

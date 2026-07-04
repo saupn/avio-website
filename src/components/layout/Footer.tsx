@@ -47,7 +47,7 @@ export async function Footer() {
             <p className="text-xs font-semibold uppercase tracking-wider text-neutral-500">
               {t("navigateHeading")}
             </p>
-            <ul className="mt-4 space-y-3 text-sm">
+            <ul className="mt-4 space-y-3 font-sans text-sm">
               {footerNav.map((item) => (
                 <li key={item.key}>
                   <Link
@@ -65,7 +65,7 @@ export async function Footer() {
             <p className="text-xs font-semibold uppercase tracking-wider text-neutral-500">
               {t("legalHeading")}
             </p>
-            <ul className="mt-4 space-y-3 text-sm">
+            <ul className="mt-4 space-y-3 font-sans text-sm">
               <li>
                 <Link
                   className="transition-colors duration-200 hover:text-white"
@@ -98,7 +98,7 @@ export async function Footer() {
               {t("touchHeading")}
             </p>
             <a
-              className="block text-sm font-medium text-white transition-colors duration-200 hover:text-accent"
+              className="block font-sans text-sm font-medium text-white transition-colors duration-200 hover:text-accent"
               href={`mailto:${t("helloEmail")}`}
             >
               {t("helloEmail")}

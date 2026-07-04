@@ -63,7 +63,7 @@ export function Header() {
             return (
               <Link
                 aria-current={active ? "page" : undefined}
-                className={`text-sm font-medium transition-colors duration-200 ${
+                className={`font-sans text-sm font-medium transition-colors duration-200 ${
                   active
                     ? "text-foreground underline decoration-accent decoration-2 underline-offset-[10px]"
                     : "text-neutral-600 hover:text-foreground dark:text-neutral-400 dark:hover:text-foreground"
@@ -109,7 +109,7 @@ export function Header() {
               return (
                 <Link
                   aria-current={active ? "page" : undefined}
-                  className={`py-2 text-base font-medium ${
+                  className={`font-sans py-2 text-base font-medium ${
                     active
                       ? "text-foreground underline decoration-accent decoration-2 underline-offset-[6px]"
                       : "text-neutral-700 dark:text-neutral-300"
