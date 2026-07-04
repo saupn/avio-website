@@ -17,7 +17,7 @@ const sections = [
   "accounts",
   "acceptableUse",
   "ip",
-  "medical",
+  "noAdvice",
   "liability",
   "termination",
   "changes",
@@ -37,26 +37,26 @@ export default async function TermsOfServicePage({ params }: TermsProps) {
           <p className="text-sm text-neutral-500">
             {t("updatedLabel")}: {t("updatedDate")}
           </p>
-          <h1 className="font-heading text-3xl font-bold text-neutral-900 md:text-4xl">
+          <h1 className="font-heading text-3xl font-semibold tracking-tight text-foreground md:text-4xl">
             {t("title")}
           </h1>
         </header>
 
         <div className="mt-12 space-y-12">
           {sections.map((section) => {
-            if (section === "medical") {
+            if (section === "noAdvice") {
               return (
                 <section className="space-y-4" key={section}>
-                  <h2 className="font-heading text-xl font-semibold text-neutral-900 md:text-2xl">
+                  <h2 className="font-heading text-xl font-semibold text-foreground md:text-2xl">
                     {t(`${section}.title`)}
                   </h2>
-                  <strong className="block font-bold leading-relaxed text-neutral-900">
+                  <strong className="block rounded-md border-l-2 border-accent bg-surface p-4 font-semibold leading-relaxed text-foreground">
                     {t(`${section}.disclaimerBold`)}
                   </strong>
-                  <p className="text-base leading-relaxed text-neutral-600">
+                  <p className="text-base leading-relaxed text-neutral-600 dark:text-neutral-400">
                     {t(`${section}.p2`)}
                   </p>
-                  <p className="text-base leading-relaxed text-neutral-600">
+                  <p className="text-base leading-relaxed text-neutral-600 dark:text-neutral-400">
                     {t(`${section}.p3`)}
                   </p>
                 </section>
@@ -65,16 +65,16 @@ export default async function TermsOfServicePage({ params }: TermsProps) {
 
             return (
               <section className="space-y-4" key={section}>
-                <h2 className="font-heading text-xl font-semibold text-neutral-900 md:text-2xl">
+                <h2 className="font-heading text-xl font-semibold text-foreground md:text-2xl">
                   {t(`${section}.title`)}
                 </h2>
-                <p className="text-base leading-relaxed text-neutral-600">
+                <p className="text-base leading-relaxed text-neutral-600 dark:text-neutral-400">
                   {t(`${section}.p1`)}
                 </p>
-                <p className="text-base leading-relaxed text-neutral-600">
+                <p className="text-base leading-relaxed text-neutral-600 dark:text-neutral-400">
                   {t(`${section}.p2`)}
                 </p>
-                <p className="text-base leading-relaxed text-neutral-600">
+                <p className="text-base leading-relaxed text-neutral-600 dark:text-neutral-400">
                   {t(`${section}.p3`)}
                 </p>
               </section>

@@ -118,11 +118,11 @@
     },
     "privacy": {
       "title": "Chính sách bảo mật",
-      "description": "Chính sách bảo mật của Avio Group và Vitaro: thu thập, dùng dữ liệu, bảo mật, lưu trữ, quyền GDPR, cookie, chuyển giao và liên hệ."
+      "description": "Cách Avio Group xử lý thông tin thu thập qua aviogroup.eco: thu thập, sử dụng, chia sẻ, bảo mật, lưu trữ và quyền của bạn."
     },
     "terms": {
       "title": "Điều khoản dịch vụ",
-      "description": "Điều khoản dịch vụ cho website Avio Group và Vitaro: sử dụng chấp nhận được, tài khoản, sở hữu trí tuệ, miễn trừ y tế, trách nhiệm và luật Việt Nam."
+      "description": "Điều khoản sử dụng website Avio Group: sử dụng chấp nhận được, sở hữu trí tuệ, miễn trừ tư vấn, trách nhiệm và luật áp dụng tại Việt Nam."
     },
     "services": {
       "title": "Dịch vụ",
@@ -152,149 +152,149 @@
   "PrivacyPage": {
     "title": "Chính sách bảo mật",
     "updatedLabel": "Cập nhật lần cuối",
-    "updatedDate": "1 tháng 5, 2026",
+    "updatedDate": "5 tháng 7, 2026",
     "intro": {
       "title": "Giới thiệu",
-      "p1": "Công ty TNHH Avio Group (“Avio Group”, “chúng tôi”) là công ty công nghệ có trụ sở tại Việt Nam, được đăng ký tại Việt Nam và được xác định bằng mã D-U-N-S 626314981 (xác minh bởi Dun & Bradstreet). Chúng tôi phát triển Vitaro — một nền tảng thay đổi hành vi — và vận hành website công ty tại aviogroup.eco.",
-      "p2": "Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ, lưu trữ và bảo vệ thông tin khi bạn truy cập aviogroup.eco hoặc sử dụng Vitaro trên thiết bị được hỗ trợ. Nếu bạn có câu hỏi về quyền riêng tư, hãy liên hệ privacy@aviogroup.eco. Chúng tôi ưu tiên phản hồi kịp thời và, khi áp dụng, trong các khung thời gian mô tả bên dưới.",
-      "p3": "Bằng việc sử dụng website hoặc ứng dụng của chúng tôi, bạn xác nhận đã đọc chính sách này. Nếu bạn không đồng ý, vui lòng ngừng sử dụng. Chúng tôi có thể cập nhật chính sách theo thời gian; các thay đổi trọng yếu sẽ được thông báo như mô tả ở mục “Thay đổi chính sách”."
+      "p1": "Công ty TNHH Avio Group (\"Avio Group\", \"chúng tôi\") là đơn vị tư vấn khai thác sân bay đăng ký tại Việt Nam, mã số D-U-N-S 626314981. Chúng tôi vận hành website tại aviogroup.eco.",
+      "p2": "Chính sách này giải thích chúng tôi thu thập thông tin gì qua website, sử dụng ra sao và bạn có những lựa chọn nào. Chính sách chỉ áp dụng cho website; các hợp đồng với đối tác được điều chỉnh bởi thỏa thuận riêng.",
+      "p3": "Nếu có câu hỏi về chính sách này, vui lòng liên hệ contact@aviogroup.eco."
     },
     "collect": {
       "title": "Thông tin chúng tôi thu thập",
-      "p1": "Thông tin bạn cung cấp trực tiếp có thể gồm chi tiết tài khoản như tên và email; mô tả thách thức và ngữ cảnh trong các phiên có hướng dẫn; phản hồi check-in hàng ngày; và các trường hồ sơ tùy chọn bạn chọn cung cấp.",
-      "p2": "Thông tin thu thập tự động có thể gồm loại thiết bị, phiên bản hệ điều hành, phiên bản ứng dụng, cài đặt khu vực gần đúng cần cho bản địa hóa, phân tích sử dụng ẩn danh, và báo cáo sự cố hoặc ổn định giúp cải thiện độ tin cậy.",
-      "p3": "Thông tin từ bên thứ ba có thể gồm chi tiết hồ sơ cơ bản từ nhà cung cấp xác thực (ví dụ Google hoặc Apple Sign-In) nếu bạn chọn các phương thức đăng nhập đó. Chúng tôi chỉ nhận những gì nhà cung cấp chia sẻ theo sự đồng ý của bạn và chính sách của họ."
+      "p1": "Khi bạn dùng form liên hệ, chúng tôi thu thập họ tên, tổ chức, vai trò, email và nội dung bạn cung cấp. Khi bạn đăng ký nhận báo cáo thị trường, chúng tôi thu thập địa chỉ email.",
+      "p2": "Chúng tôi tự động thu thập một số thông tin kỹ thuật hạn chế như khu vực gần đúng, loại trình duyệt và trang đã xem, để giữ an toàn cho website và hiểu cách sử dụng.",
+      "p3": "Chúng tôi không yêu cầu và không cố ý thu thập dữ liệu cá nhân nhạy cảm qua website này."
     },
     "use": {
       "title": "Cách chúng tôi sử dụng thông tin",
-      "p1": "Chúng tôi dùng thông tin để cung cấp và cá nhân hóa dịch vụ; để tạo và điều chỉnh lộ trình và hướng dẫn thay đổi hành vi bạn yêu cầu; để gửi thông báo bạn chọn nhận; và để duy trì bảo mật tài khoản.",
-      "p2": "Chúng tôi cũng dùng phân tích tổng hợp để hiểu chất lượng sản phẩm và ưu tiên kỹ thuật, đồng thời xử lý thông tin khi cần để tuân thủ pháp luật, thực thi điều khoản và bảo vệ người dùng.",
-      "p3": "Chúng tôi không bán dữ liệu cá nhân. Chúng tôi không huấn luyện mô hình trí tuệ nhân tạo bên ngoài bằng nội dung của bạn nếu không có sự đồng ý chọn tham gia rõ ràng. Chúng tôi không chia sẻ thông tin cá nhân với nhà quảng cáo cho mục đích tiếp thị riêng của họ."
+      "p1": "Chúng tôi dùng thông tin bạn gửi để phản hồi yêu cầu, gửi báo cáo thị trường bạn yêu cầu và lưu hồ sơ trao đổi.",
+      "p2": "Chúng tôi dùng thông tin kỹ thuật để vận hành, bảo mật và cải thiện website.",
+      "p3": "Chúng tôi không bán thông tin của bạn và không dùng cho quảng cáo của bên thứ ba."
     },
     "share": {
       "title": "Cách chúng tôi chia sẻ thông tin",
-      "p1": "Chúng tôi có thể chia sẻ thông tin với bên xử lý giúp vận hành dịch vụ — ví dụ lưu trữ, hạ tầng, phân tích, gửi email hoặc hỗ trợ khách hàng — theo nghĩa vụ bảo mật và hợp đồng nghiêm ngặt.",
-      "p2": "Chúng tôi có thể tiết lộ thông tin nếu được yêu cầu bởi trình tự pháp lý hợp lệ, sau khi đánh giá tính hợp lệ và cố gắng thu hẹp yêu cầu khi thích hợp. Nếu Avio Group tham gia sáp nhập, mua lại hoặc chuyển giao tài sản, thông tin có thể được chuyển giao kèm cam kết bảo vệ tiếp tục được thông báo cho người dùng.",
-      "p3": "Chúng tôi có thể công bố thống kê tổng hợp không thể xác định cá nhân hợp lý. Nghiên cứu, nếu có, dựa trên tập dữ liệu ẩn danh hoặc tổng hợp với biện pháp kỹ thuật và tổ chức."
+      "p1": "Chúng tôi chia sẻ thông tin với các nhà cung cấp dịch vụ giúp vận hành website và liên lạc với bạn — ví dụ lưu trữ, cơ sở dữ liệu (Firestore) và giới hạn tần suất (Upstash) — theo nghĩa vụ bảo mật.",
+      "p2": "Chúng tôi có thể tiết lộ thông tin khi pháp luật yêu cầu hoặc để bảo vệ quyền của mình, và trong một giao dịch doanh nghiệp, kèm cam kết bảo vệ tiếp tục.",
+      "p3": "Ngoài ra chúng tôi không chia sẻ thông tin của bạn cho bên thứ ba vì mục đích riêng của họ."
     },
     "security": {
       "title": "Bảo mật dữ liệu",
-      "p1": "Chúng tôi áp dụng mã hóa khi lưu trữ (ví dụ AES-256 khi nhà cung cấp hạ tầng hỗ trợ) và mã hóa khi truyền tải bằng TLS hiện đại (1.2+). Quyền truy cập quản trị được giới hạn, ghi nhật ký khi thích hợp và rà soát theo nguyên tắc quyền tối thiểu.",
-      "p2": "Chúng tôi thực hiện rà soát bảo mật định kỳ và duy trì phụ thuộc phần mềm phù hợp giai đoạn và hồ sơ rủi ro. Không phương thức lưu trữ hay truyền tải nào hoàn hảo; chúng tôi liên tục giảm rủi ro thực tế đối với dữ liệu người dùng.",
-      "p3": "Khi cuộc trò chuyện chứa nội dung khủng hoảng cấp tính, chúng tôi áp dụng chính sách xóa tự động nhằm tránh lưu trữ lâu dài tài liệu nhạy cảm cao vượt quá nhu cầu quy trình an toàn tức thì, bao gồm xóa trong khoảng một giờ đối với các hạng mục nội dung khủng hoảng được chỉ định."
+      "p1": "Chúng tôi sử dụng các nhà cung cấp hạ tầng uy tín có mã hóa dữ liệu khi truyền và khi lưu trữ, và giới hạn quyền truy cập thông tin gửi qua website.",
+      "p2": "Không phương thức truyền hay lưu trữ nào an toàn tuyệt đối, nhưng chúng tôi áp dụng biện pháp hợp lý phù hợp với lượng dữ liệu hạn chế mà website xử lý.",
+      "p3": "Nếu bạn cho rằng tương tác của mình với website không còn an toàn, vui lòng liên hệ contact@aviogroup.eco."
     },
     "retention": {
       "title": "Lưu trữ dữ liệu",
-      "p1": "Đối với tài khoản đang hoạt động, chúng tôi lưu thông tin cá nhân cần thiết để cung cấp dịch vụ, duy trì tính toàn vẹn, giải quyết tranh chấp và đáp ứng nghĩa vụ pháp luật. Tính năng cần ngữ cảnh lịch sử có thể lưu dữ liệu liên quan cho đến khi bạn xóa hoặc đóng tài khoản theo điều khiển sản phẩm.",
-      "p2": "Khi bạn xóa tài khoản, chúng tôi có thể áp dụng thời gian ân hạn (ví dụ tới 30 ngày) để tránh mất dữ liệu do nhầm lẫn và hoàn tất điều tra thanh toán hoặc lạm dụng, sau đó xóa hoặc ẩn danh không thể đảo ngược phù hợp với sao lưu và tạm giữ pháp lý.",
-      "p3": "Phân tích ẩn danh có thể được lưu vô thời hạn vì không liên kết được với cá nhân xác định. Nội dung hướng khủng hoảng không nhằm lưu trữ lâu dài các biện pháp xóa tự động bổ sung cho việc tối thiểu hóa rộng hơn."
+      "p1": "Chúng tôi lưu thông tin liên hệ và đăng ký trong thời gian cần thiết để phản hồi, gửi báo cáo và đáp ứng nghĩa vụ pháp lý hoặc lưu hồ sơ.",
+      "p2": "Bạn có thể yêu cầu xóa thông tin đã gửi bất kỳ lúc nào, và chúng tôi sẽ thực hiện trừ khi buộc phải lưu giữ.",
+      "p3": "Dữ liệu phân tích tổng hợp, không định danh có thể được lưu lâu hơn vì không gắn với cá nhân xác định."
     },
     "rights": {
-      "title": "Quyền của bạn (GDPR và quyền tương đương)",
-      "p1": "Tùy khu vực pháp lý, bạn có thể có các quyền gồm: truy cập dữ liệu cá nhân; chỉnh sửa dữ liệu không chính xác; xóa (“quên”); di chuyển dữ liệu ở định dạng máy đọc được; phản đối xử lý cụ thể; và hạn chế trong một số trường hợp.",
-      "p2": "Bạn cũng có thể khiếu nại với cơ quan giám sát có thẩm quyền. Chúng tôi hỗ trợ các nguyên tắc này trên phạm vi toàn cầu khi khả thi và ghi lại quy trình phản hồi nhất quán bất kể một luật cụ thể có áp dụng hay không.",
-      "p3": "Để thực hiện quyền, gửi email privacy@aviogroup.eco kèm chi tiết đủ để xác minh danh tính. Chúng tôi thường phản hồi trong 30 ngày đối với yêu cầu quyền riêng tư, tùy độ phức tạp và ngoại lệ pháp lý. Chúng tôi không thu phí trừ khi yêu cầu là vô lý hoặc quá mức."
+      "title": "Quyền của bạn",
+      "p1": "Tùy khu vực, bạn có thể có quyền truy cập, chỉnh sửa, xóa hoặc di chuyển dữ liệu cá nhân, và phản đối hoặc hạn chế một số hoạt động xử lý.",
+      "p2": "Bạn cũng có thể có quyền khiếu nại với cơ quan giám sát có thẩm quyền.",
+      "p3": "Để thực hiện các quyền này, gửi email contact@aviogroup.eco; chúng tôi sẽ phản hồi trong thời hạn pháp luật quy định."
     },
     "children": {
-      "title": "Quyền riêng tư trẻ em",
-      "p1": "Vitaro và website công ty không nhắm tới trẻ dưới 13 tuổi (hoặc độ tuổi tối thiểu cao hơn theo khu vực của bạn). Chúng tôi không cố ý thu thập thông tin cá nhân của trẻ em.",
-      "p2": "Nếu bạn tin rằng trẻ đã cung cấp thông tin, hãy liên hệ privacy@aviogroup.eco ngay để chúng tôi điều tra và xóa dữ liệu khi thích hợp. Phụ huynh nên giám sát hoạt động trực tuyến và quyền thiết bị của trẻ.",
-      "p3": "Giới hạn độ tuổi, kiểm soát của phụ huynh và hạn chế cấp thiết bị có thể bổ sung chính sách của chúng tôi. Chúng tôi khuyến khích gia đình dùng tính năng nền tảng nhằm bảo vệ người dùng trẻ."
+      "title": "Quyền riêng tư của trẻ em",
+      "p1": "Đây là website doanh nghiệp hướng tới các hãng hàng không, nhà đầu tư và cơ quan quản lý. Website không hướng tới trẻ em.",
+      "p2": "Chúng tôi không cố ý thu thập thông tin cá nhân của trẻ em.",
+      "p3": "Nếu bạn cho rằng một trẻ em đã cung cấp thông tin qua website, hãy liên hệ để chúng tôi xóa."
     },
     "transfers": {
-      "title": "Chuyển giao dữ liệu quốc tế",
-      "p1": "Chúng tôi ưu tiên đặt lưu trữ và xử lý theo khu vực để dữ liệu người dùng gần với các khu vực chúng tôi phục vụ, phù hợp cấu hình sản phẩm và khả năng hạ tầng. Địa lý có thể ảnh hưởng độ trễ, dự phòng và nghĩa vụ pháp lý.",
-      "p2": "Khi có chuyển giao xuyên biên giới (ví dụ trong mạng toàn cầu của nhà cung cấp đám mây), chúng tôi áp dụng biện pháp bảo vệ như Điều khoản Hợp đồng Chuẩn hoặc cơ chế được chấp thuận khác, kèm biện pháp kỹ thuật gồm mã hóa và kiểm soát truy cập.",
-      "p3": "Chúng tôi dùng tín hiệu hợp lý — gồm quốc gia tài khoản nếu được thu thập — để xác định vùng mặc định, đồng thời hiểu suy luận qua IP không hoàn hảo. Người dùng có thể liên hệ để hỏi về xử lý theo khu vực."
+      "title": "Chuyển dữ liệu quốc tế",
+      "p1": "Chúng tôi đặt tại Việt Nam và phục vụ đối tác quốc tế. Thông tin bạn gửi có thể được xử lý ngoài quốc gia của bạn bởi các nhà cung cấp dịch vụ.",
+      "p2": "Khi dữ liệu được chuyển qua biên giới, chúng tôi dựa vào các nhà cung cấp có biện pháp bảo vệ được công nhận như điều khoản hợp đồng chuẩn.",
+      "p3": "Hãy liên hệ nếu bạn có câu hỏi về nơi thông tin của bạn được xử lý."
     },
     "cookies": {
-      "title": "Cookie và theo dõi",
-      "p1": "Chúng tôi dùng cookie và công nghệ tương tự ở mức tối thiểu. Cookie thiết yếu hỗ trợ chức năng cốt lõi như bảo mật, cân bằng tải và nhất quán tùy chọn ngôn ngữ. Chúng tôi không triển khai cookie quảng cáo bên thứ ba trên website công ty.",
-      "p2": "Khi công nghệ phân tích dựa trên cookie hoặc lưu trữ cục bộ, chúng tôi ưu tiên định danh giả hoặc tổng hợp và tôn trọng cài đặt trình duyệt gửi tín hiệu “Do Not Track” khi khả thi, ghi nhận chuẩn DNT còn thiếu nhất quán trong ngành.",
-      "p3": "Bạn có thể kiểm soát cookie qua cài đặt trình duyệt. Chặn cookie thiết yếu có thể làm giảm chức năng. Chúng tôi ghi nhận các hạng mục chính trong hồ sơ nội bộ phục vụ kiểm toán và yêu cầu quản lý."
+      "title": "Cookie",
+      "p1": "Chúng tôi chỉ dùng cookie và bộ nhớ cục bộ tối thiểu cần thiết để website hoạt động, như ghi nhớ ngôn ngữ và giao diện bạn chọn.",
+      "p2": "Chúng tôi không dùng cookie quảng cáo của bên thứ ba trên website này.",
+      "p3": "Bạn có thể kiểm soát cookie qua cài đặt trình duyệt; tắt cookie thiết yếu có thể ảnh hưởng cách website hoạt động."
     },
     "changes": {
       "title": "Thay đổi chính sách",
-      "p1": "Chúng tôi có thể sửa chính sách để phản ánh tính năng mới, yêu cầu pháp lý hoặc làm rõ. Khi thay đổi trọng yếu, chúng tôi sẽ thông báo qua email (khi có địa chỉ) và thông báo trong ứng dụng khi Vitaro sẵn sàng rộng rãi, ít nhất 30 ngày trước khi áp dụng trừ khi thay đổi tức thì được pháp luật yêu cầu.",
-      "p2": "Tiếp tục sử dụng sau thời gian thông báo đồng nghĩa chấp nhận trừ khi luật hiện hành yêu cầu đồng ý rõ ràng cho xử lý mới cụ thể. Nếu bạn không đồng ý cập nhật, bạn nên ngừng dịch vụ và có thể yêu cầu xóa theo cho phép.",
-      "p3": "Phiên bản trước có thể được cung cấp theo yêu cầu hợp lý để minh bạch. Chúng tôi lưu trữ thay đổi văn bản chính sách kèm dấu thời gian nội bộ."
+      "p1": "Chúng tôi có thể cập nhật chính sách để phản ánh thay đổi của website hoặc yêu cầu pháp lý.",
+      "p2": "Khi có thay đổi trọng yếu, chúng tôi sẽ cập nhật ngày \"Cập nhật lần cuối\" phía trên.",
+      "p3": "Việc bạn tiếp tục sử dụng website sau khi cập nhật đồng nghĩa bạn chấp nhận chính sách sửa đổi."
     },
     "contact": {
       "title": "Liên hệ",
-      "p1": "Thắc mắc quyền riêng tư: privacy@aviogroup.eco",
-      "p2": "Địa chỉ bưu điện: Công ty TNHH Avio Group, Việt Nam (vui lòng email để nhận dòng địa chỉ phù hợp nếu cần cho thư chính thức).",
-      "p3": "Câu hỏi chung không liên quan quyền riêng tư: hello@aviogroup.eco. Chúng tôi cố gắng xác nhận thư quyền riêng tư trong hai ngày làm việc."
+      "p1": "Mọi câu hỏi hoặc yêu cầu về quyền riêng tư, gửi email contact@aviogroup.eco.",
+      "p2": "Địa chỉ thư tín: Công ty TNHH Avio Group, Quảng Ninh, Việt Nam.",
+      "p3": "Chúng tôi cố gắng xác nhận các yêu cầu về quyền riêng tư trong thời gian hợp lý."
     }
   },
   "TermsPage": {
     "title": "Điều khoản dịch vụ",
     "updatedLabel": "Cập nhật lần cuối",
-    "updatedDate": "1 tháng 5, 2026",
+    "updatedDate": "5 tháng 7, 2026",
     "acceptance": {
       "title": "1. Chấp nhận điều khoản",
-      "p1": "Điều khoản dịch vụ này (“Điều khoản”) điều chỉnh quyền truy cập và sử dụng các website do Công ty TNHH Avio Group (“Avio Group”) vận hành — bao gồm aviogroup.eco — và trải nghiệm Vitaro trên thiết bị di động và web mà chúng tôi cung cấp (gọi chung là “Dịch vụ”).",
-      "p2": "Bằng việc tạo tài khoản, tải Vitaro hoặc sử dụng Dịch vụ theo cách khác, bạn đồng ý với Điều khoản này và Chính sách bảo mật của chúng tôi. Nếu bạn dùng Dịch vụ thay mặt tổ chức, bạn xác nhận có thẩm quyền ràng buộc tổ chức đó.",
-      "p3": "Nếu bạn không đồng ý, đừng sử dụng Dịch vụ. Chúng tôi có thể từ chối dịch vụ, tạm ngưng tài khoản hoặc giới hạn tính năng khi pháp luật và Điều khoản này cho phép."
+      "p1": "Các điều khoản này điều chỉnh việc bạn sử dụng website do Công ty TNHH Avio Group (\"Avio Group\") vận hành tại aviogroup.eco.",
+      "p2": "Bằng việc sử dụng website, bạn đồng ý với các điều khoản này. Nếu không đồng ý, vui lòng không sử dụng website.",
+      "p3": "Nếu bạn sử dụng website thay mặt một tổ chức, bạn xác nhận có thẩm quyền chấp nhận các điều khoản này cho tổ chức đó."
     },
     "services": {
-      "title": "2. Mô tả dịch vụ",
-      "p1": "Vitaro là nền tảng hỗ trợ hành vi giúp người dùng suy ngẫm thách thức, nhận diện mô thức và theo các lộ trình có cấu trúc hướng tự phát triển. Avio Group cung cấp hạ tầng phần mềm, trải nghiệm nội dung giáo dục và thông liên lạc liên quan như mô tả trong sản phẩm.",
-      "p2": "Tính năng có thể thay đổi trong giai đoạn phát triển và phát hành. Chúng tôi có thể thêm, sửa hoặc ngừng tính năng để cải thiện an toàn, chất lượng hoặc tuân thủ. Chúng tôi sẽ thông báo hợp lý trước các thay đổi xấu đáng kể đối với dịch vụ trả phí nếu và khi tồn tại.",
-      "p3": "Website công ty cung cấp thông tin chung về Avio Group, thông tin xác minh và liên kết tài liệu pháp lý. Bản thân website không cung cấp huấn luyện cá nhân hoặc dịch vụ lâm sàng."
+      "title": "2. Về website này",
+      "p1": "Website cung cấp thông tin chung về dịch vụ tư vấn khai thác sân bay của Avio Group tại Việt Nam.",
+      "p2": "Website mang tính thông tin. Bản thân website không tạo ra bất kỳ quan hệ tư vấn hay hợp đồng nào; mọi hợp đồng được điều chỉnh bởi thỏa thuận riêng bằng văn bản.",
+      "p3": "Chúng tôi có thể thay đổi, tạm ngưng hoặc ngừng một phần website bất kỳ lúc nào."
     },
     "accounts": {
-      "title": "3. Tài khoản và trách nhiệm người dùng",
-      "p1": "Bạn phải cung cấp thông tin đăng ký chính xác và giữ bí mật thông tin đăng nhập. Bạn chịu trách nhiệm về hoạt động dưới tài khoản trừ khi bạn thông báo kịp thời về truy cập trái phép.",
-      "p2": "Bạn phải đủ tuổi sử dụng Dịch vụ theo pháp luật địa phương. Bạn không được chia sẻ tài khoản theo cách né tránh bảo mật, cấp phép hoặc phát hiện lạm dụng.",
-      "p3": "Chúng tôi có thể yêu cầu xác minh lại, đặt lại mật khẩu hoặc xác thực bổ sung khi phát hiện hoạt động đáng ngờ hoặc khi pháp luật yêu cầu."
+      "title": "3. Thông tin bạn gửi",
+      "p1": "Khi gửi thông tin qua các form, bạn đồng ý cung cấp thông tin chính xác và không gửi nội dung trái pháp luật, gây hiểu lầm hoặc gây hại.",
+      "p2": "Bạn chịu trách nhiệm về nội dung mình gửi và đảm bảo có quyền chia sẻ mọi thông tin bạn cung cấp về người khác.",
+      "p3": "Chúng tôi có thể từ chối phản hồi hoặc xóa những nội dung có dấu hiệu lạm dụng, gian lận hoặc tự động."
     },
     "acceptableUse": {
       "title": "4. Sử dụng chấp nhận được",
-      "p1": "Bạn đồng ý không lạm dụng Dịch vụ. Hành vi cấm gồm: cố dò quét hoặc kiểm tra lỗ hổng hệ thống mà không được phép; can thiệp người dùng khác; tải mã độc; dịch ngược ngoài phạm vi luật cho phép; thu thập dữ liệu không có đồng ý; hoặc dùng Dịch vụ để rình rập, quấy rối hoặc gây hại.",
-      "p2": "Bạn không được dùng phương tiện tự động truy cập Dịch vụ theo cách gây tải không hợp lý, né giới hạn tốc độ hoặc quét dữ liệu cá nhân. Bạn không được mạo danh Avio Group, nhân viên hoặc người dùng khác.",
-      "p3": "Chúng tôi có thể điều tra vi phạm và hợp tác cơ quan chức năng khi pháp luật yêu cầu. Vi phạm nghiêm trọng hoặc lặp lại có thể dẫn tới chấm dứt."
+      "p1": "Bạn đồng ý không lạm dụng website, gồm việc dò quét lỗ hổng, can thiệp hoạt động hoặc phát tán mã độc.",
+      "p2": "Bạn không được thu thập dữ liệu tự động, né tránh giới hạn tần suất, hoặc mạo danh Avio Group hay người khác.",
+      "p3": "Chúng tôi có thể điều tra hành vi lạm dụng và hợp tác với cơ quan chức năng khi pháp luật yêu cầu."
     },
     "ip": {
       "title": "5. Sở hữu trí tuệ",
-      "p1": "Avio Group và bên cấp phép sở hữu mọi quyền đối với Dịch vụ, gồm phần mềm, thương hiệu, logo, tài liệu và nội dung tuyển chọn, tùy giấy phép mã nguồn mở khi có.",
-      "p2": "Bạn giữ quyền với nội dung bạn tạo và gửi (“Nội dung của bạn”). Bạn cấp cho Avio Group giấy phép toàn cầu, không độc quyền để lưu trữ, xử lý, truyền tải, hiển thị và điều chỉnh Nội dung của bạn chỉ nhằm vận hành, bảo mật, cải thiện và cung cấp Dịch vụ và như mô tả trong Chính sách bảo mật.",
-      "p3": "Phản hồi bạn cung cấp có thể được Avio Group sử dụng không kèm nghĩa vụ hoặc thù lao, trừ khi luật cấm. Bạn không được gỡ thông báo quyền sở hữu hoặc lạm dụng nhãn hiệu Avio Group."
+      "p1": "Avio Group và bên cấp phép sở hữu nội dung, thương hiệu và tài liệu trên website này.",
+      "p2": "Bạn có thể xem và chia sẻ nội dung cho mục đích thông tin, phi thương mại của mình, giữ nguyên thông tin ghi nguồn.",
+      "p3": "Ngoài ra bạn không được sao chép, tái sản xuất hoặc sử dụng nhãn hiệu, tài liệu của chúng tôi khi chưa có sự đồng ý bằng văn bản."
     },
-    "medical": {
-      "title": "6. Miễn trừ y tế và lâm sàng",
-      "disclaimerBold": "Vitaro là nền tảng hỗ trợ hành vi. Đây không phải thiết bị y tế, không phải sự thay thế cho điều trị sức khỏe tâm thần chuyên nghiệp, và không được thiết kế để chẩn đoán, điều trị, chữa bệnh hay phòng ngừa bất kỳ bệnh lý hay tình trạng tâm lý nào. Các lộ trình, nội dung và hướng dẫn được cung cấp thông qua Vitaro là công cụ giáo dục và tự phát triển. Chúng không cấu thành lời khuyên y tế, điều trị tâm lý hay liệu pháp. Nếu bạn đang trải qua khủng hoảng sức khỏe tâm thần, ý nghĩ tự tử, hoặc các triệu chứng của một tình trạng sức khỏe tâm thần nghiêm trọng, vui lòng liên hệ ngay với dịch vụ cấp cứu địa phương hoặc chuyên gia sức khỏe tâm thần có giấy phép. Avio Group không chịu trách nhiệm cho những hậu quả phát sinh từ việc sử dụng Vitaro để thay thế chăm sóc y tế hoặc sức khỏe tâm thần chuyên nghiệp.",
-      "p2": "Không nội dung nào trên aviogroup.eco hoặc trong Vitaro tạo quan hệ lâm sàng–bệnh nhân. Nếu bạn cần dịch vụ lâm sàng, hãy tham vấn chuyên gia đủ điều kiện tại khu vực của bạn.",
-      "p3": "Bạn chịu trách nhiệm tìm kiếm trợ giúp khẩn cấp khi cần. Đừng chỉ dựa vào Dịch vụ làm nguồn duy nhất cho kế hoạch an toàn."
+    "noAdvice": {
+      "title": "6. Không phải tư vấn chuyên môn",
+      "disclaimerBold": "Thông tin trên website này mang tính khái quát và không phải là tư vấn pháp lý, quy định, tài chính hay khai thác cho bất kỳ sân bay, dự án hoặc tình huống cụ thể nào. Việc cấp phép và khai thác hàng không phụ thuộc vào thực tế, thẩm quyền và quy định hiện hành, bao gồm Luật Hàng không dân dụng 130/2025 của Việt Nam. Đừng hành động chỉ dựa trên nội dung website; hãy nhận tư vấn phù hợp với hoàn cảnh của bạn theo một hợp đồng chính thức trước khi ra quyết định.",
+      "p2": "Mọi phát biểu về kết quả, tiến độ hay thị trường chỉ mang tính bối cảnh chung và không phải là cam kết.",
+      "p3": "Avio Group không chịu trách nhiệm cho các quyết định chỉ dựa vào website này."
     },
     "liability": {
-      "title": "7. Giới hạn trách nhiệm",
-      "p1": "Trong phạm vi pháp luật cho phép tối đa, Dịch vụ được cung cấp “nguyên trạng” và “sẵn có,” không có bảo đảm dù rõ ràng hay mặc nhiên, gồm bảo đảm mặc nhiên về khả năng thương mại, phù hợp mục đích cụ thể và không xâm phạm.",
-      "p2": "Trong phạm vi pháp luật tối đa cho phép, Avio Group và chi nhánh, giám đốc, nhân viên, nhà cung cấp không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hệ quả hay trừng phạt, hoặc mất lợi nhuận, doanh thu, dữ liệu hoặc uy tín phát sinh từ việc bạn sử dụng Dịch vụ.",
-      "p3": "Khi giới hạn không thể áp dụng theo luật, tổng trách nhiệm pháp lý của chúng tôi đối với khiếu nại phát sinh từ Dịch vụ sẽ không vượt quá mức lớn hơn giữa (a) số tiền bạn đã trả cho Avio Group cho Dịch vụ trong sáu tháng trước khiếu nại, hoặc (b) năm mươi đô la Mỹ (USD) nếu không có phí nào được trả. Nhiều khiếu nại không mở rộng mức này."
+      "title": "7. Miễn trừ và giới hạn trách nhiệm",
+      "p1": "Website được cung cấp \"nguyên trạng\" và \"sẵn có\", không kèm bảo đảm dưới bất kỳ hình thức nào trong phạm vi pháp luật cho phép tối đa.",
+      "p2": "Trong phạm vi pháp luật cho phép tối đa, Avio Group không chịu trách nhiệm cho các thiệt hại gián tiếp, ngẫu nhiên hoặc hệ quả phát sinh từ việc bạn sử dụng website.",
+      "p3": "Không nội dung nào trong các điều khoản này giới hạn trách nhiệm không thể giới hạn theo pháp luật hiện hành."
     },
     "termination": {
-      "title": "8. Chấm dứt",
-      "p1": "Bạn có thể ngừng sử dụng Dịch vụ bất kỳ lúc nào và có thể yêu cầu xóa tài khoản như mô tả trong Chính sách bảo mật.",
-      "p2": "Chúng tôi có thể tạm ngưng hoặc chấm dứt quyền truy cập nếu bạn vi phạm trọng yếu Điều khoản này, gây rủi ro hoặc phơi bày pháp lý, hoặc nếu chúng tôi ngừng sản phẩm với thông báo hợp lý trừ khi chấm dứt tức thì được pháp luật yêu cầu.",
-      "p3": "Sau khi chấm dứt, một số điều khoản về bản chất cần tiếp tục — gồm sở hữu trí tuệ, miễn trừ, giới hạn trách nhiệm và luật áp dụng — vẫn có hiệu lực."
+      "title": "8. Tạm ngưng",
+      "p1": "Chúng tôi có thể tạm ngưng hoặc hạn chế truy cập website, toàn bộ hoặc một phần, khi cần thiết để bảo vệ website, quyền của chúng tôi hoặc người dùng khác.",
+      "p2": "Bạn có thể ngừng sử dụng website bất kỳ lúc nào.",
+      "p3": "Các điều khoản mà về bản chất cần tiếp tục — gồm sở hữu trí tuệ, miễn trừ và luật áp dụng — vẫn có hiệu lực."
     },
     "changes": {
       "title": "9. Thay đổi điều khoản",
-      "p1": "Chúng tôi có thể sửa Điều khoản này để phản ánh thay đổi Dịch vụ hoặc yêu cầu pháp lý. Chúng tôi đăng Điều khoản cập nhật kèm ngày “Cập nhật lần cuối” và, khi thay đổi trọng yếu, cung cấp thông báo bổ sung qua email hoặc trong ứng dụng khi Vitaro sẵn sàng rộng rãi.",
-      "p2": "Tiếp tục sử dụng sau khi thay đổi có hiệu lực đồng nghĩa chấp nhận trừ khi luật hiện hành yêu cầu đồng ý riêng. Nếu bạn không đồng ý, hãy ngừng sử dụng và xóa tài khoản khi có thể.",
-      "p3": "Chúng tôi lưu phiên bản trước nội bộ và có thể cung cấp bản sao theo yêu cầu hợp lý để minh bạch."
+      "p1": "Chúng tôi có thể cập nhật các điều khoản này để phản ánh thay đổi của website hoặc yêu cầu pháp lý.",
+      "p2": "Chúng tôi sẽ cập nhật ngày \"Cập nhật lần cuối\" khi thực hiện, và các thay đổi trọng yếu có hiệu lực khi được đăng.",
+      "p3": "Việc bạn tiếp tục sử dụng website sau khi cập nhật đồng nghĩa bạn chấp nhận các điều khoản sửa đổi."
     },
     "law": {
       "title": "10. Luật áp dụng",
-      "p1": "Điều khoản này chịu sự điều chỉnh của pháp luật Việt Nam, loại trừ các quy tắc xung đột pháp luật buộc áp dụng luật khu vực khác, phụ thuộc các quyền bảo vệ người tiêu dùng không được từ bỏ nơi bạn cư trú.",
-      "p2": "Địa điểm giải quyết tranh chấp sẽ là tòa án có thẩm quyền tại Việt Nam, trừ khi luật bắt buộc cho phép bạn khởi kiện nơi khác.",
-      "p3": "Bạn có thể có quyền bổ sung theo quy định tiêu dùng địa phương mà Điều khoản này không thể vô hiệu."
+      "p1": "Các điều khoản này chịu sự điều chỉnh của pháp luật Việt Nam, không xét đến các quy tắc xung đột pháp luật.",
+      "p2": "Tòa án có thẩm quyền của Việt Nam có quyền tài phán, phụ thuộc các quyền bắt buộc mà bạn có nơi cư trú.",
+      "p3": "Nếu một điều khoản bị xem là không thể thi hành, các điều khoản còn lại vẫn tiếp tục có hiệu lực."
     },
     "contact": {
       "title": "11. Liên hệ",
-      "p1": "Thắc mắc về Điều khoản: hello@aviogroup.eco",
-      "p2": "Yêu cầu pháp lý hoặc quản lý nên kèm chi tiết đầy đủ và, khi thích hợp, tham chiếu văn bản chính thức.",
-      "p3": "Chúng tôi công bố thông tin xác minh doanh nghiệp (gồm D-U-N-S 626314981) để hỗ trợ đối tác, cửa hàng ứng dụng và người dùng tìm đường liên hệ hợp pháp."
+      "p1": "Câu hỏi về các điều khoản này: contact@aviogroup.eco.",
+      "p2": "Công ty TNHH Avio Group, Quảng Ninh, Việt Nam. D-U-N-S 626314981.",
+      "p3": "Chúng tôi công bố thông tin xác minh doanh nghiệp để hỗ trợ đối tác xác nhận danh tính của chúng tôi."
     }
   },
   "ServicesPage": {

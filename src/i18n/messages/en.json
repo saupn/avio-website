@@ -118,11 +118,11 @@
     },
     "privacy": {
       "title": "Privacy Policy",
-      "description": "Privacy Policy for Avio Group and Vitaro: data collection, use, security, retention, GDPR rights, cookies, transfers, and how to contact us."
+      "description": "How Avio Group handles information collected through aviogroup.eco: what we collect, how we use it, sharing, security, retention and your rights."
     },
     "terms": {
       "title": "Terms of Service",
-      "description": "Terms of Service for Avio Group websites and Vitaro: acceptable use, accounts, IP, disclaimers (non-medical), liability, and governing law in Vietnam."
+      "description": "Terms for using the Avio Group website: acceptable use, intellectual property, the no-advice disclaimer, liability, and governing law in Viet Nam."
     },
     "services": {
       "title": "Services",
@@ -152,149 +152,149 @@
   "PrivacyPage": {
     "title": "Privacy Policy",
     "updatedLabel": "Last updated",
-    "updatedDate": "May 1, 2026",
+    "updatedDate": "July 5, 2026",
     "intro": {
       "title": "Introduction",
-      "p1": "Avio Group Company Limited (“Avio Group,” “we,” “us,” or “our”) is a Vietnam-based technology company registered in Vietnam and identified by D-U-N-S Number 626314981 (verified by Dun & Bradstreet). We develop Vitaro, a behavior-change platform, and operate the corporate website at aviogroup.eco.",
-      "p2": "This Privacy Policy explains how we collect, use, disclose, retain, and protect information when you visit aviogroup.eco or use Vitaro on supported devices. If you have privacy questions, contact us at privacy@aviogroup.eco. We aim to respond to privacy inquiries promptly and, where applicable, within the timelines described below.",
-      "p3": "By using our website or app, you acknowledge this policy. If you do not agree, please discontinue use. We may update this policy from time to time; material changes will be communicated as described in the “Changes to this policy” section."
+      "p1": "Avio Group Company Limited (\"Avio Group\", \"we\", \"us\") is an airport operations advisory registered in Viet Nam and identified by D-U-N-S Number 626314981. We operate the corporate website at aviogroup.eco.",
+      "p2": "This policy explains what information we collect through this website, how we use it, and the choices you have. It covers the website only; client engagements are governed by the separate agreements we sign with each partner.",
+      "p3": "If you have any questions about this policy, contact us at contact@aviogroup.eco."
     },
     "collect": {
-      "title": "What information we collect",
-      "p1": "Information you provide directly may include account details such as your name and email address; descriptions of challenges and context you share in guided sessions; responses to daily check-ins; and optional profile fields you choose to provide.",
-      "p2": "Information collected automatically may include device type, operating system version, app version, approximate regional settings needed for localization, anonymized usage analytics, and crash or stability diagnostics that help us improve reliability.",
-      "p3": "Information from third parties may include basic profile details from authentication providers (for example, Google or Apple Sign-In) if you choose those sign-in methods. We only receive what the provider shares according to your consent and their policies."
+      "title": "Information we collect",
+      "p1": "When you use our contact form we collect the name, organisation, role, email address and message you provide. When you join the market-report waitlist we collect your email address.",
+      "p2": "We collect limited technical information automatically, such as approximate region, browser type and pages viewed, to keep the site secure and understand how it is used.",
+      "p3": "We do not ask for, or intentionally collect, sensitive personal data through this website."
     },
     "use": {
       "title": "How we use information",
-      "p1": "We use information to provide and personalize the service; to generate and adapt behavior-change protocols and guidance you request; to deliver notifications you opt into; and to maintain account security.",
-      "p2": "We also use aggregated analytics to understand product quality and prioritize engineering work, and we process information where necessary to comply with applicable law, enforce our terms, and protect users.",
-      "p3": "We do not sell personal data. We do not train external artificial intelligence models on your content without explicit opt-in consent. We do not share personal information with advertisers for their own marketing purposes."
+      "p1": "We use the details you submit to respond to your enquiry, to send you the market report you requested, and to keep a record of our correspondence.",
+      "p2": "We use technical information to operate, secure and improve the website.",
+      "p3": "We do not sell your information, and we do not use it for third-party advertising."
     },
     "share": {
       "title": "How we share information",
-      "p1": "We may share information with processors who help us operate the service — for example, hosting, infrastructure, analysis, email delivery, or customer support — subject to strict contractual confidentiality and security obligations.",
-      "p2": "We may disclose information if required by lawful process, provided we assess validity and seek to narrow requests where appropriate. If Avio Group is involved in a merger, acquisition, or asset transfer, information may transfer subject to continued protections communicated to users.",
-      "p3": "We may publish aggregate statistics that cannot reasonably identify individuals. Research uses, if any, rely on de-identified or aggregated datasets with technical and organizational safeguards."
+      "p1": "We share information with service providers who help us run the website and communicate with you — for example hosting, database (Firestore) and rate-limiting (Upstash) providers — under confidentiality obligations.",
+      "p2": "We may disclose information where required by law or to protect our rights, and in connection with a corporate transaction, subject to continued protection.",
+      "p3": "We do not otherwise share your information with third parties for their own purposes."
     },
     "security": {
       "title": "Data security",
-      "p1": "We apply encryption at rest (for example, AES-256 where supported by our infrastructure providers) and encryption in transit using modern TLS (1.2+). Administrative access is limited, logged where appropriate, and reviewed against least-privilege principles.",
-      "p2": "We conduct periodic security reviews and dependency hygiene work commensurate with our stage and risk profile. No method of storage or transmission is perfectly secure; we work continuously to reduce realistic risks to user data.",
-      "p3": "Where conversations contain acute crisis content, we apply automatic deletion policies designed to avoid long-term retention of highly sensitive material beyond what is necessary for immediate safety workflows, including deletion within approximately one hour for designated crisis-related content categories."
+      "p1": "We rely on reputable infrastructure providers that encrypt data in transit and at rest, and we limit access to the information submitted through this website.",
+      "p2": "No method of transmission or storage is perfectly secure, but we take reasonable measures appropriate to the limited data this website handles.",
+      "p3": "If you believe your interaction with this website is no longer secure, please contact us at contact@aviogroup.eco."
     },
     "retention": {
       "title": "Data retention",
-      "p1": "For active accounts, we retain personal information as needed to deliver the service, maintain integrity, resolve disputes, and meet legal obligations. Features that require historical context may retain relevant data until you delete it or close your account according to product controls.",
-      "p2": "When you delete an account, we may apply a grace period (for example, up to 30 days) to prevent accidental loss and to complete billing or abuse investigations, followed by erasure or irreversible de-identification consistent with backups and legal holds.",
-      "p3": "Anonymized analytics may be retained indefinitely because they are not linkable to an identifiable individual. Crisis-oriented content is not intended for long-term storage; automated deletion complements our broader minimization practices."
+      "p1": "We keep enquiry and waitlist information for as long as needed to respond to you, to send the requested report, and to meet legal or record-keeping obligations.",
+      "p2": "You may ask us to delete the information you submitted at any time, and we will do so unless we are required to retain it.",
+      "p3": "Aggregated, non-identifying analytics may be kept for longer, as they are not linked to an identifiable person."
     },
     "rights": {
-      "title": "Your rights (GDPR and similar rights)",
-      "p1": "Depending on your jurisdiction, you may have rights including: access to your personal data; rectification of inaccurate data; erasure (“right to be forgotten”); portability in a machine-readable format; objection to specific processing; and restriction in certain cases.",
-      "p2": "You may also lodge a complaint with a competent supervisory authority. We support these principles globally where feasible and document our processes to respond consistently regardless of whether a specific statute applies in your location.",
-      "p3": "To exercise rights, email privacy@aviogroup.eco with sufficient detail to verify your identity. We typically respond within 30 days for privacy rights requests, subject to complexity and legal exceptions. We do not charge a fee unless requests are manifestly unfounded or excessive."
+      "title": "Your rights",
+      "p1": "Depending on your location, you may have rights to access, correct, delete or port your personal data, and to object to or restrict certain processing.",
+      "p2": "You may also have the right to lodge a complaint with a supervisory authority.",
+      "p3": "To exercise any of these rights, email contact@aviogroup.eco; we will respond within the time required by applicable law."
     },
     "children": {
-      "title": "Children’s privacy",
-      "p1": "Vitaro and our corporate websites are not directed to children under 13 (or the higher minimum age required in your jurisdiction). We do not knowingly collect personal information from children.",
-      "p2": "If you believe a child has provided information, contact us immediately at privacy@aviogroup.eco so we can investigate and delete data where appropriate. Parents and guardians should supervise minors’ online activities and device permissions.",
-      "p3": "Age gates, parental controls, and device-level restrictions can supplement our policies. We encourage families to use platform features designed to protect younger users."
+      "title": "Children's privacy",
+      "p1": "This is a business-to-business website directed at aviation firms, investors and authorities. It is not directed to children.",
+      "p2": "We do not knowingly collect personal information from children.",
+      "p3": "If you believe a child has provided information through this website, contact us and we will delete it."
     },
     "transfers": {
       "title": "International data transfers",
-      "p1": "We seek regional placement of storage and processing so that user data remain close to the regions we serve, aligned with product configuration and infrastructure availability. Geography may influence latency, redundancy, and legal obligations.",
-      "p2": "Where cross-border transfers occur (for example, within a cloud provider’s global network), we implement safeguards such as Standard Contractual Clauses or other approved mechanisms, supplemented by technical measures including encryption and access controls.",
-      "p3": "We use responsible signals — including account country selection where collected — to determine default regions while recognizing that IP-based inference is imperfect. Users may contact us for questions about regional handling."
+      "p1": "We are based in Viet Nam and serve international partners. Information you submit may be processed outside your country by our service providers.",
+      "p2": "Where data is transferred across borders, we rely on providers that offer recognised safeguards such as standard contractual clauses.",
+      "p3": "Contact us if you have questions about where your information is processed."
     },
     "cookies": {
-      "title": "Cookies and tracking",
-      "p1": "We use minimal cookies and similar technologies. Essential cookies support core functionality such as security, load balancing, and language preference consistency. We do not deploy third-party advertising cookies on our corporate site.",
-      "p2": "Where analytics technologies rely on cookies or local storage, we prefer aggregated or pseudonymous identifiers and honor browser settings that signal “Do Not Track” where practical, noting industry inconsistency in DNT standards.",
-      "p3": "You can control cookies through browser settings. Blocking essential cookies may degrade functionality. We document major categories in internal records available for audit and regulatory inquiry."
+      "title": "Cookies",
+      "p1": "We use only the minimal cookies and local storage needed for the website to function, such as remembering your language and theme preference.",
+      "p2": "We do not use third-party advertising cookies on this website.",
+      "p3": "You can control cookies through your browser settings; disabling essential cookies may affect how the site works."
     },
     "changes": {
       "title": "Changes to this policy",
-      "p1": "We may revise this policy to reflect new features, legal requirements, or clarifications. When changes are material, we will notify users by email (where we have an address) and through in-app notices when Vitaro is generally available, at least 30 days before enforcement unless immediate changes are legally required.",
-      "p2": "Continued use after the notice period constitutes acceptance unless applicable law requires express consent for specific new processing. If you disagree with an update, you should stop using the service and may request deletion as permitted.",
-      "p3": "Prior versions can be provided upon reasonable request for transparency. We archive policy text changes with timestamps internally."
+      "p1": "We may update this policy to reflect changes to the website or legal requirements.",
+      "p2": "When we make material changes, we will update the \"Last updated\" date above.",
+      "p3": "Your continued use of the website after an update means you accept the revised policy."
     },
     "contact": {
       "title": "Contact us",
-      "p1": "Privacy inquiries: privacy@aviogroup.eco",
-      "p2": "Postal address: Avio Group Company Limited, Vietnam (please email for the appropriate mailing line if needed for formal correspondence).",
-      "p3": "For general questions unrelated to privacy, hello@aviogroup.eco. We aim to acknowledge privacy communications within two business days."
+      "p1": "For any privacy question or request, email contact@aviogroup.eco.",
+      "p2": "Postal correspondence: Avio Group Company Limited, Quang Ninh, Viet Nam.",
+      "p3": "We aim to acknowledge privacy enquiries within a reasonable time."
     }
   },
   "TermsPage": {
     "title": "Terms of Service",
     "updatedLabel": "Last updated",
-    "updatedDate": "May 1, 2026",
+    "updatedDate": "July 5, 2026",
     "acceptance": {
-      "title": "1. Acceptance of terms",
-      "p1": "These Terms of Service (“Terms”) govern your access to and use of websites operated by Avio Group Company Limited (“Avio Group”) — including aviogroup.eco — and the Vitaro mobile and web experiences we make available (collectively, the “Services”).",
-      "p2": "By creating an account, downloading Vitaro, or otherwise using the Services, you agree to these Terms and to our Privacy Policy. If you are using the Services on behalf of an organization, you represent that you have authority to bind that organization.",
-      "p3": "If you do not agree, do not use the Services. We may refuse service, suspend accounts, or limit features where permitted by law and these Terms."
+      "title": "1. Acceptance of these terms",
+      "p1": "These terms govern your use of the website operated by Avio Group Company Limited (\"Avio Group\") at aviogroup.eco.",
+      "p2": "By using the website, you agree to these terms. If you do not agree, please do not use the website.",
+      "p3": "If you use the website on behalf of an organisation, you confirm you are authorised to accept these terms for it."
     },
     "services": {
-      "title": "2. Description of services",
-      "p1": "Vitaro is a behavior-support platform designed to help users reflect on challenges, identify patterns, and follow structured, self-development-oriented protocols. Avio Group provides software infrastructure, educational content experiences, and related communications as described in-product.",
-      "p2": "Features may evolve during development and release phases. We may add, modify, or retire features to improve safety, quality, or compliance. We will provide reasonable advance notice for materially adverse changes to paid offerings if and when they exist.",
-      "p3": "The corporate website provides general information about Avio Group, verification information, and links to legal documents. It does not, by itself, provide personalized coaching or clinical services."
+      "title": "2. About this website",
+      "p1": "This website provides general information about Avio Group's airport operations advisory services in Viet Nam.",
+      "p2": "The website is informational. It does not itself create any advisory, consulting or contractual relationship; any engagement is governed by a separate written agreement.",
+      "p3": "We may change, suspend or discontinue parts of the website at any time."
     },
     "accounts": {
-      "title": "3. User accounts and responsibilities",
-      "p1": "You must provide accurate registration information and keep credentials confidential. You are responsible for activity under your account unless you notify us promptly of unauthorized access.",
-      "p2": "You must be old enough to use the Services under applicable law in your jurisdiction. You may not share accounts in ways that circumvent security, licensing, or abuse detection.",
-      "p3": "We may require re-verification, password resets, or additional authentication where we detect suspicious activity or as required for regulatory compliance."
+      "title": "3. Your submissions",
+      "p1": "When you submit information through our forms, you agree to provide accurate details and not to submit unlawful, misleading or harmful content.",
+      "p2": "You are responsible for the content you submit and for ensuring you may share any information you provide about others.",
+      "p3": "We may decline to respond to, or may delete, submissions that appear abusive, fraudulent or automated."
     },
     "acceptableUse": {
       "title": "4. Acceptable use",
-      "p1": "You agree not to misuse the Services. Prohibited conduct includes: attempting to probe, scan, or test the vulnerability of our systems without authorization; interfering with other users; uploading malware; reverse engineering except to the limited extent permitted by law; harvesting data without consent; or using the Services to stalk, harass, or harm others.",
-      "p2": "You may not use automated means to access the Services in ways that impose unreasonable load, circumvent rate limits, or scrape personal data. You may not impersonate Avio Group, our staff, or other users.",
-      "p3": "We may investigate violations and cooperate with law enforcement where legally required. Repeat or serious abuse may result in termination."
+      "p1": "You agree not to misuse the website, including by probing or scanning it for vulnerabilities, interfering with its operation, or introducing malware.",
+      "p2": "You may not scrape or harvest data, circumvent rate limits, or impersonate Avio Group or others.",
+      "p3": "We may investigate misuse and cooperate with authorities where the law requires."
     },
     "ip": {
       "title": "5. Intellectual property",
-      "p1": "Avio Group and its licensors own all rights in the Services, including software, branding, logos, documentation, and curated content, subject to open-source licenses where applicable.",
-      "p2": "You retain rights to content you create and submit (“Your Content”). You grant Avio Group a worldwide, non-exclusive license to host, process, transmit, display, and adapt Your Content solely to operate, secure, improve, and provide the Services and as described in our Privacy Policy.",
-      "p3": "Feedback you provide may be used by Avio Group without obligation or compensation, except where prohibited by law. You may not remove proprietary notices or misuse Avio Group trademarks."
+      "p1": "Avio Group and its licensors own the content, branding and materials on this website.",
+      "p2": "You may view and share the content for your own informational, non-commercial use, keeping any attribution intact.",
+      "p3": "You may not otherwise copy, reproduce or use our trademarks or materials without our written permission."
     },
-    "medical": {
-      "title": "6. Disclaimer of medical and clinical claims",
-      "disclaimerBold": "Vitaro is a behavioral-support platform. It is not a medical device, not a substitute for professional mental health treatment, and not designed to diagnose, treat, cure, or prevent any disease or psychological condition. The protocols, content, and guidance provided through Vitaro are educational and self-development tools. They do not constitute medical advice, psychological treatment, or therapy. If you are experiencing a mental health crisis, suicidal thoughts, or symptoms of a serious mental health condition, please contact local emergency services or a licensed mental health professional immediately. Avio Group is not responsible for outcomes that result from using Vitaro as a substitute for professional medical or mental health care.",
-      "p2": "Nothing on aviogroup.eco or within Vitaro creates a clinician–patient relationship. If you require clinical services, consult qualified professionals in your jurisdiction.",
-      "p3": "You are responsible for seeking urgent help when needed. Do not rely on the Services as your only source of safety planning."
+    "noAdvice": {
+      "title": "6. No professional advice",
+      "disclaimerBold": "The information on this website is general in nature and is not regulatory, legal, financial or operational advice for any specific airport, project or situation. Aviation licensing and operations depend on the facts, the jurisdiction and current regulation, including Viet Nam's Civil Aviation Law 130/2025. Do not act on the basis of website content alone; obtain advice tailored to your circumstances under a formal engagement before making decisions.",
+      "p2": "Any statements about outcomes, timelines or the market are for general context and are not guarantees.",
+      "p3": "Avio Group is not responsible for decisions taken solely in reliance on this website."
     },
     "liability": {
-      "title": "7. Limitation of liability",
-      "p1": "To the maximum extent permitted by applicable law, the Services are provided “as is” and “as available,” without warranties of any kind, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.",
-      "p2": "To the maximum extent permitted by law, Avio Group and its affiliates, directors, employees, and suppliers will not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits, revenues, data, or goodwill arising from your use of the Services.",
-      "p3": "Where limitation cannot apply by law, our aggregate liability for claims arising out of the Services will not exceed the greater of (a) the amounts you paid to Avio Group for the Services in the six months preceding the claim, or (b) fifty U.S dollars (USD) if no fees were paid. Multiple claims do not expand this cap."
+      "title": "7. Disclaimers and limitation of liability",
+      "p1": "The website is provided \"as is\" and \"as available\", without warranties of any kind to the maximum extent permitted by law.",
+      "p2": "To the maximum extent permitted by law, Avio Group is not liable for indirect, incidental or consequential damages arising from your use of the website.",
+      "p3": "Nothing in these terms limits liability that cannot be limited under applicable law."
     },
     "termination": {
-      "title": "8. Termination",
-      "p1": "You may stop using the Services at any time and may request account deletion as described in our Privacy Policy.",
-      "p2": "We may suspend or terminate access if you materially breach these Terms, create risk or legal exposure, or if we discontinue a product with reasonable notice except where immediate termination is legally required.",
-      "p3": "Upon termination, certain provisions that by their nature should survive — including intellectual property, disclaimers, limitations of liability, and governing law — will survive."
+      "title": "8. Suspension",
+      "p1": "We may suspend or restrict access to the website, in whole or in part, where necessary to protect the website, our rights or other users.",
+      "p2": "You may stop using the website at any time.",
+      "p3": "Provisions that by their nature should survive — including intellectual property, disclaimers and governing law — continue to apply."
     },
     "changes": {
-      "title": "9. Changes to terms",
-      "p1": "We may modify these Terms to reflect changes to our Services or legal requirements. We will post updated Terms with a revised “Last updated” date and, where material, provide additional notice through email or in-app messaging when Vitaro is generally available.",
-      "p2": "Continued use after changes become effective constitutes acceptance unless applicable law requires separate consent. If you disagree, discontinue use and delete your account where available.",
-      "p3": "We archive prior versions internally and can provide copies on reasonable request for transparency."
+      "title": "9. Changes to these terms",
+      "p1": "We may update these terms to reflect changes to the website or legal requirements.",
+      "p2": "We will update the \"Last updated\" date when we do, and material changes take effect when posted.",
+      "p3": "Your continued use of the website after an update means you accept the revised terms."
     },
     "law": {
       "title": "10. Governing law",
-      "p1": "These Terms are governed by the laws of Vietnam, excluding conflict-of-law rules that would require applying another jurisdiction’s laws, subject to non-waivable consumer protections where you reside.",
-      "p2": "Venue for disputes will be courts located in Vietnam with competent jurisdiction, unless mandatory law gives you the right to bring claims elsewhere.",
-      "p3": "You may have additional rights under local consumer regulations that these Terms cannot override."
+      "p1": "These terms are governed by the laws of Viet Nam, without regard to conflict-of-law rules.",
+      "p2": "The competent courts of Viet Nam have jurisdiction, subject to any mandatory rights you have where you reside.",
+      "p3": "If any provision is found unenforceable, the remaining provisions continue in effect."
     },
     "contact": {
       "title": "11. Contact",
-      "p1": "Questions about these Terms: hello@aviogroup.eco",
-      "p2": "Legal or regulatory inquiries should include sufficient detail and, where appropriate, official letterhead references.",
-      "p3": "We publish corporate verification information (including D-U-N-S 626314981) to assist partners, stores, and users seeking legitimate contact paths."
+      "p1": "Questions about these terms: contact@aviogroup.eco.",
+      "p2": "Avio Group Company Limited, Quang Ninh, Viet Nam. D-U-N-S 626314981.",
+      "p3": "We publish our corporate verification details to help partners confirm our identity."
     }
   },
   "ServicesPage": {
