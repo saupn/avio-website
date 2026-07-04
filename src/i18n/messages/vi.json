@@ -20,7 +20,12 @@
       },
       "email": "Email",
       "message": "Tin nhắn",
-      "submit": "Gửi tin nhắn"
+      "submit": "Gửi tin nhắn",
+      "success": "Cảm ơn bạn — chúng tôi đã nhận được tin nhắn và sẽ liên hệ lại.",
+      "invalid": "Vui lòng kiểm tra lại các trường được đánh dấu và thử lại.",
+      "rateLimited": "Bạn gửi quá nhiều lần. Vui lòng thử lại sau ít phút.",
+      "error": "Đã xảy ra lỗi. Vui lòng gửi email tới contact@aviogroup.eco.",
+      "sending": "Đang gửi…"
     }
   },
   "Footer": {
@@ -358,7 +363,11 @@
     "form": {
       "success": "Cảm ơn bạn — báo cáo sẽ đến với bạn sớm nhất.",
       "email": "Email",
-      "submit": "Nhận báo cáo"
+      "submit": "Nhận báo cáo",
+      "invalid": "Vui lòng nhập một địa chỉ email hợp lệ.",
+      "rateLimited": "Bạn gửi quá nhiều lần. Vui lòng thử lại sau ít phút.",
+      "error": "Đã xảy ra lỗi. Vui lòng thử lại.",
+      "sending": "Đang gửi…"
     }
   }
 }

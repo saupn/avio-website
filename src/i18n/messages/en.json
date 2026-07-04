@@ -20,7 +20,12 @@
       },
       "email": "Email",
       "message": "Message",
-      "submit": "Send message"
+      "submit": "Send message",
+      "success": "Thanks — we've received your message and will be in touch.",
+      "invalid": "Please check the highlighted fields and try again.",
+      "rateLimited": "Too many submissions. Please try again in a little while.",
+      "error": "Something went wrong. Please email contact@aviogroup.eco.",
+      "sending": "Sending…"
     }
   },
   "Footer": {
@@ -358,7 +363,11 @@
     "form": {
       "success": "Thank you — the report will reach you first.",
       "email": "Email",
-      "submit": "Notify me"
+      "submit": "Notify me",
+      "invalid": "Please enter a valid email address.",
+      "rateLimited": "Too many submissions. Please try again in a little while.",
+      "error": "Something went wrong. Please try again.",
+      "sending": "Sending…"
     }
   }
 }
