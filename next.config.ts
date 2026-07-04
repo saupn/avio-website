@@ -4,7 +4,7 @@ import createNextIntlPlugin from "next-intl/plugin";
 const nextConfig: NextConfig = {
   devIndicators: false,
   images: {
-    formats: ["image/webp"],
+    formats: ["image/avif", "image/webp"],
   },
   /**
    * Permanent redirects for routes removed in the airport-advisory repositioning.
