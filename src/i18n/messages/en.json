@@ -87,14 +87,6 @@
         "summary": "Recruitment pipelines and certified training for the hundreds of operational staff every new airport needs."
       }
     },
-    "founder": {
-      "lead": "Founded and led by one of the very few professionals who has sat on all three sides of an airport project — the regulator, the operator, and the investor.",
-      "chips": {
-        "regulator": "Regulator — Deputy Director, Southern Airports Authority",
-        "operator": "Operator — CEO, Viet Nam's first private international airport (5 years)",
-        "investor": "Investor — Director, aviation infrastructure, Central Asia"
-      }
-    },
     "advisoryBench": {
       "body": "Backed by a senior advisory board drawn from the leadership of Viet Nam's aviation system — airport operations, ground services, civil aviation administration, construction quality and aviation training.",
       "subline": "Advisor profiles available to partners under NDA."
@@ -102,6 +94,14 @@
     "ctaBand": {
       "text": "Building or backing an airport in Viet Nam? Let's talk.",
       "button": "Contact us"
+    },
+    "experts": {
+      "lead": "A collective of the industry's most senior experts — regulators, operators and investors on one team.",
+      "chips": {
+        "regulators": "Regulators",
+        "operators": "Operators",
+        "investors": "Investors"
+      }
     }
   },
   "Metadata": {
@@ -130,7 +130,7 @@
     },
     "team": {
       "title": "Team",
-      "description": "Founded by a professional who has sat on all three sides of an airport project — regulator, operator and investor — backed by a senior advisory board from Viet Nam's aviation system."
+      "description": "A collective of Viet Nam's leading aviation experts — regulators, operators, investors, ground services, construction quality and training — advising new airports across the country."
     },
     "insights": {
       "title": "Insights",
@@ -343,18 +343,35 @@
     }
   },
   "TeamPage": {
-    "founder": {
-      "closing": "Three seats, one conclusion: an airport succeeds when the regulator's requirements, the operator's realities and the investor's economics are engineered together from day one."
+    "intro": {
+      "heading": "A collective of Viet Nam's leading aviation experts.",
+      "body": "Avio Group brings together senior professionals from every side of an airport project — people who have written the regulations, run the operations, and delivered the investments. Expert profiles are shared with partners under NDA and will be published here as engagements are announced."
     },
-    "advisoryBoard": {
-      "cards": {
-        "airportOperations": "Airport Operations — former deputy director, major international airport",
-        "groundServices": "Ground Services — former CEO, leading ground services company",
-        "civilAviation": "Civil Aviation Administration — former senior officials, airports & flight operations",
-        "constructionQuality": "Construction Quality & Design — former head of state construction quality authority",
-        "aviationTraining": "Aviation Training — former director, national aviation academy"
+    "expertise": {
+      "regulators": {
+        "title": "Regulators",
+        "body": "Former senior officials of Viet Nam's civil aviation administration — airports, flight operations and airport authorities."
       },
-      "footer": "Individual profiles available to partners under NDA."
+      "operators": {
+        "title": "Operators",
+        "body": "Leaders who have run international airports in Viet Nam, from opening day to peak-season operations."
+      },
+      "investors": {
+        "title": "Investors",
+        "body": "Professionals who have delivered airport infrastructure investments in Viet Nam and abroad."
+      },
+      "groundServices": {
+        "title": "Ground Services",
+        "body": "Former leadership of Viet Nam's leading ground services companies."
+      },
+      "constructionQuality": {
+        "title": "Construction Quality & Design",
+        "body": "Former leadership in state construction quality management and aviation design."
+      },
+      "training": {
+        "title": "Training & Human Capital",
+        "body": "Former leadership of the national aviation training system."
+      }
     },
     "regionalPanel": "A regional advisory panel of retired senior leaders from major Southeast Asian airport operators."
   },

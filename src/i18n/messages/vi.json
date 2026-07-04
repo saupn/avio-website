@@ -87,14 +87,6 @@
         "summary": "Tuyển dụng và đào tạo có chứng chỉ cho hàng trăm nhân sự khai thác mà mỗi sân bay mới cần."
       }
     },
-    "founder": {
-      "lead": "Được sáng lập và dẫn dắt bởi một trong số rất ít chuyên gia từng đứng ở cả ba phía của một dự án sân bay — nhà chức trách, nhà khai thác và nhà đầu tư.",
-      "chips": {
-        "regulator": "Nhà chức trách — Phó Giám đốc Cảng vụ Hàng không miền Nam",
-        "operator": "Nhà khai thác — Tổng Giám đốc sân bay quốc tế tư nhân đầu tiên của Việt Nam (5 năm)",
-        "investor": "Nhà đầu tư — Giám đốc hạ tầng hàng không tại Trung Á"
-      }
-    },
     "advisoryBench": {
       "body": "Đồng hành cùng Hội đồng cố vấn cấp cao quy tụ các lãnh đạo từ hệ thống hàng không Việt Nam — khai thác cảng, phục vụ mặt đất, quản lý nhà nước về hàng không, chất lượng xây dựng và đào tạo hàng không.",
       "subline": "Hồ sơ cố vấn cung cấp cho đối tác theo thỏa thuận bảo mật."
@@ -102,6 +94,14 @@
     "ctaBand": {
       "text": "Đang phát triển hoặc đầu tư một sân bay tại Việt Nam? Hãy trao đổi với chúng tôi.",
       "button": "Liên hệ"
+    },
+    "experts": {
+      "lead": "Nơi quy tụ những chuyên gia kỳ cựu nhất của ngành — nhà chức trách, nhà khai thác và nhà đầu tư trong cùng một đội ngũ.",
+      "chips": {
+        "regulators": "Nhà chức trách",
+        "operators": "Nhà khai thác",
+        "investors": "Nhà đầu tư"
+      }
     }
   },
   "Metadata": {
@@ -130,7 +130,7 @@
     },
     "team": {
       "title": "Đội ngũ",
-      "description": "Được sáng lập bởi chuyên gia từng đứng ở cả ba phía của một dự án sân bay — nhà chức trách, nhà khai thác và nhà đầu tư — cùng Hội đồng cố vấn cấp cao từ hệ thống hàng không Việt Nam."
+      "description": "Nơi quy tụ các chuyên gia hàng không hàng đầu Việt Nam — nhà chức trách, nhà khai thác, nhà đầu tư, phục vụ mặt đất, chất lượng xây dựng và đào tạo — đồng hành cùng các sân bay mới trên cả nước."
     },
     "insights": {
       "title": "Góc nhìn",
@@ -343,18 +343,35 @@
     }
   },
   "TeamPage": {
-    "founder": {
-      "closing": "Ba vị trí, một kết luận: một sân bay thành công khi yêu cầu của nhà chức trách, thực tế của nhà khai thác và bài toán kinh tế của nhà đầu tư được thiết kế đồng bộ ngay từ ngày đầu."
+    "intro": {
+      "heading": "Nơi quy tụ các chuyên gia hàng không hàng đầu Việt Nam.",
+      "body": "Avio Group tập hợp các chuyên gia cấp cao từ mọi phía của một dự án sân bay — những người từng xây dựng quy định, trực tiếp vận hành khai thác và triển khai các dự án đầu tư. Hồ sơ chuyên gia được chia sẻ với đối tác theo thỏa thuận bảo mật, và sẽ được công bố tại đây cùng các dự án hợp tác."
     },
-    "advisoryBoard": {
-      "cards": {
-        "airportOperations": "Khai thác cảng — nguyên Phó Giám đốc một cảng hàng không quốc tế lớn",
-        "groundServices": "Phục vụ mặt đất — nguyên Tổng Giám đốc công ty phục vụ mặt đất hàng đầu",
-        "civilAviation": "Quản lý nhà nước về hàng không — nguyên lãnh đạo cấp phòng, khối cảng hàng không và hoạt động bay",
-        "constructionQuality": "Chất lượng xây dựng & Thiết kế — nguyên lãnh đạo cơ quan quản lý chất lượng công trình nhà nước",
-        "aviationTraining": "Đào tạo hàng không — nguyên Giám đốc học viện hàng không quốc gia"
+    "expertise": {
+      "regulators": {
+        "title": "Nhà chức trách",
+        "body": "Nguyên lãnh đạo trong hệ thống quản lý nhà nước về hàng không — khối cảng hàng không, hoạt động bay và cảng vụ."
       },
-      "footer": "Hồ sơ chi tiết cung cấp cho đối tác theo thỏa thuận bảo mật."
+      "operators": {
+        "title": "Nhà khai thác",
+        "body": "Những người từng trực tiếp điều hành các cảng hàng không quốc tế tại Việt Nam, từ ngày mở cảng đến vận hành mùa cao điểm."
+      },
+      "investors": {
+        "title": "Nhà đầu tư",
+        "body": "Các chuyên gia từng triển khai những dự án đầu tư hạ tầng hàng không tại Việt Nam và quốc tế."
+      },
+      "groundServices": {
+        "title": "Phục vụ mặt đất",
+        "body": "Nguyên lãnh đạo các công ty phục vụ mặt đất hàng đầu Việt Nam."
+      },
+      "constructionQuality": {
+        "title": "Chất lượng xây dựng & Thiết kế",
+        "body": "Nguyên lãnh đạo trong quản lý nhà nước về chất lượng công trình và thiết kế hàng không."
+      },
+      "training": {
+        "title": "Đào tạo & Nhân lực",
+        "body": "Nguyên lãnh đạo hệ thống đào tạo hàng không quốc gia."
+      }
     },
     "regionalPanel": "Hội đồng cố vấn khu vực gồm các cựu lãnh đạo cấp cao từ những nhà khai thác sân bay lớn tại Đông Nam Á."
   },

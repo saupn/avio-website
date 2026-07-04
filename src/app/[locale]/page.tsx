@@ -1,7 +1,7 @@
 import { setRequestLocale } from "next-intl/server";
 import { BenchStrip } from "@/components/sections/BenchStrip";
 import { CtaBand } from "@/components/sections/CtaBand";
-import { FounderStrip } from "@/components/sections/FounderStrip";
+import { ExpertsStrip } from "@/components/sections/ExpertsStrip";
 import { Hero } from "@/components/sections/Hero";
 import { MarketMoment } from "@/components/sections/MarketMoment";
 import { ServiceLayers } from "@/components/sections/ServiceLayers";
@@ -25,7 +25,7 @@ export default async function HomePage({ params }: HomeProps) {
       <Hero />
       <MarketMoment />
       <ServiceLayers />
-      <FounderStrip />
+      <ExpertsStrip />
       <BenchStrip />
       <CtaBand />
     </>
