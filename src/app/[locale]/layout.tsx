@@ -1,21 +1,16 @@
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
-import { Lora, Montserrat } from "next/font/google";
+import { Montserrat } from "next/font/google";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import type { ReactNode } from "react";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
+import { ThemeProvider } from "@/components/theme/ThemeProvider";
 import { routing } from "@/i18n/routing";
 
-const lora = Lora({
-  subsets: ["latin"],
-  variable: "--font-lora",
-  display: "swap",
-});
-
 const montserrat = Montserrat({
-  subsets: ["latin"],
+  subsets: ["latin", "vietnamese"],
   variable: "--font-montserrat",
   display: "swap",
 });
@@ -60,14 +55,22 @@ export default async function LocaleLayout({
 
   return (
     <html
-      className={`${lora.variable} ${montserrat.variable} h-full font-sans`}
+      className={`${montserrat.variable} h-full font-sans`}
       lang={locale}
+      suppressHydrationWarning
     >
-      <body className="flex min-h-full flex-col bg-white text-neutral-900 antialiased">
+      <body className="flex min-h-full flex-col bg-background text-foreground antialiased">
         <NextIntlClientProvider messages={messages}>
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
+          <ThemeProvider
+            attribute="class"
+            defaultTheme="system"
+            disableTransitionOnChange
+            enableSystem
+          >
+            <Header />
+            <main className="flex-1">{children}</main>
+            <Footer />
+          </ThemeProvider>
         </NextIntlClientProvider>
       </body>
     </html>

@@ -24,9 +24,9 @@ export type ButtonProps = ButtonLinkProps | ButtonNativeProps;
 
 const variantClasses: Record<ButtonVariant, string> = {
   primary:
-    "bg-primary text-white hover:bg-primary-dark focus-visible:ring-primary",
+    "bg-accent text-accent-contrast hover:bg-accent-strong focus-visible:ring-accent",
   secondary:
-    "border border-neutral-200 bg-white text-neutral-900 hover:border-neutral-400 focus-visible:ring-neutral-400",
+    "border border-neutral-300 bg-transparent text-foreground hover:border-accent hover:text-accent focus-visible:ring-accent dark:border-white/20",
   inverse:
     "border border-white/40 bg-transparent text-white hover:bg-white/10 focus-visible:ring-white",
 };
@@ -39,7 +39,7 @@ export function Button(props: ButtonProps) {
     variant = "primary",
   } = props;
   const base =
-    "inline-flex items-center justify-center rounded-md px-5 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2";
+    "inline-flex items-center justify-center rounded-md px-5 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-background";
 
   const styles = `${base} ${variantClasses[variant]} ${className}`;
 

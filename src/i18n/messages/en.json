@@ -141,7 +141,8 @@
     "logoAlt": "Avio Group logo",
     "services": "Services",
     "team": "Team",
-    "insights": "Insights"
+    "insights": "Insights",
+    "themeToggle": "Toggle theme"
   },
   "PrivacyPage": {
     "title": "Privacy Policy",

@@ -22,14 +22,15 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-surface: var(--surface);
-  --font-sans: var(--font-lora);
+  --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
   --font-heading: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
 
   /* Brand accent — aviation gold. Reserved for the primary CTA, stat numerals,
      active nav state and thin data accents ONLY (02-design.md). */
   --color-accent: #b8860b;
   --color-accent-strong: #9c7209;
-  --color-accent-contrast: #ffffff;
+  /* Navy text on gold — white-on-gold fails WCAG AA for button-sized text. */
+  --color-accent-contrast: #0e1420;
 
   /* Brand surfaces referenced when components migrate to the token system in T6. */
   --color-navy: #0e1420;
@@ -77,7 +78,7 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-lora), Georgia, "Times New Roman", serif;
+  font-family: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
 }
 
 h1,
@@ -87,6 +88,8 @@ h4,
 h5,
 h6 {
   font-family: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: -0.02em;
+  font-weight: 600;
 }
 
 .animate-in-section {

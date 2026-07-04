@@ -32,7 +32,7 @@ export function LanguageSwitcher({
         Language
       </label>
       <select
-        className="rounded-md border border-neutral-200 bg-white px-2 py-1 font-medium text-neutral-800 shadow-sm transition-colors duration-200 hover:border-neutral-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2"
+        className="rounded-md border border-neutral-300 bg-background px-2 py-1 font-medium text-foreground shadow-sm transition-colors duration-200 hover:border-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background dark:border-white/20"
         id="language-switcher"
         onChange={(e) => handleChange(e.target.value)}
         value={locale}

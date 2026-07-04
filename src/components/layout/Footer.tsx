@@ -2,6 +2,7 @@ import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/routing";
 import { LanguageSwitcher } from "@/components/layout/LanguageSwitcher";
+import { ThemeToggle } from "@/components/theme/ThemeToggle";
 
 const footerNav = [
   { href: "/", key: "home" as const },
@@ -17,7 +18,7 @@ export async function Footer() {
   const tNav = await getTranslations("Nav");
 
   return (
-    <footer className="bg-neutral-900 text-neutral-300">
+    <footer className="dark bg-navy text-neutral-300">
       <div className="mx-auto max-w-7xl px-6 py-16 md:px-8 lg:px-12">
         <div className="grid gap-12 md:grid-cols-2 lg:grid-cols-4">
           <div className="space-y-4">
@@ -97,13 +98,16 @@ export async function Footer() {
               {t("touchHeading")}
             </p>
             <a
-              className="block text-sm font-medium text-white transition-colors duration-200 hover:text-primary-light"
+              className="block text-sm font-medium text-white transition-colors duration-200 hover:text-accent"
               href={`mailto:${t("helloEmail")}`}
             >
               {t("helloEmail")}
             </a>
             <p className="text-sm text-neutral-400">{t("country")}</p>
-            <LanguageSwitcher className="text-neutral-200" compact />
+            <div className="flex items-center gap-3 pt-1">
+              <LanguageSwitcher className="text-neutral-200" compact />
+              <ThemeToggle />
+            </div>
           </div>
         </div>
 
