@@ -7,15 +7,12 @@ import { useState } from "react";
 import { Link, usePathname } from "@/i18n/routing";
 import { LanguageSwitcher } from "@/components/layout/LanguageSwitcher";
 
-const navKeys = ["home", "about", "products", "philosophy", "contact"] as const;
+const navKeys = ["home", "contact"] as const;
 
 type NavKey = (typeof navKeys)[number];
 
 const hrefByKey: Record<NavKey, string> = {
   home: "/",
-  about: "/about",
-  products: "/products",
-  philosophy: "/philosophy",
   contact: "/contact",
 };
 

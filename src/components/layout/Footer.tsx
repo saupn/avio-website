@@ -5,9 +5,6 @@ import { LanguageSwitcher } from "@/components/layout/LanguageSwitcher";
 
 const footerNav = [
   { href: "/", key: "home" as const },
-  { href: "/about", key: "about" as const },
-  { href: "/products", key: "products" as const },
-  { href: "/philosophy", key: "philosophy" as const },
   { href: "/contact", key: "contact" as const },
 ];
 

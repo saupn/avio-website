@@ -1,62 +1,4 @@
 {
-  "AboutPage": {
-    "hero": {
-      "eyebrow": "VỀ CHÚNG TÔI",
-      "title": "Chúng tôi xây dựng phần mềm giúp con người trở thành người họ muốn trở thành."
-    },
-    "story": {
-      "title": "Câu chuyện của chúng tôi",
-      "p1": "Avio Group được thành lập từ một câu hỏi: trong kỷ nguyên trí tuệ nhân tạo có thể viết bài luận, tạo hình ảnh và trả lời hầu hết các câu hỏi thông tin trong tích tắc, điều có giá trị nhất mà công nghệ vẫn có thể làm cho con người là gì? Sau nhiều năm làm việc với những người thuộc nhiều ngành nghề khác nhau — doanh nhân, người làm chuyên môn, sinh viên, các bậc cha mẹ — chúng tôi liên tục trở lại với cùng một câu trả lời. Điểm tắc nghẽn không phải là kiến thức. Điểm tắc nghẽn là hành động liên tục.",
-      "p2": "Mọi người đều biết họ nên ngủ nhiều hơn. Họ biết họ nên tập thể dục. Họ biết họ nên đặt ranh giới tại nơi làm việc, giao tiếp trung thực hơn với người yêu, tiết kiệm nhiều hơn, học kỹ năng sẽ giúp sự nghiệp họ tiến lên. Thông tin có sẵn miễn phí. Điều thiếu là một hệ thống giúp họ hành động dựa trên những gì họ đã biết, ngày này qua ngày khác, cho đến khi hành động đó trở thành chính họ.",
-      "p3": "Hiểu biết đó đã trở thành Avio Group. Chúng tôi tồn tại để xây dựng hệ thống đó. Sản phẩm chủ lực Vitaro là biểu hiện đầu tiên của sứ mệnh này, và tầm nhìn dài hạn của chúng tôi là mở rộng cách tiếp cận này sang nhiều lĩnh vực của cuộc sống con người — sức khỏe thể chất, sự rõ ràng tinh thần, phát triển sự nghiệp và các mối quan hệ có ý nghĩa."
-    },
-    "mission": {
-      "title": "Sứ mệnh của chúng tôi",
-      "quote": "Giúp một triệu người duy trì hành động có ý nghĩa đủ lâu để sự thay đổi thực sự diễn ra — và làm điều đó theo cách tôn trọng thời gian, quyền riêng tư và trí tuệ của họ."
-    },
-    "company": {
-      "title": "Thông tin công ty",
-      "fields": {
-        "legalName": "Tên pháp lý (Anh)",
-        "vietnameseName": "Tên tiếng Việt",
-        "duns": "Số D-U-N-S",
-        "country": "Quốc gia đăng ký",
-        "industry": "Ngành",
-        "founded": "Năm thành lập",
-        "product": "Sản phẩm chính",
-        "website": "Website",
-        "verification": "Xác minh",
-        "legalNameValue": "Avio Group Company Limited",
-        "vietnameseNameValue": "Công ty TNHH Avio Group",
-        "dunsValue": "626314981",
-        "countryValue": "Việt Nam",
-        "industryValue": "Công nghệ / Phát triển phần mềm",
-        "foundedValue": "2024",
-        "productValue": "Vitaro — Nền tảng thay đổi hành vi",
-        "websiteValue": "aviogroup.eco",
-        "verificationValue": "Được xác minh bởi Dun & Bradstreet"
-      }
-    },
-    "values": {
-      "title": "Những điều chúng tôi coi trọng",
-      "honesty": {
-        "title": "Trung thực",
-        "body": "Chúng tôi nói với người dùng sản phẩm có thể làm gì, không thể làm gì và yêu cầu gì từ họ. Chúng tôi không hứa hẹn những kết quả chúng tôi không thể mang lại."
-      },
-      "depth": {
-        "title": "Chiều sâu",
-        "body": "Chúng tôi xây dựng cho những người dùng sẵn sàng làm việc thật sự trong thời gian dài. Sản phẩm của chúng tôi không dành cho người tìm đường tắt, và chúng tôi thẳng thắn về điều đó."
-      },
-      "care": {
-        "title": "Quan tâm",
-        "body": "Thay đổi hành vi là điều cá nhân và đôi khi dễ tổn thương. Chúng tôi thiết kế với ý thức rằng ở đầu bên kia màn hình là một con người thật với một cuộc sống thật, không phải một chỉ số."
-      },
-      "independence": {
-        "title": "Độc lập",
-        "body": "Chúng tôi xây dựng theo nhịp của mình, theo điều kiện của mình. Ưu tiên của chúng tôi là tạo ra những sản phẩm hoạt động — không phải tối đa hóa tăng trưởng bằng cái giá của chất lượng."
-      }
-    }
-  },
   "Common": {
     "CONTACT_EMAIL": "hello@aviogroup.eco",
     "PRIVACY_EMAIL": "privacy@aviogroup.eco",
@@ -107,9 +49,6 @@
     "copyrightVi": "© 2026 Công ty TNHH Avio Group. Mọi quyền được bảo lưu.",
     "nav": {
       "home": "Trang chủ",
-      "about": "Về chúng tôi",
-      "products": "Sản phẩm",
-      "philosophy": "Triết lý",
       "contact": "Liên hệ"
     }
   },
@@ -217,18 +156,6 @@
       "title": "Trang chủ",
       "description": "Avio Group xây dựng công nghệ thay đổi hành vi. Khám phá Vitaro—lộ trình cá nhân, nhịp ngày và thiết kế ưu tiên quyền riêng tư cho sự thay đổi thực."
     },
-    "about": {
-      "title": "Về chúng tôi",
-      "description": "Tìm hiểu Avio Group—sứ mệnh, câu chuyện, D-U-N-S 626314981 và cách chúng tôi xây dựng phần mềm duy trì hành động có ý nghĩa."
-    },
-    "products": {
-      "title": "Vitaro",
-      "description": "Vitaro giúp bạn tìm gốc rễ, theo lộ trình có cấu trúc và xây nhịp ngày—thay đổi hành vi cho cuộc sống thực trên iOS và Android."
-    },
-    "philosophy": {
-      "title": "Triết lý",
-      "description": "Cách Avio Group nghĩ về công nghệ, động lực và cơ chế, thực hiện hơn thông tin, và thiết kế cho thay đổi dài hạn."
-    },
     "contact": {
       "title": "Liên hệ",
       "description": "Liên hệ Avio Group cho hợp tác, báo chí, hỗ trợ hoặc tuyển dụng. Email, thông tin đăng ký Việt Nam và D-U-N-S 626314981."
@@ -245,54 +172,10 @@
   "Nav": {
     "brand": "Avio Group",
     "home": "Trang chủ",
-    "about": "Về chúng tôi",
-    "products": "Sản phẩm",
-    "philosophy": "Triết lý",
     "contact": "Liên hệ",
     "openMenu": "Mở menu điều hướng",
     "closeMenu": "Đóng menu điều hướng",
     "logoAlt": "Logo Avio Group"
-  },
-  "PhilosophyPage": {
-    "hero": {
-      "eyebrow": "TRIẾT LÝ",
-      "title": "Cách chúng tôi nghĩ về công nghệ, hành vi và cuộc sống con người mà công nghệ cần phục vụ."
-    },
-    "bottleneck": {
-      "p1": "Trong mọi thế hệ trước đây, kiến thức là hiếm hoi và nỗ lực thì dồi dào. Mọi người biết họ muốn làm gì — họ chỉ không phải lúc nào cũng tìm ra cách làm. Sách hiếm. Người thầy bị giới hạn bởi địa lý. Chuyên môn bị giữ lại bởi các phường hội và thiết chế. Để cải thiện cuộc sống, trước tiên bạn phải tìm ra cải thiện trông như thế nào.",
-      "p2": "Ngày nay, sự khan hiếm đó đã đảo ngược. Kiến thức về cơ bản là không giới hạn. Bất kỳ ai có kết nối internet đều có thể đọc về năng suất, thể hình, giao tiếp, tài chính, triết học, nuôi dạy con hoặc chiến lược nghề nghiệp đến cuối đời và vẫn không bao giờ chạm đáy của những gì có sẵn miễn phí. Ràng buộc không còn là thông tin. Ràng buộc là sự thực hiện.",
-      "p3": "Chúng tôi xây dựng cho ràng buộc đó. Avio Group tồn tại để thiết kế những công cụ thu hẹp khoảng cách giữa những gì mọi người biết là nên làm và những gì họ thực sự làm — lặp lại, qua nhiều tháng và nhiều năm, cho đến khi hành động định hình con người."
-    },
-    "motivation": {
-      "p1": "Phần lớn các sản phẩm thay đổi hành vi thất bại vì cùng một lý do: chúng bán động lực. Động lực là có thật, nhưng động lực cũng mang tính hóa học, phụ thuộc vào hoàn cảnh và tồn tại ngắn ngủi. Nó dâng trào khi bạn xem một video làm bạn xúc động. Nó sụp đổ khi bạn mệt, căng thẳng, đói hoặc chán. Bất kỳ ai đã từng cố thay đổi một hành vi chỉ bằng động lực đều biết chu trình này: khởi đầu mạnh mẽ, suy giảm dần và cuối cùng quay về điểm xuất phát. Sản phẩm bị đổ lỗi. Thường thì sản phẩm chưa bao giờ là vấn đề. Mô hình mới là vấn đề.",
-      "p2": "Khoa học hành vi rất rõ ràng về điều này. Hàng thập kỷ nghiên cứu từ Stanford, Harvard và các phòng thí nghiệm kinh tế học hành vi trên khắp thế giới đã chỉ ra rằng thay đổi hành vi lâu bền không được thúc đẩy bởi cảm giác có động lực. Nó được thúc đẩy bởi môi trường, ma sát, bản sắc và các vòng phản hồi được thiết kế tốt. Khi hành động đúng đòi hỏi ý chí cao, mọi người thất bại. Khi hành động đúng được thiết kế để trở thành lựa chọn mặc định dễ dàng, mọi người thành công — kể cả khi họ không cảm thấy đặc biệt được truyền cảm hứng vào ngày hôm đó.",
-      "p3": "Đây là lý do chúng tôi xây dựng cơ chế thay vì bán động lực. Sản phẩm phải gánh phần trọng lượng mà ý chí không thể gánh. Hệ thống phải nhớ khi người dùng quên. Thiết kế phải giảm ma sát ngay tại những điểm mà người dùng thường bỏ cuộc. Không có điều nào trong số này hào nhoáng, nhưng đây là những điều thực sự hoạt động — và chúng tôi thà xây dựng một thứ thầm lặng hiệu quả hơn là một thứ ồn ào truyền cảm hứng."
-    },
-    "instead": {
-      "intro": "Nếu chúng tôi không bán động lực, thì chúng tôi đang cung cấp điều gì? Một danh sách ngắn các cam kết thiết kế hiện diện trong mọi sản phẩm chúng tôi ra mắt.",
-      "items": {
-        "one": {
-          "title": "01. Chúng tôi xây cơ chế, không bán động lực",
-          "body": "Mỗi tính năng trong sản phẩm của chúng tôi đều có một chức năng hành vi — một công việc cụ thể mà nó đang làm trong tâm lý người dùng. Chúng tôi không thêm tính năng vì chúng trông đẹp trên ảnh chụp marketing. Chúng tôi thêm vì chúng giúp người dùng tiếp tục vào ngày họ muốn bỏ."
-        },
-        "two": {
-          "title": "02. Chúng tôi thiết kế cho ngày bạn không muốn làm",
-          "body": "Phần lớn sản phẩm được thiết kế cho người dùng ngày thứ nhất, khi động lực đang cao. Chúng tôi thiết kế cho ngày thứ mười bốn, khi động lực đã sụp đổ. Sản phẩm phải làm việc chăm chỉ hơn khi người dùng có ít hơn để cho — đó là toàn bộ phép thử xem một công cụ thay đổi hành vi có thực sự hoạt động hay không."
-        },
-        "three": {
-          "title": "03. Chúng tôi tôn trọng thời gian của bạn",
-          "body": "Các phiên dài là dấu hiệu của một sản phẩm được thiết kế kém, không phải dấu hiệu của sự đầy đủ. Các điểm tiếp xúc hàng ngày của chúng tôi cố tình ngắn — phần lớn dưới năm phút — vì sự chú ý là tài nguyên quý giá nhất mà người dùng của chúng tôi có, và chúng tôi từ chối lạm dụng nó."
-        },
-        "four": {
-          "title": "04. Chúng tôi không bao giờ gamify những điều cần được nghiêm túc",
-          "body": "Streak, huy hiệu và bảng xếp hạng hoạt động tốt cho các ứng dụng đố vui. Chúng không hoạt động cho công việc nghiêm túc là thay đổi cách một người sống. Dopamine rẻ tiền tạo ra động lực mong manh sụp đổ ngay khoảnh khắc phần thưởng dừng lại. Chúng tôi thiết kế cho sự gắn kết nội tại, không phải sự lệ thuộc bên ngoài."
-        },
-        "five": {
-          "title": "05. Chúng tôi trung thực về những gì thay đổi thực sự đòi hỏi",
-          "body": "Thay đổi không nhanh. Thay đổi không không đau. Thay đổi không được đảm bảo. Chúng tôi từ chối hứa hẹn những điều không thể giữ và từ chối tâng bốc người dùng bằng những tuyên bố không đúng sự thật. Sự trung thực là một phần của sản phẩm — vì những người dùng hiểu bản chất thực sự của thay đổi là những người thực sự đạt được nó."
-        }
-      }
-    }
   },
   "PrivacyPage": {
     "title": "Chính sách bảo mật",
@@ -369,75 +252,6 @@
       "p1": "Thắc mắc quyền riêng tư: privacy@aviogroup.eco",
       "p2": "Địa chỉ bưu điện: Công ty TNHH Avio Group, Việt Nam (vui lòng email để nhận dòng địa chỉ phù hợp nếu cần cho thư chính thức).",
       "p3": "Câu hỏi chung không liên quan quyền riêng tư: hello@aviogroup.eco. Chúng tôi cố gắng xác nhận thư quyền riêng tư trong hai ngày làm việc."
-    }
-  },
-  "ProductsPage": {
-    "hero": {
-      "eyebrow": "VITARO",
-      "title": "Tìm gốc rễ. Đi đúng đường. Sống chuyển động.",
-      "subtitle": "Vitaro là nền tảng thay đổi hành vi giúp con người xác định gốc rễ của những thách thức và đi theo các lộ trình cá nhân hóa để tạo nên sự chuyển hóa lâu dài. Được xây dựng cho dài hạn, được thiết kế cho cuộc sống thực.",
-      "imageAlt": "Hình ảnh sản phẩm Vitaro gợi sự cân bằng và đà tiến"
-    },
-    "howItWorks": {
-      "title": "Vitaro hoạt động như thế nào",
-      "steps": {
-        "step1": {
-          "title": "01. Mô tả điều đang thách thức bạn",
-          "body": "Bạn bắt đầu với một câu hỏi mở duy nhất: điều gì đang làm cuộc sống của bạn khó khăn hơn ngay bây giờ? Vitaro lắng nghe không phán xét."
-        },
-        "step2": {
-          "title": "02. Khám phá gốc rễ",
-          "body": "Thông qua một cuộc trò chuyện có hướng dẫn kéo dài khoảng mười phút, Vitaro giúp bạn nhìn xa hơn triệu chứng bề mặt để thấy được mô thức bên dưới đang thực sự thúc đẩy hoàn cảnh của bạn."
-        },
-        "step3": {
-          "title": "03. Nhận lộ trình của bạn",
-          "body": "Dựa trên gốc rễ của bạn, bạn nhận được một lộ trình cá nhân hóa — một bản đồ rõ ràng theo từng ngày gồm những hành động nhỏ được thiết kế để hoàn thành chỉ trong vài phút mỗi ngày."
-        },
-        "step4": {
-          "title": "04. Xây nhịp của bạn",
-          "body": "Ngày qua ngày, với điểm neo buổi sáng, sự suy ngẫm buổi tối và sự đồng hành nhẹ nhàng, bạn xây dựng một nhịp điệu có thể duy trì kể cả khi động lực giảm xuống. Đây là nơi sự thay đổi thực sự diễn ra."
-        }
-      }
-    },
-    "principles": {
-      "title": "Sáu nguyên tắc. Một khuôn khổ cho cuộc sống cân bằng.",
-      "intro": "Mọi lộ trình của Vitaro được xây dựng xoay quanh sáu nguyên tắc phổ quát hiện diện trong mọi nền văn hóa, mọi thời đại và mọi triết lý sống có ý nghĩa. Đây không phải là những ý tưởng mới. Đây là những ý tưởng cũ, được áp dụng qua các công cụ hiện đại.",
-      "cards": {
-        "boundaries": {
-          "title": "Ranh giới",
-          "body": "Biết khi nào nói không — và khi nào nói có — là nền tảng của một cuộc sống thực sự thuộc về bạn."
-        },
-        "respect": {
-          "title": "Tôn trọng",
-          "body": "Cách bạn đối xử với chính mình, với người khác và với thế giới xung quanh đặt ra giới hạn cho mọi điều khác bạn xây dựng."
-        },
-        "mastery": {
-          "title": "Sự thuần thục",
-          "body": "Sự tự tin lâu bền không đến từ suy nghĩ tích cực. Nó đến từ việc trở nên giỏi hơn một cách rõ ràng ở những điều quan trọng."
-        },
-        "ownership": {
-          "title": "Trách nhiệm",
-          "body": "Nhận lấy phần trách nhiệm thuộc về mình — không nhiều hơn, không ít hơn — là con đường dẫn đến sự tự do thực sự."
-        },
-        "clarity": {
-          "title": "Sự rõ ràng",
-          "body": "Phần lớn nỗi khổ đến từ sự nhầm lẫn về những gì đang thực sự diễn ra. Sự rõ ràng là bước đầu tiên cho bất kỳ thay đổi nào."
-        },
-        "balance": {
-          "title": "Sự cân bằng",
-          "body": "Một cuộc sống thắng ở một khía cạnh và thua ở những khía cạnh khác không phải là cuộc sống chiến thắng. Chúng tôi xây dựng cho sự bền vững trên toàn bộ con người bạn."
-        }
-      }
-    },
-    "data": {
-      "title": "Dữ liệu của bạn, được xử lý với sự nghiêm túc xứng đáng.",
-      "p1": "Vitaro xử lý thông tin cá nhân mà về bản chất nhạy cảm hơn so với những gì phần lớn các ứng dụng thu thập. Chúng tôi nghiêm túc với trách nhiệm đó. Tất cả dữ liệu đều được mã hóa cả khi lưu trữ và khi truyền tải. Các cuộc trò chuyện liên quan đến nội dung cảm xúc nghiêm trọng được tự động xóa trong vòng một giờ. Chúng tôi không bán dữ liệu người dùng. Chúng tôi không huấn luyện các mô hình AI bên ngoài bằng nội dung của người dùng mà không có sự đồng thuận rõ ràng.",
-      "p2": "Bạn có toàn quyền kiểm soát thông tin của mình tại mọi thời điểm: bạn có thể xuất tất cả dữ liệu chúng tôi có về bạn dưới định dạng máy đọc được, hoặc xóa tài khoản và toàn bộ dữ liệu liên quan chỉ với một yêu cầu duy nhất. Chúng tôi tuân thủ GDPR và làm theo các thông lệ quốc tế tốt nhất về tối thiểu hóa dữ liệu, vị trí máy chủ theo khu vực và kiểm soát quyền truy cập."
-    },
-    "comingSoon": {
-      "title": "Sẽ ra mắt trên iOS và Android vào năm 2026.",
-      "body": "Vitaro hiện đang trong quá trình phát triển. Chúng tôi đang xây dựng cẩn thận, kiểm chứng với người dùng thực và đặt chất lượng lên trên tốc độ. Nếu bạn muốn trở thành một trong những người đầu tiên biết khi Vitaro ra mắt, vui lòng liên hệ với chúng tôi.",
-      "cta": "Liên hệ"
     }
   },
   "TermsPage": {

@@ -5,9 +5,6 @@ const base = "https://aviogroup.eco";
 
 const staticPaths = [
   "",
-  "/about",
-  "/products",
-  "/philosophy",
   "/contact",
   "/privacy-policy",
   "/terms-of-service",
