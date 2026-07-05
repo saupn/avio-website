@@ -103,7 +103,6 @@ export async function Footer() {
             >
               {t("helloEmail")}
             </a>
-            <p className="text-sm text-neutral-400">{t("country")}</p>
             <div className="flex items-center gap-3 pt-1">
               <LanguageSwitcher className="text-neutral-200" compact />
               <ThemeToggle />
