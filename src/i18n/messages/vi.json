@@ -324,8 +324,10 @@
     }
   },
   "ServicesPage": {
+    "typicalEngagementLabel": "Điểm khởi đầu điển hình",
     "layers": {
       "regulatory": {
+        "intro": "Mở một sân bay tại Việt Nam trước hết là một quá trình hồ sơ, rồi mới đến vận hành. Mỗi nhà ga, đường băng và quy trình an ninh đều phải được chứng minh trong hồ sơ mở cảng và bảo vệ qua các cơ quan quản lý — nay theo Luật Hàng không dân dụng 2025, một khung pháp lý gần như chưa có tiền lệ áp dụng trên thực tế. Chúng tôi chuẩn bị hồ sơ đó, quản lý quá trình chứng nhận, và đồng hành giữa dự án với cơ quan quản lý cho đến khi được cấp phép.",
         "deliverables": [
           "Chuẩn bị và quản lý hồ sơ mở cảng hàng không",
           "Hỗ trợ chứng nhận khai thác sân bay",
@@ -333,23 +335,28 @@
           "Làm việc với cơ quan quản lý và hỗ trợ kiểm tra, nghiệm thu",
           "Theo dõi, cập nhật quy định theo Luật 130/2025"
         ],
+        "typicalEngagement": "Thường bắt đầu bằng việc rà soát khoảng trống của hồ sơ hiện tại so với Luật 130/2025.",
         "whoFor": "Các hãng quốc tế đang triển khai hợp đồng tại Việt Nam, và các nhà đầu tư chuẩn bị đưa sân bay mới vào khai thác."
       },
       "operational": {
+        "intro": "Một nhà ga hoàn thiện chưa phải là một sân bay vận hành. Giữa lúc xây xong và chuyến bay đầu tiên là phần việc quyết định ngày mở cảng có trụ vững hay không — lập kế hoạch sẵn sàng khai thác, hệ thống tài liệu và quy trình chi phối mọi hoạt động, và chạy thử để diễn tập sân bay trong điều kiện thực tế. Chúng tôi xây dựng lớp vận hành đó, và khi cần, bố trí đội ngũ song ngữ đồng hành cùng chủ đầu tư đến ngày mở cảng.",
         "deliverables": [
           "Lập kế hoạch sẵn sàng khai thác và thử nghiệm vận hành",
           "Hệ thống tài liệu khai thác sân bay (tài liệu khai thác, quy trình SOP)",
           "Mô hình nguồn lực mùa cao điểm và chiến lược nhân sự đa sân bay",
           "Đánh giá độc lập mức độ sẵn sàng khai thác"
         ],
+        "typicalEngagement": "Thường bắt đầu bằng việc đánh giá mức độ sẵn sàng khai thác so với tiến độ mở cảng.",
         "whoFor": "Chủ đầu tư sân bay đang tiến tới ngày khai thác đầu tiên — hoặc một mùa cao điểm không được phép lỡ nhịp."
       },
       "workforce": {
+        "intro": "Một sân bay mới ở một địa phương chưa từng có sân bay cần hàng trăm nhân sự đạt chứng chỉ ngay trong ngày mở cảng, mà không có nguồn nhân lực tại chỗ để tuyển. Xây dựng đội ngũ ấy nghĩa là thiết kế tuyển dụng từ con số không, rồi đào tạo và cấp chứng chỉ cho các vị trí khai thác qua hệ thống đào tạo hàng không quốc gia. Chúng tôi hoạch định nhân sự, vận hành nguồn tuyển dụng, và chuyển giao năng lực cho chính đội ngũ của chủ đầu tư để sân bay có thể tự vận hành.",
         "deliverables": [
           "Thiết kế nguồn tuyển dụng cho sân bay mới",
           "Triển khai chương trình đào tạo có chứng chỉ qua hệ thống đào tạo hàng không quốc gia",
           "Chuyển giao năng lực cho đội ngũ khai thác của chủ đầu tư"
         ],
+        "typicalEngagement": "Thường bắt đầu bằng mô hình nhân sự và kế hoạch tuyển dụng cho ngày mở cảng mục tiêu.",
         "whoFor": "Các sân bay mới phải xây dựng đội ngũ khai thác đạt chứng chỉ từ con số không — tại những địa phương chưa từng có sân bay."
       }
     },

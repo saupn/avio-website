@@ -324,8 +324,10 @@
     }
   },
   "ServicesPage": {
+    "typicalEngagementLabel": "Typical engagement",
     "layers": {
       "regulatory": {
+        "intro": "Opening an airport in Vietnam is a documentary process before it is an operational one. Every terminal, runway and security procedure has to be evidenced in an airport-opening dossier and defended through the authorities — now under the 2025 Civil Aviation Law, a framework with almost no precedent in practice. We prepare that dossier, manage the certification process, and stand between the project and the regulator until the licence is granted.",
         "deliverables": [
           "Airport-opening dossier preparation and management",
           "Aerodrome certification support",
@@ -333,23 +335,28 @@
           "Authority liaison and inspection support",
           "Regulatory monitoring under Law 130/2025"
         ],
+        "typicalEngagement": "Typically begins with a gap assessment of the current dossier against Law 130/2025.",
         "whoFor": "International firms delivering mandates in Vietnam, and investors preparing a new airport for opening."
       },
       "operational": {
+        "intro": "A finished terminal is not a functioning airport. Between construction and first flight sits the work that decides whether opening day holds — operational readiness planning, the manuals and procedures that govern every process, and trials that rehearse the airport under real conditions. We build that operational layer and, where useful, embed bilingual teams alongside the owner through to opening.",
         "deliverables": [
           "Operational readiness planning and trials",
           "Airport operations documentation (manuals, SOPs)",
           "Peak-season resource modelling and multi-airport staffing strategies",
           "Independent operational readiness reviews"
         ],
+        "typicalEngagement": "Typically begins with an operational readiness assessment against the opening timeline.",
         "whoFor": "Airport owners approaching opening day — or a peak season they cannot afford to miss."
       },
       "workforce": {
+        "intro": "A new airport in a province that has never had one needs hundreds of certified staff on opening day, with no local pool to draw them from. Building that workforce means designing recruitment from zero, then training and certifying operational roles through the national aviation training system. We plan the staffing, run the pipeline, and transfer capability to the owner's own teams so the airport can run itself.",
         "deliverables": [
           "Recruitment pipeline design for new airports",
           "Certified training programme delivery through the national aviation training system",
           "Capability transfer for owner's operations teams"
         ],
+        "typicalEngagement": "Typically begins with a staffing model and recruitment plan for the target opening date.",
         "whoFor": "New airports that must build a certified operational workforce from zero — in provinces that have never had one."
       }
     },

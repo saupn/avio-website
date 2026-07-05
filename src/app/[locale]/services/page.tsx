@@ -56,7 +56,15 @@ export default async function ServicesPage({ params }: ServicesRouteProps) {
                     {tSummary(`${key}.title`)}
                   </h2>
                   <p className="mt-4 max-w-md text-base leading-relaxed text-neutral-600 md:text-lg dark:text-neutral-400">
-                    {tSummary(`${key}.summary`)}
+                    {t(`layers.${key}.intro`)}
+                  </p>
+                  <p className="mt-6 max-w-md text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
+                    <span className="font-sans text-xs font-semibold uppercase tracking-wider text-accent">
+                      {t("typicalEngagementLabel")}
+                    </span>
+                    <span className="mt-1 block">
+                      {t(`layers.${key}.typicalEngagement`)}
+                    </span>
                   </p>
                 </div>
                 <div>
