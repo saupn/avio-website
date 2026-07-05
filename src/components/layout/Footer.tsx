@@ -113,7 +113,6 @@ export async function Footer() {
 
         <div className="mt-12 border-t border-neutral-800 pt-8 text-xs text-neutral-500">
           <p>{t("copyrightEn")}</p>
-          <p className="mt-2">{t("copyrightVi")}</p>
         </div>
       </div>
     </footer>
