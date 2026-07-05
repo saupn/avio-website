@@ -71,19 +71,47 @@
         }
       }
     },
+    "theGap": {
+      "kicker": "Airport operations consulting in Vietnam — from licensing to opening day.",
+      "heading": "Vietnam builds airports. Nobody has been advising on how to run them.",
+      "p1": "For two decades, Vietnamese airport projects have had world-class design consultants. What they have never had is a domestic advisor for the harder half of the problem — turning a finished terminal into a licensed, staffed, smoothly running airport. That knowledge has lived inside one state operator, and in the careers of the people who built the system.",
+      "p2": "A wave of private airports is now arriving faster than that expertise can be rebuilt from scratch. Avio Group exists to close the gap — pairing the people who ran Vietnamese aviation with the international standards these new airports are being held to."
+    },
     "services": {
       "regulatory": {
         "title": "Regulatory & Licensing",
-        "summary": "Airport-opening dossiers, aerodrome certification and structured engagement with the Vietnamese authorities under the 2025 Law."
+        "summary": "Airport-opening dossiers, aerodrome certification and structured engagement with the Vietnamese authorities under the 2025 Law.",
+        "inPractice": "In practice: preparing the airport-opening dossier and carrying it through the authorities under Law 130/2025."
       },
       "operational": {
         "title": "Operational Delivery",
-        "summary": "Readiness planning, trials, documentation and embedded bilingual teams that take an airport from built to flying."
+        "summary": "Readiness planning, trials, documentation and embedded bilingual teams that take an airport from built to flying.",
+        "inPractice": "In practice: writing the operations manuals and running the trials that get an airport to opening day."
       },
       "workforce": {
         "title": "Workforce & Capability",
-        "summary": "Recruitment pipelines and certified training for the hundreds of operational staff every new airport needs."
+        "summary": "Recruitment pipelines and certified training for the hundreds of operational staff every new airport needs.",
+        "inPractice": "In practice: recruiting and certifying the hundreds of staff a new airport needs, through the national training system."
       }
+    },
+    "audiences": {
+      "heading": "Built for three kinds of partner.",
+      "internationalOperators": {
+        "title": "International operators & consultancies",
+        "body": "We are your local delivery layer — regulatory intelligence, embedded operations teams and workforce insight, at a Vietnamese cost base."
+      },
+      "investors": {
+        "title": "Airport investors & developers",
+        "body": "We take licensing, readiness and staffing off your critical path, with fees tied to the milestones that matter."
+      },
+      "financial": {
+        "title": "Financial institutions",
+        "body": "We assess the operational and licensing risk behind an airport loan — the half of the due diligence a financial model cannot cover."
+      }
+    },
+    "whyNow": {
+      "heading": "Why this matters now.",
+      "body": "Vietnam's new Civil Aviation Law took effect on 1 July 2026, resetting how airports are certified and operated. At the same moment, a pipeline of private airports — Phu Quoc's expansion, Phan Thiet, Con Dao, Rach Gia and more — is moving from plan to construction to opening, much of it against public deadlines. The next five years will be decided by execution on the ground, not by design on paper. That is the work we do."
     },
     "advisoryBench": {
       "body": "Backed by a senior advisory board drawn from the leadership of Vietnam's aviation system — airport operations, ground services, civil aviation administration, construction quality and aviation training.",

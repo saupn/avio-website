@@ -29,6 +29,9 @@ export async function ServiceLayers() {
                 <p className="mt-3 text-sm leading-relaxed text-neutral-600 dark:text-neutral-400">
                   {t(`${key}.summary`)}
                 </p>
+                <p className="mt-4 border-t border-neutral-200 pt-4 text-sm leading-relaxed text-neutral-700 dark:border-white/10 dark:text-neutral-300">
+                  {t(`${key}.inPractice`)}
+                </p>
               </div>
             </Reveal>
           ))}

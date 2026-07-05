@@ -71,19 +71,47 @@
         }
       }
     },
+    "theGap": {
+      "kicker": "Tư vấn khai thác sân bay tại Việt Nam — từ cấp phép đến ngày mở cảng.",
+      "heading": "Việt Nam xây sân bay. Nhưng chưa có ai tư vấn cách vận hành chúng.",
+      "p1": "Suốt hai thập kỷ, các dự án sân bay Việt Nam luôn có những đơn vị tư vấn thiết kế hàng đầu. Thứ chưa từng có là một đơn vị tư vấn trong nước cho nửa khó hơn của bài toán — biến một nhà ga đã hoàn thành thành một sân bay được cấp phép, đủ nhân lực và vận hành trơn tru. Tri thức đó lâu nay chỉ nằm trong một doanh nghiệp khai thác nhà nước, và trong sự nghiệp của những người đã xây dựng nên hệ thống.",
+      "p2": "Làn sóng sân bay tư nhân đang đến nhanh hơn tốc độ có thể đào tạo lại nguồn năng lực ấy từ đầu. Avio Group ra đời để lấp khoảng trống đó — kết nối những người từng vận hành ngành hàng không Việt Nam với các tiêu chuẩn quốc tế mà những sân bay mới này phải đáp ứng."
+    },
     "services": {
       "regulatory": {
         "title": "Cấp phép & Chứng nhận",
-        "summary": "Hồ sơ mở cảng, chứng nhận khai thác sân bay và làm việc bài bản với các cơ quan quản lý theo Luật 2025."
+        "summary": "Hồ sơ mở cảng, chứng nhận khai thác sân bay và làm việc bài bản với các cơ quan quản lý theo Luật 2025.",
+        "inPractice": "Trong thực tế: chuẩn bị hồ sơ mở cảng và theo suốt quá trình thẩm định của cơ quan quản lý theo Luật 130/2025."
       },
       "operational": {
         "title": "Triển khai Khai thác",
-        "summary": "Kế hoạch sẵn sàng khai thác, thử nghiệm vận hành, tài liệu khai thác và đội ngũ song ngữ đồng hành — đưa sân bay từ \"xây xong\" đến \"cất cánh\"."
+        "summary": "Kế hoạch sẵn sàng khai thác, thử nghiệm vận hành, tài liệu khai thác và đội ngũ song ngữ đồng hành — đưa sân bay từ \"xây xong\" đến \"cất cánh\".",
+        "inPractice": "Trong thực tế: biên soạn tài liệu khai thác và tổ chức chạy thử để đưa sân bay đến ngày mở cảng."
       },
       "workforce": {
         "title": "Nhân lực & Năng lực",
-        "summary": "Tuyển dụng và đào tạo có chứng chỉ cho hàng trăm nhân sự khai thác mà mỗi sân bay mới cần."
+        "summary": "Tuyển dụng và đào tạo có chứng chỉ cho hàng trăm nhân sự khai thác mà mỗi sân bay mới cần.",
+        "inPractice": "Trong thực tế: tuyển dụng và cấp chứng chỉ cho hàng trăm nhân sự một sân bay mới cần, qua hệ thống đào tạo quốc gia."
       }
+    },
+    "audiences": {
+      "heading": "Được xây dựng cho ba nhóm đối tác.",
+      "internationalOperators": {
+        "title": "Nhà khai thác & tư vấn quốc tế",
+        "body": "Chúng tôi là lớp triển khai bản địa của bạn — trí tuệ quy định, đội ngũ vận hành tại chỗ và hiểu biết nhân lực, với chi phí Việt Nam."
+      },
+      "investors": {
+        "title": "Nhà đầu tư & phát triển sân bay",
+        "body": "Chúng tôi gỡ cấp phép, sẵn sàng khai thác và nhân sự ra khỏi đường găng của bạn, với phí gắn theo các mốc quan trọng."
+      },
+      "financial": {
+        "title": "Tổ chức tài chính",
+        "body": "Chúng tôi đánh giá rủi ro vận hành và cấp phép phía sau một khoản vay sân bay — nửa phần thẩm định mà mô hình tài chính không thể bao quát."
+      }
+    },
+    "whyNow": {
+      "heading": "Vì sao thời điểm này quan trọng.",
+      "body": "Luật Hàng không dân dụng mới của Việt Nam có hiệu lực từ ngày 01/7/2026, thiết lập lại cách sân bay được chứng nhận và khai thác. Cùng lúc đó, một loạt sân bay tư nhân — mở rộng Phú Quốc, Phan Thiết, Côn Đảo, Rạch Giá và nhiều dự án khác — đang đi từ quy hoạch đến xây dựng đến khai thác, phần lớn gắn với những thời hạn công khai. Năm năm tới sẽ được quyết định bằng việc triển khai trên thực địa, không phải bằng thiết kế trên giấy. Đó chính là công việc của chúng tôi."
     },
     "advisoryBench": {
       "body": "Đồng hành cùng Hội đồng cố vấn cấp cao quy tụ các lãnh đạo từ hệ thống hàng không Việt Nam — khai thác cảng, phục vụ mặt đất, quản lý nhà nước về hàng không, chất lượng xây dựng và đào tạo hàng không.",
