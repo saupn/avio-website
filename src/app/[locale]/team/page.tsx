@@ -45,6 +45,11 @@ export default async function TeamPage({ params }: TeamRouteProps) {
 
       <section className="py-16 md:py-24">
         <Container>
+          <Reveal className="mb-12 max-w-3xl border-l-2 border-accent pl-6 md:mb-14">
+            <p className="text-base leading-relaxed text-neutral-700 md:text-lg dark:text-neutral-300">
+              {t("framing")}
+            </p>
+          </Reveal>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             {expertiseKeys.map((key, index) => (
               <Reveal className="h-full" delay={index * 0.06} key={key}>
