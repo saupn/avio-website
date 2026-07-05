@@ -411,6 +411,15 @@
   },
   "InsightsPage": {
     "intro": "Ra mắt mùa thu này: \"Sân bay tư nhân Việt Nam — Khoảng trống khai thác\", báo cáo thị trường hợp tác cùng đối tác nghiên cứu hàng không quốc tế. Để lại email để nhận báo cáo khi phát hành.",
+    "reportCovers": {
+      "heading": "Báo cáo sẽ bao gồm:",
+      "items": [
+        "Danh mục các dự án sân bay tư nhân và những gì mỗi dự án cần để đi vào khai thác",
+        "Những thay đổi của Luật Hàng không dân dụng 2025 đối với chứng nhận và khai thác sân bay",
+        "Khoảng trống nhân lực khai thác — và cách các sân bay mới đang bố trí nhân sự để bù đắp",
+        "Vị trí của các nhà khai thác, nhà đầu tư và bên cho vay quốc tế trong bối cảnh mới"
+      ]
+    },
     "form": {
       "success": "Cảm ơn bạn — báo cáo sẽ đến với bạn sớm nhất.",
       "email": "Email",

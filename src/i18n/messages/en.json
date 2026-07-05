@@ -411,6 +411,15 @@
   },
   "InsightsPage": {
     "intro": "Coming this autumn: \"Vietnam Private Airports — The Operations Gap\", a joint market report with an international aviation research partner. Leave your email to receive it on release.",
+    "reportCovers": {
+      "heading": "The report will cover:",
+      "items": [
+        "The private-airport pipeline and what each project needs to reach operation",
+        "What the 2025 Civil Aviation Law changes for airport certification and operations",
+        "The operational talent gap — and how new airports are staffing against it",
+        "Where international operators, investors and lenders fit in the new landscape"
+      ]
+    },
     "form": {
       "success": "Thank you — the report will reach you first.",
       "email": "Email",
