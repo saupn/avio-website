@@ -22,6 +22,9 @@ export default async function InsightsPage({ params }: InsightsRouteProps) {
     <section className="py-20 md:py-28 lg:py-32">
       <Container>
         <div className="max-w-2xl space-y-8">
+          <h1 className="font-heading text-3xl font-semibold tracking-tight text-balance text-foreground md:text-4xl lg:text-5xl">
+            {t("heading")}
+          </h1>
           <p className="text-lg font-normal leading-relaxed text-neutral-700 md:text-xl">
             {t("intro")}
           </p>

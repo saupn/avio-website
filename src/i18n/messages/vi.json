@@ -53,7 +53,8 @@
       "title": "Đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam.",
       "subtitle": "Chúng tôi giúp các tiêu chuẩn quốc tế triển khai được tại Việt Nam — cấp phép, vận hành và nhân lực, cho làn sóng sân bay tư nhân mới của đất nước.",
       "primaryCta": "Hợp tác với chúng tôi",
-      "secondaryCta": "Dịch vụ"
+      "secondaryCta": "Dịch vụ",
+      "imageAlt": "Logo Avio Group gắn trên mặt tiền một tòa nhà hiện đại trên nền trời xanh."
     },
     "marketMoment": {
       "stats": {
@@ -135,32 +136,32 @@
     "defaultTitle": "Avio Group — Tư vấn khai thác sân bay tại Việt Nam",
     "defaultDescription": "Đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam. Chúng tôi giúp các tiêu chuẩn quốc tế triển khai được — cấp phép & chứng nhận, triển khai khai thác và nhân lực & năng lực cho các sân bay tư nhân mới.",
     "home": {
-      "title": "Tư vấn khai thác sân bay",
-      "description": "Đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam — cấp phép & chứng nhận, triển khai khai thác và nhân lực & năng lực cho làn sóng sân bay tư nhân mới của đất nước."
+      "title": "Avio Group — Tư vấn Khai thác Sân bay, Việt Nam",
+      "description": "Đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam. Cấp phép, sẵn sàng khai thác và nhân lực cho các sân bay tư nhân mới."
     },
     "contact": {
-      "title": "Liên hệ",
-      "description": "Đang phát triển hoặc đầu tư một sân bay tại Việt Nam? Hãy trao đổi với Avio Group về cấp phép, sẵn sàng khai thác và nhân lực."
+      "title": "Liên hệ — Hợp tác cùng Avio Group | Tư vấn Sân bay",
+      "description": "Đang phát triển hoặc đầu tư một sân bay tại Việt Nam? Hãy trao đổi với đơn vị tư vấn khai thác sân bay đầu tiên của Việt Nam."
     },
     "privacy": {
-      "title": "Chính sách bảo mật",
+      "title": "Chính sách bảo mật | Avio Group",
       "description": "Cách Avio Group xử lý thông tin thu thập qua aviogroup.eco: thu thập, sử dụng, chia sẻ, bảo mật, lưu trữ và quyền của bạn."
     },
     "terms": {
-      "title": "Điều khoản dịch vụ",
+      "title": "Điều khoản dịch vụ | Avio Group",
       "description": "Điều khoản sử dụng website Avio Group: sử dụng chấp nhận được, sở hữu trí tuệ, miễn trừ tư vấn, trách nhiệm và luật áp dụng tại Việt Nam."
     },
     "services": {
-      "title": "Dịch vụ",
-      "description": "Ba lớp dịch vụ cho các sân bay mới tại Việt Nam: cấp phép & chứng nhận, triển khai khai thác, và nhân lực & năng lực — cùng các mô hình hợp tác, tư vấn trực tiếp và tư vấn kỹ thuật cho bên cho vay."
+      "title": "Dịch vụ — Cấp phép, Sẵn sàng Khai thác & Nhân lực | Avio Group",
+      "description": "Trí tuệ quy định, triển khai khai thác và năng lực nhân lực cho các sân bay tại Việt Nam theo Luật Hàng không 2025."
     },
     "team": {
-      "title": "Đội ngũ",
-      "description": "Nơi quy tụ các chuyên gia hàng không hàng đầu Việt Nam — nhà chức trách, nhà khai thác, nhà đầu tư, phục vụ mặt đất, chất lượng xây dựng và đào tạo — đồng hành cùng các sân bay mới trên cả nước."
+      "title": "Đội ngũ Chuyên gia — Lãnh đạo Hàng không Cấp cao | Avio Group",
+      "description": "Nơi quy tụ các chuyên gia hàng không cấp cao nhất Việt Nam — nhà chức trách, nhà khai thác, nhà đầu tư, mặt đất, thiết kế và đào tạo."
     },
     "insights": {
-      "title": "Góc nhìn",
-      "description": "\"Sân bay tư nhân Việt Nam — Khoảng trống khai thác\": báo cáo thị trường sắp ra mắt. Để lại email để nhận báo cáo khi phát hành."
+      "title": "Góc nhìn — Báo cáo Sân bay Tư nhân Việt Nam | Avio Group",
+      "description": "Báo cáo thị trường sắp ra mắt về làn sóng sân bay tư nhân và khoảng trống khai thác tại Việt Nam. Đăng ký để nhận báo cáo."
     }
   },
   "Nav": {
@@ -410,6 +411,7 @@
     "regionalPanel": "Hội đồng cố vấn khu vực gồm các cựu lãnh đạo cấp cao từ những nhà khai thác sân bay lớn tại Đông Nam Á."
   },
   "InsightsPage": {
+    "heading": "Sân bay tư nhân Việt Nam — Khoảng trống khai thác",
     "intro": "Ra mắt mùa thu này: \"Sân bay tư nhân Việt Nam — Khoảng trống khai thác\", báo cáo thị trường hợp tác cùng đối tác nghiên cứu hàng không quốc tế. Để lại email để nhận báo cáo khi phát hành.",
     "reportCovers": {
       "heading": "Báo cáo sẽ bao gồm:",

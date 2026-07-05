@@ -63,16 +63,23 @@ export default async function LocaleLayout({
 
   const organizationSchema = {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": ["Organization", "ProfessionalService"],
     name: "Avio Group Company Limited",
     url: "https://aviogroup.eco",
     logo: "https://aviogroup.eco/images/logo/avio-logo.svg",
-    description: t("defaultDescription"),
+    description: t("home.description"),
     address: {
       "@type": "PostalAddress",
       addressLocality: "Quang Ninh",
       addressCountry: "VN",
     },
+    sameAs: [],
+    knowsAbout: [
+      "Airport operations",
+      "Airport certification",
+      "ORAT",
+      "Aviation regulation Vietnam",
+    ],
     identifier: {
       "@type": "PropertyValue",
       propertyID: "DUNS",

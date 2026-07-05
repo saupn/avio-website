@@ -53,7 +53,8 @@
       "title": "Vietnam's first airport operations advisory.",
       "subtitle": "We make international standards deliverable in Vietnam — licensing, operations and workforce, for the country's new wave of private airports.",
       "primaryCta": "Partner with us",
-      "secondaryCta": "Our services"
+      "secondaryCta": "Our services",
+      "imageAlt": "The Avio Group wordmark mounted on the facade of a modern building against a blue sky."
     },
     "marketMoment": {
       "stats": {
@@ -135,32 +136,32 @@
     "defaultTitle": "Avio Group — Airport Operations Advisory in Vietnam",
     "defaultDescription": "Vietnam's first airport operations advisory. We make international standards deliverable — regulatory & licensing, operational delivery and workforce capability for the country's new private airports.",
     "home": {
-      "title": "Airport Operations Advisory",
-      "description": "Vietnam's first airport operations advisory — regulatory & licensing, operational delivery and workforce capability for the country's new wave of private airports."
+      "title": "Avio Group — Airport Operations Advisory, Vietnam",
+      "description": "Vietnam's first airport operations advisory. Licensing, operational readiness and workforce for the country's new private airports."
     },
     "contact": {
-      "title": "Contact",
-      "description": "Building or backing an airport in Vietnam? Talk to Avio Group about licensing, operational readiness and workforce."
+      "title": "Contact — Partner with Avio Group | Airport Advisory Vietnam",
+      "description": "Building or backing an airport in Vietnam? Talk to Vietnam's first airport operations advisory."
     },
     "privacy": {
-      "title": "Privacy Policy",
+      "title": "Privacy Policy | Avio Group",
       "description": "How Avio Group handles information collected through aviogroup.eco: what we collect, how we use it, sharing, security, retention and your rights."
     },
     "terms": {
-      "title": "Terms of Service",
+      "title": "Terms of Service | Avio Group",
       "description": "Terms for using the Avio Group website: acceptable use, intellectual property, the no-advice disclaimer, liability, and governing law in Vietnam."
     },
     "services": {
-      "title": "Services",
-      "description": "Three service layers for new airports in Vietnam: regulatory & licensing, operational delivery, and workforce & capability — plus teaming, direct advisory and lender's technical advisor models."
+      "title": "Services — Airport Licensing, Readiness & Workforce | Avio Group",
+      "description": "Regulatory intelligence, operational delivery and workforce capability for airports in Vietnam — under the 2025 Civil Aviation Law."
     },
     "team": {
-      "title": "Team",
-      "description": "A collective of Vietnam's leading aviation experts — regulators, operators, investors, ground services, construction quality and training — advising new airports across the country."
+      "title": "Our Experts — Vietnam's Senior Aviation Leaders | Avio Group",
+      "description": "A collective of Vietnam's most senior aviation experts — regulators, operators, investors, ground services, design and training."
     },
     "insights": {
-      "title": "Insights",
-      "description": "\"Vietnam Private Airports — The Operations Gap\": an upcoming joint market report. Leave your email to receive it on release."
+      "title": "Insights — Vietnam Private Airports Report | Avio Group",
+      "description": "An upcoming market report on Vietnam's private-airport wave and the operations gap. Join the waitlist to receive it on release."
     }
   },
   "Nav": {
@@ -410,6 +411,7 @@
     "regionalPanel": "A regional advisory panel of retired senior leaders from major Southeast Asian airport operators."
   },
   "InsightsPage": {
+    "heading": "Vietnam Private Airports — The Operations Gap",
     "intro": "Coming this autumn: \"Vietnam Private Airports — The Operations Gap\", a joint market report with an international aviation research partner. Leave your email to receive it on release.",
     "reportCovers": {
       "heading": "The report will cover:",

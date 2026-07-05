@@ -13,7 +13,7 @@ export async function Hero() {
   return (
     <section className="relative isolate overflow-hidden border-b border-neutral-200 dark:border-white/10">
       <Image
-        alt=""
+        alt={t("imageAlt")}
         className="object-cover object-[72%_center] md:object-center"
         fill
         priority

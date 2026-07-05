@@ -36,17 +36,23 @@ export async function createLocalizedMetadata(options: {
   const title = t(`${pageNs}.title`);
   const description = t(`${pageNs}.description`);
   const canonical = `${base.href}${locale}${path}`;
+  const enUrl = `${base.href}en${path}`;
+  const viUrl = `${base.href}vi${path}`;
   const ogImage =
     locale === "vi" ? "/images/og/og-image-vi.jpg" : "/images/og/og-image-en.jpg";
+  const ogLocale = locale === "vi" ? "vi_VN" : "en_US";
+  const ogAlternate = locale === "vi" ? "en_US" : "vi_VN";
 
   return {
-    title,
+    // Titles below are full titles; bypass the parent `%s | Avio Group` template.
+    title: { absolute: title },
     description,
     alternates: {
       canonical,
       languages: {
-        en: `${base.href}en${path}`,
-        vi: `${base.href}vi${path}`,
+        en: enUrl,
+        vi: viUrl,
+        "x-default": enUrl,
       },
     },
     openGraph: {
@@ -62,7 +68,8 @@ export async function createLocalizedMetadata(options: {
           alt: title,
         },
       ],
-      locale,
+      locale: ogLocale,
+      alternateLocale: [ogAlternate],
       type: "website",
     },
     twitter: {
