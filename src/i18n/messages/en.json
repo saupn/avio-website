@@ -36,7 +36,7 @@
     "legalHeading": "Legal",
     "touchHeading": "Get in touch",
     "helloEmail": "contact@aviogroup.eco",
-    "country": "Quang Ninh, Viet Nam",
+    "country": "Quang Ninh, Vietnam",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "dataProtection": "Data Protection",
@@ -52,8 +52,8 @@
   },
   "Home": {
     "hero": {
-      "title": "Viet Nam's first airport operations advisory.",
-      "subtitle": "We make international standards deliverable in Viet Nam — licensing, operations and workforce, for the country's new wave of private airports.",
+      "title": "Vietnam's first airport operations advisory.",
+      "subtitle": "We make international standards deliverable in Vietnam — licensing, operations and workforce, for the country's new wave of private airports.",
       "primaryCta": "Partner with us",
       "secondaryCta": "Our services"
     },
@@ -61,7 +61,7 @@
       "stats": {
         "airports": {
           "value": "5–7",
-          "label": "new private airports expected in Viet Nam within five years"
+          "label": "new private airports expected in Vietnam within five years"
         },
         "law": {
           "value": "1 Jul 2026",
@@ -88,11 +88,11 @@
       }
     },
     "advisoryBench": {
-      "body": "Backed by a senior advisory board drawn from the leadership of Viet Nam's aviation system — airport operations, ground services, civil aviation administration, construction quality and aviation training.",
+      "body": "Backed by a senior advisory board drawn from the leadership of Vietnam's aviation system — airport operations, ground services, civil aviation administration, construction quality and aviation training.",
       "subline": "Advisor profiles available to partners under NDA."
     },
     "ctaBand": {
-      "text": "Building or backing an airport in Viet Nam? Let's talk.",
+      "text": "Building or backing an airport in Vietnam? Let's talk.",
       "button": "Contact us"
     },
     "experts": {
@@ -106,15 +106,15 @@
   },
   "Metadata": {
     "siteName": "Avio Group",
-    "defaultTitle": "Avio Group — Airport Operations Advisory in Viet Nam",
-    "defaultDescription": "Viet Nam's first airport operations advisory. We make international standards deliverable — regulatory & licensing, operational delivery and workforce capability for the country's new private airports.",
+    "defaultTitle": "Avio Group — Airport Operations Advisory in Vietnam",
+    "defaultDescription": "Vietnam's first airport operations advisory. We make international standards deliverable — regulatory & licensing, operational delivery and workforce capability for the country's new private airports.",
     "home": {
       "title": "Airport Operations Advisory",
-      "description": "Viet Nam's first airport operations advisory — regulatory & licensing, operational delivery and workforce capability for the country's new wave of private airports."
+      "description": "Vietnam's first airport operations advisory — regulatory & licensing, operational delivery and workforce capability for the country's new wave of private airports."
     },
     "contact": {
       "title": "Contact",
-      "description": "Building or backing an airport in Viet Nam? Talk to Avio Group about licensing, operational readiness and workforce."
+      "description": "Building or backing an airport in Vietnam? Talk to Avio Group about licensing, operational readiness and workforce."
     },
     "privacy": {
       "title": "Privacy Policy",
@@ -122,15 +122,15 @@
     },
     "terms": {
       "title": "Terms of Service",
-      "description": "Terms for using the Avio Group website: acceptable use, intellectual property, the no-advice disclaimer, liability, and governing law in Viet Nam."
+      "description": "Terms for using the Avio Group website: acceptable use, intellectual property, the no-advice disclaimer, liability, and governing law in Vietnam."
     },
     "services": {
       "title": "Services",
-      "description": "Three service layers for new airports in Viet Nam: regulatory & licensing, operational delivery, and workforce & capability — plus teaming, direct advisory and lender's technical advisor models."
+      "description": "Three service layers for new airports in Vietnam: regulatory & licensing, operational delivery, and workforce & capability — plus teaming, direct advisory and lender's technical advisor models."
     },
     "team": {
       "title": "Team",
-      "description": "A collective of Viet Nam's leading aviation experts — regulators, operators, investors, ground services, construction quality and training — advising new airports across the country."
+      "description": "A collective of Vietnam's leading aviation experts — regulators, operators, investors, ground services, construction quality and training — advising new airports across the country."
     },
     "insights": {
       "title": "Insights",
@@ -155,7 +155,7 @@
     "updatedDate": "July 5, 2026",
     "intro": {
       "title": "Introduction",
-      "p1": "Avio Group Company Limited (\"Avio Group\", \"we\", \"us\") is an airport operations advisory registered in Viet Nam and identified by D-U-N-S Number 626314981. We operate the corporate website at aviogroup.eco.",
+      "p1": "Avio Group Company Limited (\"Avio Group\", \"we\", \"us\") is an airport operations advisory registered in Vietnam and identified by D-U-N-S Number 626314981. We operate the corporate website at aviogroup.eco.",
       "p2": "This policy explains what information we collect through this website, how we use it, and the choices you have. It covers the website only; client engagements are governed by the separate agreements we sign with each partner.",
       "p3": "If you have any questions about this policy, contact us at contact@aviogroup.eco."
     },
@@ -203,7 +203,7 @@
     },
     "transfers": {
       "title": "International data transfers",
-      "p1": "We are based in Viet Nam and serve international partners. Information you submit may be processed outside your country by our service providers.",
+      "p1": "We are based in Vietnam and serve international partners. Information you submit may be processed outside your country by our service providers.",
       "p2": "Where data is transferred across borders, we rely on providers that offer recognised safeguards such as standard contractual clauses.",
       "p3": "Contact us if you have questions about where your information is processed."
     },
@@ -222,7 +222,7 @@
     "contact": {
       "title": "Contact us",
       "p1": "For any privacy question or request, email contact@aviogroup.eco.",
-      "p2": "Postal correspondence: Avio Group Company Limited, Quang Ninh, Viet Nam.",
+      "p2": "Postal correspondence: Avio Group Company Limited, Quang Ninh, Vietnam.",
       "p3": "We aim to acknowledge privacy enquiries within a reasonable time."
     }
   },
@@ -238,7 +238,7 @@
     },
     "services": {
       "title": "2. About this website",
-      "p1": "This website provides general information about Avio Group's airport operations advisory services in Viet Nam.",
+      "p1": "This website provides general information about Avio Group's airport operations advisory services in Vietnam.",
       "p2": "The website is informational. It does not itself create any advisory, consulting or contractual relationship; any engagement is governed by a separate written agreement.",
       "p3": "We may change, suspend or discontinue parts of the website at any time."
     },
@@ -262,7 +262,7 @@
     },
     "noAdvice": {
       "title": "6. No professional advice",
-      "disclaimerBold": "The information on this website is general in nature and is not regulatory, legal, financial or operational advice for any specific airport, project or situation. Aviation licensing and operations depend on the facts, the jurisdiction and current regulation, including Viet Nam's Civil Aviation Law 130/2025. Do not act on the basis of website content alone; obtain advice tailored to your circumstances under a formal engagement before making decisions.",
+      "disclaimerBold": "The information on this website is general in nature and is not regulatory, legal, financial or operational advice for any specific airport, project or situation. Aviation licensing and operations depend on the facts, the jurisdiction and current regulation, including Vietnam's Civil Aviation Law 130/2025. Do not act on the basis of website content alone; obtain advice tailored to your circumstances under a formal engagement before making decisions.",
       "p2": "Any statements about outcomes, timelines or the market are for general context and are not guarantees.",
       "p3": "Avio Group is not responsible for decisions taken solely in reliance on this website."
     },
@@ -286,14 +286,14 @@
     },
     "law": {
       "title": "10. Governing law",
-      "p1": "These terms are governed by the laws of Viet Nam, without regard to conflict-of-law rules.",
-      "p2": "The competent courts of Viet Nam have jurisdiction, subject to any mandatory rights you have where you reside.",
+      "p1": "These terms are governed by the laws of Vietnam, without regard to conflict-of-law rules.",
+      "p2": "The competent courts of Vietnam have jurisdiction, subject to any mandatory rights you have where you reside.",
       "p3": "If any provision is found unenforceable, the remaining provisions continue in effect."
     },
     "contact": {
       "title": "11. Contact",
       "p1": "Questions about these terms: contact@aviogroup.eco.",
-      "p2": "Avio Group Company Limited, Quang Ninh, Viet Nam. D-U-N-S 626314981.",
+      "p2": "Avio Group Company Limited, Quang Ninh, Vietnam. D-U-N-S 626314981.",
       "p3": "We publish our corporate verification details to help partners confirm our identity."
     }
   },
@@ -307,7 +307,7 @@
           "Authority liaison and inspection support",
           "Regulatory monitoring under Law 130/2025"
         ],
-        "whoFor": "International firms delivering mandates in Viet Nam, and investors preparing a new airport for opening."
+        "whoFor": "International firms delivering mandates in Vietnam, and investors preparing a new airport for opening."
       },
       "operational": {
         "deliverables": [
@@ -338,31 +338,31 @@
       },
       "lenderAdvisor": {
         "title": "Lender's technical advisor",
-        "body": "Independent operational and licensing risk assessment for banks financing airport assets in Viet Nam."
+        "body": "Independent operational and licensing risk assessment for banks financing airport assets in Vietnam."
       }
     }
   },
   "TeamPage": {
     "intro": {
-      "heading": "A collective of Viet Nam's leading aviation experts.",
+      "heading": "A collective of Vietnam's leading aviation experts.",
       "body": "Avio Group brings together senior professionals from every side of an airport project — people who have written the regulations, run the operations, and delivered the investments. Expert profiles are shared with partners under NDA and will be published here as engagements are announced."
     },
     "expertise": {
       "regulators": {
         "title": "Regulators",
-        "body": "Former senior officials of Viet Nam's civil aviation administration — airports, flight operations and airport authorities."
+        "body": "Former senior officials of Vietnam's civil aviation administration — airports, flight operations and airport authorities."
       },
       "operators": {
         "title": "Operators",
-        "body": "Leaders who have run international airports in Viet Nam, from opening day to peak-season operations."
+        "body": "Leaders who have run international airports in Vietnam, from opening day to peak-season operations."
       },
       "investors": {
         "title": "Investors",
-        "body": "Professionals who have delivered airport infrastructure investments in Viet Nam and abroad."
+        "body": "Professionals who have delivered airport infrastructure investments in Vietnam and abroad."
       },
       "groundServices": {
         "title": "Ground Services",
-        "body": "Former leadership of Viet Nam's leading ground services companies."
+        "body": "Former leadership of Vietnam's leading ground services companies."
       },
       "constructionQuality": {
         "title": "Construction Quality & Design",

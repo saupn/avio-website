@@ -4,7 +4,7 @@ import { Container } from "@/components/ui/Container";
 
 const statKeys = ["airports", "law", "firms"] as const;
 
-/** Home "market moment": three gold stat cards on Viet Nam's new-airport wave. */
+/** Home "market moment": three gold stat cards on Vietnam's new-airport wave. */
 export async function MarketMoment() {
   const t = await getTranslations("Home.marketMoment.stats");
 
